@@ -50,7 +50,7 @@
         "wk:page":"Kiipu"
     },
     "wof:country":"FI",
-    "wof:geomhash":"2519f1183a7644550fffaebba3d04911",
+    "wof:geomhash":"372b539e75022e325b4ae74db5204dea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,5 +79,5 @@
     23.41237000000001,
     60.84319
 ],
-  "geometry": {"coordinates":[23.41237000000001,60.84319],"type":"Point"}
+  "geometry": {"coordinates":[23.41237,60.84319],"type":"Point"}
 }

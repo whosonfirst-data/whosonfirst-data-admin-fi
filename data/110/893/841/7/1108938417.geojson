@@ -43,7 +43,7 @@
     "wof:concordances":{},
     "wof:country":"FI",
     "wof:created":1491360366,
-    "wof:geomhash":"2d0a6937f15261a58287e15e0b22d7ed",
+    "wof:geomhash":"79f2e6e999373fd46a78ca22533b421c",
     "wof:hierarchy":[
         {
             "borough_id":890536881,
@@ -75,5 +75,5 @@
     25.12056401411385,
     60.22557984989563
 ],
-  "geometry": {"coordinates":[25.12056401411385,60.22557984989563],"type":"Point"}
+  "geometry": {"coordinates":[25.120564,60.22558],"type":"Point"}
 }

@@ -53,7 +53,7 @@
         "wk:page":"Smedsby"
     },
     "wof:country":"FI",
-    "wof:geomhash":"54fedca8d99a5e3b76b47a83b64e663f",
+    "wof:geomhash":"c8cf7e4641221939cfdf5794a4126fba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     21.7,
     63.11666999999999
 ],
-  "geometry": {"coordinates":[21.7,63.11666999999999],"type":"Point"}
+  "geometry": {"coordinates":[21.7,63.11667],"type":"Point"}
 }

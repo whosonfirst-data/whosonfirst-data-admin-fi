@@ -65,7 +65,7 @@
         "wk:page":"S%C3%A4%C3%A4minki"
     },
     "wof:country":"FI",
-    "wof:geomhash":"7140a600aefe812103cf8855127bb6ac",
+    "wof:geomhash":"45ae8a50ccf23bbbde5754f68cfdb4b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,5 +94,5 @@
     28.83333,
     61.86666999999999
 ],
-  "geometry": {"coordinates":[28.83333,61.86666999999999],"type":"Point"}
+  "geometry": {"coordinates":[28.83333,61.86667],"type":"Point"}
 }

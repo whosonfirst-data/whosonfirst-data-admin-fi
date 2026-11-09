@@ -80,7 +80,7 @@
         "wk:page":"Lokka_Reservoir"
     },
     "wof:country":"FI",
-    "wof:geomhash":"6cec2e4f367213f61afa922595233a8a",
+    "wof:geomhash":"388e1fd46b6ec5b8d8f095e862f7a9eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -109,5 +109,5 @@
     27.73414,
     67.81503000000001
 ],
-  "geometry": {"coordinates":[27.73414,67.81503000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.73414,67.81503],"type":"Point"}
 }

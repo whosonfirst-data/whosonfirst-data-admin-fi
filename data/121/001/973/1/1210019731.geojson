@@ -56,7 +56,7 @@
         "wk:page":"Ter%C3%A4srautela"
     },
     "wof:country":"FI",
-    "wof:geomhash":"f3a4159336f9c75d2c063c9c2fd8b247",
+    "wof:geomhash":"b687b5a726e23dd19916e15d80f44dfa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     22.23717000000001,
     60.47664
 ],
-  "geometry": {"coordinates":[22.23717000000001,60.47664],"type":"Point"}
+  "geometry": {"coordinates":[22.23717,60.47664],"type":"Point"}
 }

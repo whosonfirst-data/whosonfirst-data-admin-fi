@@ -50,7 +50,7 @@
         "wk:page":"Aimala"
     },
     "wof:country":"FI",
-    "wof:geomhash":"255e06404589e6f42634995a650ce14a",
+    "wof:geomhash":"848a2a61d517aab02c1bfaee2ab33a4a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,5 +79,5 @@
     23.71674,
     61.33329000000001
 ],
-  "geometry": {"coordinates":[23.71674,61.33329000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.71674,61.33329],"type":"Point"}
 }

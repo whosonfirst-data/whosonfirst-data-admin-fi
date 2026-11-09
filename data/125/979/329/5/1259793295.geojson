@@ -50,7 +50,7 @@
         "wk:page":"Ylike"
     },
     "wof:country":"FI",
-    "wof:geomhash":"38fcff1f0cd94f77b01722d4bf488b1a",
+    "wof:geomhash":"0f17a29554f913f9181de1e3c18b3123",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,5 +79,5 @@
     25.86176,
     60.38523000000001
 ],
-  "geometry": {"coordinates":[25.86176,60.38523000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.86176,60.38523],"type":"Point"}
 }

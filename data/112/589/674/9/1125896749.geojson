@@ -59,7 +59,7 @@
     },
     "wof:country":"FI",
     "wof:created":1497295608,
-    "wof:geomhash":"b9a8c6009dff5a0b27178cbce396bb48",
+    "wof:geomhash":"0cfa87ca42bcba1849704b93f9c5b663",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     23.8084095,
     64.2354765
 ],
-  "geometry": {"coordinates":[23.8084095,64.2354765],"type":"Point"}
+  "geometry": {"coordinates":[23.80841,64.235477],"type":"Point"}
 }

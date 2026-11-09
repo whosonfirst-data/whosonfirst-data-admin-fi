@@ -71,7 +71,7 @@
         "wk:page":"Vehkalahti"
     },
     "wof:country":"FI",
-    "wof:geomhash":"62fec139e166086f1fb57e0762e66588",
+    "wof:geomhash":"db8389e71309f2f5d477640b3962babe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,5 +100,5 @@
     27.25,
     60.61666999999999
 ],
-  "geometry": {"coordinates":[27.25,60.61666999999999],"type":"Point"}
+  "geometry": {"coordinates":[27.25,60.61667],"type":"Point"}
 }

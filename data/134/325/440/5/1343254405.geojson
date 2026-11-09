@@ -71,7 +71,7 @@
         "wk:page":"Messukyl%C3%A4"
     },
     "wof:country":"FI",
-    "wof:geomhash":"a1613a16b2dc6ca189bfccdce6607d8f",
+    "wof:geomhash":"84767631ff370483f48a90648c64f915",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,5 +100,5 @@
     23.84222,
     61.48546999999999
 ],
-  "geometry": {"coordinates":[23.84222,61.48546999999999],"type":"Point"}
+  "geometry": {"coordinates":[23.84222,61.48547],"type":"Point"}
 }

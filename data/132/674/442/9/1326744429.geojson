@@ -57,7 +57,7 @@
         "wk:page":"L%C3%A4nsim%C3%A4ki"
     },
     "wof:country":"FI",
-    "wof:geomhash":"f6e76f15b8351ca5e1a98b46fffe2550",
+    "wof:geomhash":"cf21ace9ce884000454ea01f874c2331",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     25.11775,
     60.24633000000001
 ],
-  "geometry": {"coordinates":[25.11775,60.24633000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.11775,60.24633],"type":"Point"}
 }

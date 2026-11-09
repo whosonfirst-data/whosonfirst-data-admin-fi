@@ -68,7 +68,7 @@
         "wk:page":"Pit%C3%A4j%C3%A4nm%C3%A4ki"
     },
     "wof:country":"FI",
-    "wof:geomhash":"6cbe90663b7de2c4588c6bd1d80d0109",
+    "wof:geomhash":"442c08db6e41abdd1a4ca3e152e625b4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,5 +97,5 @@
     24.86103,
     60.22286999999999
 ],
-  "geometry": {"coordinates":[24.86103,60.22286999999999],"type":"Point"}
+  "geometry": {"coordinates":[24.86103,60.22287],"type":"Point"}
 }

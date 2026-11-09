@@ -53,7 +53,7 @@
         "wk:page":"Tuurala"
     },
     "wof:country":"FI",
-    "wof:geomhash":"a9812175629e9f07da835b52c092ad64",
+    "wof:geomhash":"7bc0a9d053a54d9409f1cf357d935404",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     22.27039,
     63.01488000000001
 ],
-  "geometry": {"coordinates":[22.27039,63.01488000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.27039,63.01488],"type":"Point"}
 }

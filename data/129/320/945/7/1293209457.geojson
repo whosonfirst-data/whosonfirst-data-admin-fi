@@ -56,7 +56,7 @@
         "wk:page":"Pahaniemi"
     },
     "wof:country":"FI",
-    "wof:geomhash":"f6e4153bf08b9e41e43f7e84c6185699",
+    "wof:geomhash":"fe30f52992b6521d816f222f4efa1b84",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     22.20122000000001,
     60.45394
 ],
-  "geometry": {"coordinates":[22.20122000000001,60.45394],"type":"Point"}
+  "geometry": {"coordinates":[22.20122,60.45394],"type":"Point"}
 }

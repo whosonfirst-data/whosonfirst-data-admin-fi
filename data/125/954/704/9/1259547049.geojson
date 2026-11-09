@@ -50,7 +50,7 @@
         "gn:id":641092
     },
     "wof:country":"FI",
-    "wof:geomhash":"1cc0d823843e38e760ef329fbaf90d4b",
+    "wof:geomhash":"7a394b110b56c2a2d17ea60f15f036f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,5 +79,5 @@
     24.59795,
     64.75421999999999
 ],
-  "geometry": {"coordinates":[24.59795,64.75421999999999],"type":"Point"}
+  "geometry": {"coordinates":[24.59795,64.75422],"type":"Point"}
 }

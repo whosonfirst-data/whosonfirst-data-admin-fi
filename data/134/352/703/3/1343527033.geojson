@@ -59,7 +59,7 @@
         "wk:page":"Ilmola"
     },
     "wof:country":"FI",
-    "wof:geomhash":"0291b1f7414fc6e676e5b570381705a9",
+    "wof:geomhash":"338dd3a2960a92ecdc57d0371f151b0d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     24.62379,
     65.86686999999999
 ],
-  "geometry": {"coordinates":[24.62379,65.86686999999999],"type":"Point"}
+  "geometry": {"coordinates":[24.62379,65.86687],"type":"Point"}
 }

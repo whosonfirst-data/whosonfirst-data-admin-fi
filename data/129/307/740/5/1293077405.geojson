@@ -111,7 +111,7 @@
         "wk:page":"Karstula"
     },
     "wof:country":"FI",
-    "wof:geomhash":"ee2a65a1baab3a39c02fb02b60a14a9f",
+    "wof:geomhash":"5ab73741c221577def7cb705623496cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -142,5 +142,5 @@
     24.78333,
     62.86666999999999
 ],
-  "geometry": {"coordinates":[24.78333,62.86666999999999],"type":"Point"}
+  "geometry": {"coordinates":[24.78333,62.86667],"type":"Point"}
 }

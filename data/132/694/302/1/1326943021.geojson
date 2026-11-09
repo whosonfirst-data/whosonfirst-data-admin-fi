@@ -59,7 +59,7 @@
         "wk:page":"V%C3%A4h%C3%A4heikkil%C3%A4"
     },
     "wof:country":"FI",
-    "wof:geomhash":"de77b3906ff63e2f3dd56a55acb52d58",
+    "wof:geomhash":"3364388bc4a2d64e4720b38d8cd4e0f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     22.25694,
     60.43389000000001
 ],
-  "geometry": {"coordinates":[22.25694,60.43389000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.25694,60.43389],"type":"Point"}
 }

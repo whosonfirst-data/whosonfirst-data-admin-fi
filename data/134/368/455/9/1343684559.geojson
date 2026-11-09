@@ -105,7 +105,7 @@
         "wk:page":"Hausj%C3%A4rvi"
     },
     "wof:country":"FI",
-    "wof:geomhash":"93bc9ce1638f01b0d4be701829229de9",
+    "wof:geomhash":"deb591f928b821663a6932f0dd908dab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,5 +136,5 @@
     24.93333,
     60.78333000000001
 ],
-  "geometry": {"coordinates":[24.93333,60.78333000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.93333,60.78333],"type":"Point"}
 }

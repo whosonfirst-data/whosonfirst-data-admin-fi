@@ -53,7 +53,7 @@
         "wk:page":"Havum%C3%A4ki"
     },
     "wof:country":"FI",
-    "wof:geomhash":"399ae494ca6012d7827770547c0f1f9c",
+    "wof:geomhash":"657f99440d54e5814381bb855cd93b22",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     26.27767,
     61.98549000000001
 ],
-  "geometry": {"coordinates":[26.27767,61.98549000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.27767,61.98549],"type":"Point"}
 }

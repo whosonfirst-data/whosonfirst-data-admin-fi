@@ -78,7 +78,7 @@
         "wk:page":"Alatornio"
     },
     "wof:country":"FI",
-    "wof:geomhash":"ff88052e91224f7468f9f9a681ac9dfb",
+    "wof:geomhash":"7a495b4c05c2dda201fd9273a58a4569",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,5 +107,5 @@
     24.167,
     65.82576999999999
 ],
-  "geometry": {"coordinates":[24.167,65.82576999999999],"type":"Point"}
+  "geometry": {"coordinates":[24.167,65.82577],"type":"Point"}
 }

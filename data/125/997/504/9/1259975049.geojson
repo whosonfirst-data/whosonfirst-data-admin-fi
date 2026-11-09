@@ -56,7 +56,7 @@
         "wk:page":"Ruonala"
     },
     "wof:country":"FI",
-    "wof:geomhash":"cf3b09ba7603a9572a8151ed3d90f3c3",
+    "wof:geomhash":"ecc1fb81ddbd95cace4a86748d4b1adb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     26.86554000000001,
     60.47894
 ],
-  "geometry": {"coordinates":[26.86554000000001,60.47894],"type":"Point"}
+  "geometry": {"coordinates":[26.86554,60.47894],"type":"Point"}
 }

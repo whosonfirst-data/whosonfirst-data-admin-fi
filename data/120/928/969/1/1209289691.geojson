@@ -50,7 +50,7 @@
         "wk:page":"Tulppio"
     },
     "wof:country":"FI",
-    "wof:geomhash":"747c332e7ec3fb66a71a3c803101c758",
+    "wof:geomhash":"a0aa8108264fbf95d38474284ea5ed6a",
     "wof:hierarchy":[
         {
             "country_id":85633143,
@@ -73,5 +73,5 @@
     29.21164000000001,
     67.76963
 ],
-  "geometry": {"coordinates":[29.21164000000001,67.76963000000001],"type":"Point"}
+  "geometry": {"coordinates":[29.21164,67.76963],"type":"Point"}
 }

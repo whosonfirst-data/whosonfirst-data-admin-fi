@@ -56,7 +56,7 @@
         "wk:page":"Niinisaari"
     },
     "wof:country":"FI",
-    "wof:geomhash":"d2a7b9d7f021847fb0a16dfcb008a82d",
+    "wof:geomhash":"afc3e8050ce6f2e7b40330926b3813a2",
     "wof:hierarchy":[
         {
             "country_id":85633143,
@@ -79,5 +79,5 @@
     28.15997,
     61.44996999999999
 ],
-  "geometry": {"coordinates":[28.15997,61.44996999999999],"type":"Point"}
+  "geometry": {"coordinates":[28.15997,61.44997],"type":"Point"}
 }

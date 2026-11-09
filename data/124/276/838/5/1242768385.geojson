@@ -56,7 +56,7 @@
         "wk:page":"Hinkab%C3%B6le"
     },
     "wof:country":"FI",
-    "wof:geomhash":"3344a8bd594f26c37f1157261474d678",
+    "wof:geomhash":"79570663b19e831b28a98e89b3f4996e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     26.58691,
     60.42041999999999
 ],
-  "geometry": {"coordinates":[26.58691,60.42041999999999],"type":"Point"}
+  "geometry": {"coordinates":[26.58691,60.42042],"type":"Point"}
 }

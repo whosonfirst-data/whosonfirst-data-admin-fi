@@ -71,7 +71,7 @@
         "wk:page":"Nummi"
     },
     "wof:country":"FI",
-    "wof:geomhash":"43592b1a7dd41491e46daa18f2325990",
+    "wof:geomhash":"bbd0a30db29f24badd4eb400bbac48a5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,5 +100,5 @@
     22.31349,
     60.45831999999999
 ],
-  "geometry": {"coordinates":[22.31349,60.45831999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.31349,60.45832],"type":"Point"}
 }
