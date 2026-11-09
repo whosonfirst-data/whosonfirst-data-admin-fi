@@ -39,7 +39,7 @@
     "wof:belongsto":[
         85683067,
         102191581,
-        907199715,
+        101748417,
         85633143,
         404227411,
         136253047,
@@ -57,7 +57,6 @@
             "country_id":85633143,
             "county_id":1159321633,
             "empire_id":136253047,
-            "localadmin_id":907199715,
             "locality_id":1276667329,
             "macroregion_id":404227411,
             "region_id":85683067
@@ -66,7 +65,7 @@
     "wof:id":1276667329,
     "wof:lastmodified":1566594646,
     "wof:name":"Niskala",
-    "wof:parent_id":907199715,
+    "wof:parent_id":101748417,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-fi",
     "wof:superseded_by":[],
