@@ -1,0 +1,80 @@
+{
+  "id": 9895021675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.03365,61.02119,25.03365,61.02119",
+    "geom:latitude":61.02119,
+    "geom:longitude":25.03365,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12829160: name \"Rippola\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12829160"
+        },
+        {
+            "citation":"GeoNames populated place 12829160: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12829160"
+        },
+        {
+            "citation":"GeoNames populated place 12829160: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12829160"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199245 (Hameenlinna), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683077,
+        102191581,
+        136253047,
+        404227411,
+        907199245,
+        1159321513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12829160
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"43ddf446c50f5f9f5826361a4beae73a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321513,
+            "empire_id":136253047,
+            "localadmin_id":907199245,
+            "locality_id":9895021675,
+            "macroregion_id":404227411,
+            "region_id":85683077
+        }
+    ],
+    "wof:id":9895021675,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Rippola",
+    "wof:parent_id":907199245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.03365,
+    61.02119,
+    25.03365,
+    61.02119
+],
+  "geometry": {"coordinates":[25.03365,61.02119],"type":"Point"}
+}

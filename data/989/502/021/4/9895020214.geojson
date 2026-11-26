@@ -1,0 +1,80 @@
+{
+  "id": 9895020214,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.27511,60.87864,28.27511,60.87864",
+    "geom:latitude":60.87864,
+    "geom:longitude":28.27511,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12722615: name \"Ojala\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12722615"
+        },
+        {
+            "citation":"GeoNames populated place 12722615: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12722615"
+        },
+        {
+            "citation":"GeoNames populated place 12722615: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12722615"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907198887 (Lappeenranta), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683103,
+        102191581,
+        136253047,
+        404227411,
+        907198887,
+        1159321547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12722615
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"fb48cd5ce2b5da62ba0eeb5293dac3ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321547,
+            "empire_id":136253047,
+            "localadmin_id":907198887,
+            "locality_id":9895020214,
+            "macroregion_id":404227411,
+            "region_id":85683103
+        }
+    ],
+    "wof:id":9895020214,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Ojala",
+    "wof:parent_id":907198887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.27511,
+    60.87864,
+    28.27511,
+    60.87864
+],
+  "geometry": {"coordinates":[28.27511,60.87864],"type":"Point"}
+}

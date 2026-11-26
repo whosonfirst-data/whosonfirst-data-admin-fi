@@ -1,0 +1,80 @@
+{
+  "id": 9895026314,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.23294,63.57612,25.23294,63.57612",
+    "geom:latitude":63.57612,
+    "geom:longitude":25.23294,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13231181: name \"Junganper\u00e4\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13231181"
+        },
+        {
+            "citation":"GeoNames populated place 13231181: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13231181"
+        },
+        {
+            "citation":"GeoNames populated place 13231181: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13231181"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199135 (Pihtipudas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683117,
+        102191581,
+        136253047,
+        404227417,
+        907199135,
+        1159321515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13231181
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"912a07c316143cd4d4d161fd3a43eb5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321515,
+            "empire_id":136253047,
+            "localadmin_id":907199135,
+            "locality_id":9895026314,
+            "macroregion_id":404227417,
+            "region_id":85683117
+        }
+    ],
+    "wof:id":9895026314,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Junganper\u00e4",
+    "wof:parent_id":907199135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.23294,
+    63.57612,
+    25.23294,
+    63.57612
+],
+  "geometry": {"coordinates":[25.23294,63.57612],"type":"Point"}
+}

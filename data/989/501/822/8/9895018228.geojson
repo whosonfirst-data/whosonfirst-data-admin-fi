@@ -1,0 +1,80 @@
+{
+  "id": 9895018228,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.50791,60.75295,22.50791,60.75295",
+    "geom:latitude":60.75295,
+    "geom:longitude":22.50791,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12582453: name \"Pirttilahdenkulma\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12582453"
+        },
+        {
+            "citation":"GeoNames populated place 12582453: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12582453"
+        },
+        {
+            "citation":"GeoNames populated place 12582453: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12582453"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907198921 (Poytya), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683073,
+        102191581,
+        136253047,
+        404227405,
+        907198921,
+        1159321505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12582453
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"82f87515f449ea4fad2917655376b642",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321505,
+            "empire_id":136253047,
+            "localadmin_id":907198921,
+            "locality_id":9895018228,
+            "macroregion_id":404227405,
+            "region_id":85683073
+        }
+    ],
+    "wof:id":9895018228,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Pirttilahdenkulma",
+    "wof:parent_id":907198921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.50791,
+    60.75295,
+    22.50791,
+    60.75295
+],
+  "geometry": {"coordinates":[22.50791,60.75295],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895027722,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.55959,68.03079,23.55959,68.03079",
+    "geom:latitude":68.03079,
+    "geom:longitude":23.55959,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13501797: name \"Utkuj\u00e4rvi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13501797"
+        },
+        {
+            "citation":"GeoNames populated place 13501797: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13501797"
+        },
+        {
+            "citation":"GeoNames populated place 13501797: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13501797"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199587 (Muonio), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683147,
+        102191581,
+        136253047,
+        404227409,
+        907199587,
+        1159321583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13501797
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"b50fcbb3d78c44f1f9ea872c68ae312f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321583,
+            "empire_id":136253047,
+            "localadmin_id":907199587,
+            "locality_id":9895027722,
+            "macroregion_id":404227409,
+            "region_id":85683147
+        }
+    ],
+    "wof:id":9895027722,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Utkuj\u00e4rvi",
+    "wof:parent_id":907199587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.55959,
+    68.03079,
+    23.55959,
+    68.03079
+],
+  "geometry": {"coordinates":[23.55959,68.03079],"type":"Point"}
+}

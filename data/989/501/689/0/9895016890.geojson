@@ -1,0 +1,80 @@
+{
+  "id": 9895016890,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.55404,62.73502,30.55404,62.73502",
+    "geom:latitude":62.73502,
+    "geom:longitude":30.55404,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 646050: name \"Mieronaho\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/646050"
+        },
+        {
+            "citation":"GeoNames populated place 646050: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/646050"
+        },
+        {
+            "citation":"GeoNames populated place 646050: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/646050"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199525 (Ilomantsi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683133,
+        102191581,
+        136253047,
+        404227407,
+        907199525,
+        1159321551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":646050
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"b8bf963b1c5fa7004e748385757cf9b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321551,
+            "empire_id":136253047,
+            "localadmin_id":907199525,
+            "locality_id":9895016890,
+            "macroregion_id":404227407,
+            "region_id":85683133
+        }
+    ],
+    "wof:id":9895016890,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Mieronaho",
+    "wof:parent_id":907199525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.55404,
+    62.73502,
+    30.55404,
+    62.73502
+],
+  "geometry": {"coordinates":[30.55404,62.73502],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895023001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.3971,62.3096,28.3971,62.3096",
+    "geom:latitude":62.3096,
+    "geom:longitude":28.3971,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12912363: name \"Kukkolanhauta\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12912363"
+        },
+        {
+            "citation":"GeoNames populated place 12912363: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12912363"
+        },
+        {
+            "citation":"GeoNames populated place 12912363: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12912363"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199707 (Varkaus), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683131,
+        102191581,
+        136253047,
+        404227407,
+        907199707,
+        1159321629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12912363
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"a168ab0ee98b66b6840b8f9d6363468a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321629,
+            "empire_id":136253047,
+            "localadmin_id":907199707,
+            "locality_id":9895023001,
+            "macroregion_id":404227407,
+            "region_id":85683131
+        }
+    ],
+    "wof:id":9895023001,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Kukkolanhauta",
+    "wof:parent_id":907199707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.3971,
+    62.3096,
+    28.3971,
+    62.3096
+],
+  "geometry": {"coordinates":[28.3971,62.3096],"type":"Point"}
+}

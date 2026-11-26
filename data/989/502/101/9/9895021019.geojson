@@ -1,0 +1,80 @@
+{
+  "id": 9895021019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.28317,62.89374,30.28317,62.89374",
+    "geom:latitude":62.89374,
+    "geom:longitude":30.28317,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12767581: name \"Koukkujoki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12767581"
+        },
+        {
+            "citation":"GeoNames populated place 12767581: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12767581"
+        },
+        {
+            "citation":"GeoNames populated place 12767581: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12767581"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199609 (Joensuu), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683133,
+        102191581,
+        136253047,
+        404227407,
+        907199609,
+        1159321551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12767581
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"1cc14f13aea4f6141fc748b27857da25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321551,
+            "empire_id":136253047,
+            "localadmin_id":907199609,
+            "locality_id":9895021019,
+            "macroregion_id":404227407,
+            "region_id":85683133
+        }
+    ],
+    "wof:id":9895021019,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Koukkujoki",
+    "wof:parent_id":907199609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.28317,
+    62.89374,
+    30.28317,
+    62.89374
+],
+  "geometry": {"coordinates":[30.28317,62.89374],"type":"Point"}
+}

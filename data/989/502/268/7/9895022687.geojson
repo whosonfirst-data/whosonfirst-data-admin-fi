@@ -1,0 +1,80 @@
+{
+  "id": 9895022687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.05367,62.16087,26.05367,62.16087",
+    "geom:latitude":62.16087,
+    "geom:longitude":26.05367,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12884954: name \"Humalam\u00e4ki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12884954"
+        },
+        {
+            "citation":"GeoNames populated place 12884954: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12884954"
+        },
+        {
+            "citation":"GeoNames populated place 12884954: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12884954"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907198813 (Toivakka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683117,
+        102191581,
+        136253047,
+        404227417,
+        907198813,
+        1159321625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12884954
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"06ae98b869ac006816938f1faec906ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321625,
+            "empire_id":136253047,
+            "localadmin_id":907198813,
+            "locality_id":9895022687,
+            "macroregion_id":404227417,
+            "region_id":85683117
+        }
+    ],
+    "wof:id":9895022687,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Humalam\u00e4ki",
+    "wof:parent_id":907198813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.05367,
+    62.16087,
+    26.05367,
+    62.16087
+],
+  "geometry": {"coordinates":[26.05367,62.16087],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895018968,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.50929,60.52446,25.50929,60.52446",
+    "geom:latitude":60.52446,
+    "geom:longitude":25.50929,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12633006: name \"H\u00e4nninm\u00e4ki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12633006"
+        },
+        {
+            "citation":"GeoNames populated place 12633006: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12633006"
+        },
+        {
+            "citation":"GeoNames populated place 12633006: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12633006"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907198543 (Askola), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683067,
+        102191581,
+        136253047,
+        404227411,
+        907198543,
+        1159321593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12633006
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"ad00e4e8cdc0cbfb81fd7061294a473c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321593,
+            "empire_id":136253047,
+            "localadmin_id":907198543,
+            "locality_id":9895018968,
+            "macroregion_id":404227411,
+            "region_id":85683067
+        }
+    ],
+    "wof:id":9895018968,
+    "wof:lastmodified":1795734963,
+    "wof:name":"H\u00e4nninm\u00e4ki",
+    "wof:parent_id":907198543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.50929,
+    60.52446,
+    25.50929,
+    60.52446
+],
+  "geometry": {"coordinates":[25.50929,60.52446],"type":"Point"}
+}

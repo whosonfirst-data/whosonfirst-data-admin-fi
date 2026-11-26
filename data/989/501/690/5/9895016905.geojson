@@ -1,0 +1,80 @@
+{
+  "id": 9895016905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.81214,63.2502,23.81214,63.2502",
+    "geom:latitude":63.2502,
+    "geom:longitude":23.81214,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 646361: name \"Mattila\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/646361"
+        },
+        {
+            "citation":"GeoNames populated place 646361: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/646361"
+        },
+        {
+            "citation":"GeoNames populated place 646361: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/646361"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199255 (Lappajarvi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683113,
+        102191581,
+        136253047,
+        404227417,
+        907199255,
+        1159321567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":646361
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"11bce41fc19e13baf84f6e50c4f2cccc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321567,
+            "empire_id":136253047,
+            "localadmin_id":907199255,
+            "locality_id":9895016905,
+            "macroregion_id":404227417,
+            "region_id":85683113
+        }
+    ],
+    "wof:id":9895016905,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Mattila",
+    "wof:parent_id":907199255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.81214,
+    63.2502,
+    23.81214,
+    63.2502
+],
+  "geometry": {"coordinates":[23.81214,63.2502],"type":"Point"}
+}

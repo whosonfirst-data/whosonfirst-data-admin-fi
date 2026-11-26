@@ -1,0 +1,80 @@
+{
+  "id": 9895018534,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.56932,60.15951,21.56932,60.15951",
+    "geom:latitude":60.15951,
+    "geom:longitude":21.56932,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12593965: name \"Kyrk\u00e5ker\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12593965"
+        },
+        {
+            "citation":"GeoNames populated place 12593965: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12593965"
+        },
+        {
+            "citation":"GeoNames populated place 12593965: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12593965"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199741 (Parainen), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683073,
+        102191581,
+        136253047,
+        404227405,
+        907199741,
+        1159321605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12593965
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"89fce005a179d1b7b801fdbe64d8560f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321605,
+            "empire_id":136253047,
+            "localadmin_id":907199741,
+            "locality_id":9895018534,
+            "macroregion_id":404227405,
+            "region_id":85683073
+        }
+    ],
+    "wof:id":9895018534,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Kyrk\u00e5ker",
+    "wof:parent_id":907199741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.56932,
+    60.15951,
+    21.56932,
+    60.15951
+],
+  "geometry": {"coordinates":[21.56932,60.15951],"type":"Point"}
+}

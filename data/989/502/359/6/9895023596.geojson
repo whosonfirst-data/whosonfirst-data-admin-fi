@@ -1,0 +1,80 @@
+{
+  "id": 9895023596,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.0833,61.58448,28.0833,61.58448",
+    "geom:latitude":61.58448,
+    "geom:longitude":28.0833,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12935797: name \"Kotaseli\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12935797"
+        },
+        {
+            "citation":"GeoNames populated place 12935797: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12935797"
+        },
+        {
+            "citation":"GeoNames populated place 12935797: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12935797"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907198757 (Puumala), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683109,
+        102191581,
+        136253047,
+        404227407,
+        907198757,
+        1159321539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12935797
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"258f231dd4e0f216aae6fa2e4affa641",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321539,
+            "empire_id":136253047,
+            "localadmin_id":907198757,
+            "locality_id":9895023596,
+            "macroregion_id":404227407,
+            "region_id":85683109
+        }
+    ],
+    "wof:id":9895023596,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Kotaseli",
+    "wof:parent_id":907198757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.0833,
+    61.58448,
+    28.0833,
+    61.58448
+],
+  "geometry": {"coordinates":[28.0833,61.58448],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895019932,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.21003,60.96987,28.21003,60.96987",
+    "geom:latitude":60.96987,
+    "geom:longitude":28.21003,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12704553: name \"Tujula\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12704553"
+        },
+        {
+            "citation":"GeoNames populated place 12704553: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12704553"
+        },
+        {
+            "citation":"GeoNames populated place 12704553: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12704553"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907198887 (Lappeenranta), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683103,
+        102191581,
+        136253047,
+        404227411,
+        907198887,
+        1159321547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12704553
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"5911683eac8a0654e2d03300819fafe9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321547,
+            "empire_id":136253047,
+            "localadmin_id":907198887,
+            "locality_id":9895019932,
+            "macroregion_id":404227411,
+            "region_id":85683103
+        }
+    ],
+    "wof:id":9895019932,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Tujula",
+    "wof:parent_id":907198887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.21003,
+    60.96987,
+    28.21003,
+    60.96987
+],
+  "geometry": {"coordinates":[28.21003,60.96987],"type":"Point"}
+}

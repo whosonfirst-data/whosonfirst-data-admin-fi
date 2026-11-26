@@ -1,0 +1,80 @@
+{
+  "id": 9895025643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.86571,63.64605,28.86571,63.64605",
+    "geom:latitude":63.64605,
+    "geom:longitude":28.86571,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13201967: name \"Myllykyl\u00e4\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13201967"
+        },
+        {
+            "citation":"GeoNames populated place 13201967: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13201967"
+        },
+        {
+            "citation":"GeoNames populated place 13201967: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13201967"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199405 (Valtimo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683133,
+        102191581,
+        136253047,
+        404227407,
+        907199405,
+        1159321575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13201967
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"64b510c84c1e4715524bee0b43eefe0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321575,
+            "empire_id":136253047,
+            "localadmin_id":907199405,
+            "locality_id":9895025643,
+            "macroregion_id":404227407,
+            "region_id":85683133
+        }
+    ],
+    "wof:id":9895025643,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Myllykyl\u00e4",
+    "wof:parent_id":907199405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.86571,
+    63.64605,
+    28.86571,
+    63.64605
+],
+  "geometry": {"coordinates":[28.86571,63.64605],"type":"Point"}
+}

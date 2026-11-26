@@ -1,0 +1,80 @@
+{
+  "id": 9895025004,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.52233,63.41065,27.52233,63.41065",
+    "geom:latitude":63.41065,
+    "geom:longitude":27.52233,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13166477: name \"Hein\u00e4aho\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13166477"
+        },
+        {
+            "citation":"GeoNames populated place 13166477: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13166477"
+        },
+        {
+            "citation":"GeoNames populated place 13166477: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13166477"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199373 (Lapinlahti), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683131,
+        102191581,
+        136253047,
+        404227407,
+        907199373,
+        1159321601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13166477
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"91164680ac300fa958d071995f680725",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321601,
+            "empire_id":136253047,
+            "localadmin_id":907199373,
+            "locality_id":9895025004,
+            "macroregion_id":404227407,
+            "region_id":85683131
+        }
+    ],
+    "wof:id":9895025004,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Hein\u00e4aho",
+    "wof:parent_id":907199373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.52233,
+    63.41065,
+    27.52233,
+    63.41065
+],
+  "geometry": {"coordinates":[27.52233,63.41065],"type":"Point"}
+}

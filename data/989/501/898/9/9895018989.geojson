@@ -1,0 +1,80 @@
+{
+  "id": 9895018989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.05677,60.55983,26.05677,60.55983",
+    "geom:latitude":60.55983,
+    "geom:longitude":26.05677,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12633461: name \"Reimansbacken\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12633461"
+        },
+        {
+            "citation":"GeoNames populated place 12633461: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12633461"
+        },
+        {
+            "citation":"GeoNames populated place 12633461: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12633461"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907198469 (Loviisa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683067,
+        102191581,
+        136253047,
+        404227411,
+        907198469,
+        1159321525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12633461
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"f3f86d64f6a2b9be0b8a18c26d8a5143",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321525,
+            "empire_id":136253047,
+            "localadmin_id":907198469,
+            "locality_id":9895018989,
+            "macroregion_id":404227411,
+            "region_id":85683067
+        }
+    ],
+    "wof:id":9895018989,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Reimansbacken",
+    "wof:parent_id":907198469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.05677,
+    60.55983,
+    26.05677,
+    60.55983
+],
+  "geometry": {"coordinates":[26.05677,60.55983],"type":"Point"}
+}

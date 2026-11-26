@@ -1,0 +1,80 @@
+{
+  "id": 9895022758,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.20294,61.81235,26.20294,61.81235",
+    "geom:latitude":61.81235,
+    "geom:longitude":26.20294,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12888096: name \"Vallaspelto\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12888096"
+        },
+        {
+            "citation":"GeoNames populated place 12888096: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12888096"
+        },
+        {
+            "citation":"GeoNames populated place 12888096: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12888096"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907198751 (Joutsa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683117,
+        102191581,
+        136253047,
+        404227417,
+        907198751,
+        1159321619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12888096
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"84f6d19ab1c8118bcdc416894ca871e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321619,
+            "empire_id":136253047,
+            "localadmin_id":907198751,
+            "locality_id":9895022758,
+            "macroregion_id":404227417,
+            "region_id":85683117
+        }
+    ],
+    "wof:id":9895022758,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Vallaspelto",
+    "wof:parent_id":907198751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.20294,
+    61.81235,
+    26.20294,
+    61.81235
+],
+  "geometry": {"coordinates":[26.20294,61.81235],"type":"Point"}
+}

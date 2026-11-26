@@ -1,0 +1,80 @@
+{
+  "id": 9895025498,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.96631,63.90491,23.96631,63.90491",
+    "geom:latitude":63.90491,
+    "geom:longitude":23.96631,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13187512: name \"Perttu\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13187512"
+        },
+        {
+            "citation":"GeoNames populated place 13187512: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13187512"
+        },
+        {
+            "citation":"GeoNames populated place 13187512: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13187512"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907198997 (Kannus), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683125,
+        102191581,
+        136253047,
+        404227417,
+        907198997,
+        1159321609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13187512
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"1febad490f67c9bdd26ec93486d89141",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321609,
+            "empire_id":136253047,
+            "localadmin_id":907198997,
+            "locality_id":9895025498,
+            "macroregion_id":404227417,
+            "region_id":85683125
+        }
+    ],
+    "wof:id":9895025498,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Perttu",
+    "wof:parent_id":907198997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.96631,
+    63.90491,
+    23.96631,
+    63.90491
+],
+  "geometry": {"coordinates":[23.96631,63.90491],"type":"Point"}
+}

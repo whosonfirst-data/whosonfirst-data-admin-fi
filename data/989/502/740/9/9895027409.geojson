@@ -1,0 +1,80 @@
+{
+  "id": 9895027409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.78608,65.55445,28.78608,65.55445",
+    "geom:latitude":65.55445,
+    "geom:longitude":28.78608,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13392272: name \"Kylm\u00e4luoma\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13392272"
+        },
+        {
+            "citation":"GeoNames populated place 13392272: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13392272"
+        },
+        {
+            "citation":"GeoNames populated place 13392272: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13392272"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199503 (Taivalkoski), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683143,
+        102191581,
+        136253047,
+        404227415,
+        907199503,
+        1159321489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13392272
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"85c5ddabc41b8479ed8a3ed5636a2f1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321489,
+            "empire_id":136253047,
+            "localadmin_id":907199503,
+            "locality_id":9895027409,
+            "macroregion_id":404227415,
+            "region_id":85683143
+        }
+    ],
+    "wof:id":9895027409,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Kylm\u00e4luoma",
+    "wof:parent_id":907199503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.78608,
+    65.55445,
+    28.78608,
+    65.55445
+],
+  "geometry": {"coordinates":[28.78608,65.55445],"type":"Point"}
+}

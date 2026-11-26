@@ -1,0 +1,80 @@
+{
+  "id": 9895018488,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.73782,60.64659,21.73782,60.64659",
+    "geom:latitude":60.64659,
+    "geom:longitude":21.73782,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12591554: name \"Kaanaanmaa\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12591554"
+        },
+        {
+            "citation":"GeoNames populated place 12591554: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12591554"
+        },
+        {
+            "citation":"GeoNames populated place 12591554: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12591554"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907198643 (Vehmaa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683073,
+        102191581,
+        136253047,
+        404227405,
+        907198643,
+        1159321637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12591554
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"e512f75ad2535fb2c92b06354662ea40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321637,
+            "empire_id":136253047,
+            "localadmin_id":907198643,
+            "locality_id":9895018488,
+            "macroregion_id":404227405,
+            "region_id":85683073
+        }
+    ],
+    "wof:id":9895018488,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Kaanaanmaa",
+    "wof:parent_id":907198643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.73782,
+    60.64659,
+    21.73782,
+    60.64659
+],
+  "geometry": {"coordinates":[21.73782,60.64659],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895022744,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.89414,61.82441,25.89414,61.82441",
+    "geom:latitude":61.82441,
+    "geom:longitude":25.89414,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12887395: name \"Kitula\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12887395"
+        },
+        {
+            "citation":"GeoNames populated place 12887395: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12887395"
+        },
+        {
+            "citation":"GeoNames populated place 12887395: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12887395"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907198751 (Joutsa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683117,
+        102191581,
+        136253047,
+        404227417,
+        907198751,
+        1159321619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12887395
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"6ae96b71606ca6fb7f1e4b2d3415e77e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321619,
+            "empire_id":136253047,
+            "localadmin_id":907198751,
+            "locality_id":9895022744,
+            "macroregion_id":404227417,
+            "region_id":85683117
+        }
+    ],
+    "wof:id":9895022744,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Kitula",
+    "wof:parent_id":907198751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.89414,
+    61.82441,
+    25.89414,
+    61.82441
+],
+  "geometry": {"coordinates":[25.89414,61.82441],"type":"Point"}
+}

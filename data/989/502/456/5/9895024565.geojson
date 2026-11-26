@@ -1,0 +1,80 @@
+{
+  "id": 9895024565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.87343,62.88623,24.87343,62.88623",
+    "geom:latitude":62.88623,
+    "geom:longitude":24.87343,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13076011: name \"Helapuro\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13076011"
+        },
+        {
+            "citation":"GeoNames populated place 13076011: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13076011"
+        },
+        {
+            "citation":"GeoNames populated place 13076011: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13076011"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199083 (Karstula), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683117,
+        102191581,
+        136253047,
+        404227417,
+        907199083,
+        1159321515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13076011
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"f417c7d3a2020d797852ad96c999e1d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321515,
+            "empire_id":136253047,
+            "localadmin_id":907199083,
+            "locality_id":9895024565,
+            "macroregion_id":404227417,
+            "region_id":85683117
+        }
+    ],
+    "wof:id":9895024565,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Helapuro",
+    "wof:parent_id":907199083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.87343,
+    62.88623,
+    24.87343,
+    62.88623
+],
+  "geometry": {"coordinates":[24.87343,62.88623],"type":"Point"}
+}

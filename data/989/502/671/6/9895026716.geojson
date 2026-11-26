@@ -1,0 +1,80 @@
+{
+  "id": 9895026716,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.58889,63.7074,27.58889,63.7074",
+    "geom:latitude":63.7074,
+    "geom:longitude":27.58889,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13250769: name \"Koivum\u00e4ki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13250769"
+        },
+        {
+            "citation":"GeoNames populated place 13250769: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13250769"
+        },
+        {
+            "citation":"GeoNames populated place 13250769: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13250769"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199331 (Sonkajarvi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683131,
+        102191581,
+        136253047,
+        404227407,
+        907199331,
+        1159321601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13250769
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"ff8bbb0c8f16370524a1de15e3ec0b81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321601,
+            "empire_id":136253047,
+            "localadmin_id":907199331,
+            "locality_id":9895026716,
+            "macroregion_id":404227407,
+            "region_id":85683131
+        }
+    ],
+    "wof:id":9895026716,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Koivum\u00e4ki",
+    "wof:parent_id":907199331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.58889,
+    63.7074,
+    27.58889,
+    63.7074
+],
+  "geometry": {"coordinates":[27.58889,63.7074],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895025611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.51235,63.61751,23.51235,63.61751",
+    "geom:latitude":63.61751,
+    "geom:longitude":23.51235,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13196114: name \"M\u00e4kel\u00e4nkangas\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13196114"
+        },
+        {
+            "citation":"GeoNames populated place 13196114: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13196114"
+        },
+        {
+            "citation":"GeoNames populated place 13196114: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13196114"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199305 (Kaustinen), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683125,
+        102191581,
+        136253047,
+        404227417,
+        907199305,
+        1159321595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13196114
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"0c9ef71e20129b52944d51e48c1aedf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321595,
+            "empire_id":136253047,
+            "localadmin_id":907199305,
+            "locality_id":9895025611,
+            "macroregion_id":404227417,
+            "region_id":85683125
+        }
+    ],
+    "wof:id":9895025611,
+    "wof:lastmodified":1795734963,
+    "wof:name":"M\u00e4kel\u00e4nkangas",
+    "wof:parent_id":907199305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.51235,
+    63.61751,
+    23.51235,
+    63.61751
+],
+  "geometry": {"coordinates":[23.51235,63.61751],"type":"Point"}
+}

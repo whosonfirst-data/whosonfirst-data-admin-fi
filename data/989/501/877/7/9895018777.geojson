@@ -1,0 +1,80 @@
+{
+  "id": 9895018777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.44333,60.6162,21.44333,60.6162",
+    "geom:latitude":60.6162,
+    "geom:longitude":21.44333,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12605191: name \"Koila\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12605191"
+        },
+        {
+            "citation":"GeoNames populated place 12605191: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12605191"
+        },
+        {
+            "citation":"GeoNames populated place 12605191: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12605191"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907198635 (Taivassalo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683073,
+        102191581,
+        136253047,
+        404227405,
+        907198635,
+        1159321637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12605191
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"d819e1b523a03a7741c18b5f7bb50fdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321637,
+            "empire_id":136253047,
+            "localadmin_id":907198635,
+            "locality_id":9895018777,
+            "macroregion_id":404227405,
+            "region_id":85683073
+        }
+    ],
+    "wof:id":9895018777,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Koila",
+    "wof:parent_id":907198635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.44333,
+    60.6162,
+    21.44333,
+    60.6162
+],
+  "geometry": {"coordinates":[21.44333,60.6162],"type":"Point"}
+}

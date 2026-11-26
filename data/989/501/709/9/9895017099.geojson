@@ -1,0 +1,80 @@
+{
+  "id": 9895017099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.84767,66.16161,28.84767,66.16161",
+    "geom:latitude":66.16161,
+    "geom:longitude":28.84767,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 653187: name \"Ker\u00e4sniemi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/653187"
+        },
+        {
+            "citation":"GeoNames populated place 653187: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/653187"
+        },
+        {
+            "citation":"GeoNames populated place 653187: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/653187"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199519 (Kuusamo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683143,
+        102191581,
+        136253047,
+        404227415,
+        907199519,
+        1159321489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":653187
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"1e63126511aa4747ffabcee11e2f0d8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321489,
+            "empire_id":136253047,
+            "localadmin_id":907199519,
+            "locality_id":9895017099,
+            "macroregion_id":404227415,
+            "region_id":85683143
+        }
+    ],
+    "wof:id":9895017099,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Ker\u00e4sniemi",
+    "wof:parent_id":907199519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.84767,
+    66.16161,
+    28.84767,
+    66.16161
+],
+  "geometry": {"coordinates":[28.84767,66.16161],"type":"Point"}
+}

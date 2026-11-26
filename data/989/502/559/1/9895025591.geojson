@@ -1,0 +1,80 @@
+{
+  "id": 9895025591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.22651,63.70821,23.22651,63.70821",
+    "geom:latitude":63.70821,
+    "geom:longitude":23.22651,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13194988: name \"R\u00f6nnbacka\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13194988"
+        },
+        {
+            "citation":"GeoNames populated place 13194988: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13194988"
+        },
+        {
+            "citation":"GeoNames populated place 13194988: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13194988"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199669 (Kruunupyy), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683119,
+        102191581,
+        136253047,
+        404227417,
+        907199669,
+        1159321639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13194988
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"220292fe5973ebb80be43b83b91ddf6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321639,
+            "empire_id":136253047,
+            "localadmin_id":907199669,
+            "locality_id":9895025591,
+            "macroregion_id":404227417,
+            "region_id":85683119
+        }
+    ],
+    "wof:id":9895025591,
+    "wof:lastmodified":1795734963,
+    "wof:name":"R\u00f6nnbacka",
+    "wof:parent_id":907199669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.22651,
+    63.70821,
+    23.22651,
+    63.70821
+],
+  "geometry": {"coordinates":[23.22651,63.70821],"type":"Point"}
+}

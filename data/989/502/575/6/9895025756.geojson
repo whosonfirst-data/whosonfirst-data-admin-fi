@@ -1,0 +1,80 @@
+{
+  "id": 9895025756,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.6881,63.10375,28.6881,63.10375",
+    "geom:latitude":63.10375,
+    "geom:longitude":28.6881,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13206803: name \"P\u00e4lkinlahti\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13206803"
+        },
+        {
+            "citation":"GeoNames populated place 13206803: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13206803"
+        },
+        {
+            "citation":"GeoNames populated place 13206803: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13206803"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199313 (Kaavi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683131,
+        102191581,
+        136253047,
+        404227407,
+        907199313,
+        1159321579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13206803
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"53d13302782f14a77f32bee0b0704855",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321579,
+            "empire_id":136253047,
+            "localadmin_id":907199313,
+            "locality_id":9895025756,
+            "macroregion_id":404227407,
+            "region_id":85683131
+        }
+    ],
+    "wof:id":9895025756,
+    "wof:lastmodified":1795734963,
+    "wof:name":"P\u00e4lkinlahti",
+    "wof:parent_id":907199313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.6881,
+    63.10375,
+    28.6881,
+    63.10375
+],
+  "geometry": {"coordinates":[28.6881,63.10375],"type":"Point"}
+}

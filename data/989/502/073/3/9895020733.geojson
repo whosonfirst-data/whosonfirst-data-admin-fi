@@ -1,0 +1,80 @@
+{
+  "id": 9895020733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.74697,61.95557,29.74697,61.95557",
+    "geom:latitude":61.95557,
+    "geom:longitude":29.74697,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12744352: name \"M\u00e4ntylahti\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12744352"
+        },
+        {
+            "citation":"GeoNames populated place 12744352: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12744352"
+        },
+        {
+            "citation":"GeoNames populated place 12744352: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12744352"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907198727 (Kitee), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683133,
+        102191581,
+        136253047,
+        404227407,
+        907198727,
+        1159321517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12744352
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"28b885968b9ea7d93a1f60d4804a5f71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321517,
+            "empire_id":136253047,
+            "localadmin_id":907198727,
+            "locality_id":9895020733,
+            "macroregion_id":404227407,
+            "region_id":85683133
+        }
+    ],
+    "wof:id":9895020733,
+    "wof:lastmodified":1795734963,
+    "wof:name":"M\u00e4ntylahti",
+    "wof:parent_id":907198727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.74697,
+    61.95557,
+    29.74697,
+    61.95557
+],
+  "geometry": {"coordinates":[29.74697,61.95557],"type":"Point"}
+}

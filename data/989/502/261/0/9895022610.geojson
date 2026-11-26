@@ -1,0 +1,80 @@
+{
+  "id": 9895022610,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.98052,62.27257,25.98052,62.27257",
+    "geom:latitude":62.27257,
+    "geom:longitude":25.98052,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12881166: name \"Mehtoniemi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12881166"
+        },
+        {
+            "citation":"GeoNames populated place 12881166: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12881166"
+        },
+        {
+            "citation":"GeoNames populated place 12881166: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12881166"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199265 (Jyvaskyla), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683117,
+        102191581,
+        136253047,
+        404227417,
+        907199265,
+        1159321625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12881166
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"ae1695e6d61dea33721bd7b556461bd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321625,
+            "empire_id":136253047,
+            "localadmin_id":907199265,
+            "locality_id":9895022610,
+            "macroregion_id":404227417,
+            "region_id":85683117
+        }
+    ],
+    "wof:id":9895022610,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Mehtoniemi",
+    "wof:parent_id":907199265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.98052,
+    62.27257,
+    25.98052,
+    62.27257
+],
+  "geometry": {"coordinates":[25.98052,62.27257],"type":"Point"}
+}

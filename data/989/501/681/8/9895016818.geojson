@@ -1,0 +1,80 @@
+{
+  "id": 9895016818,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.41179,62.83389,28.41179,62.83389",
+    "geom:latitude":62.83389,
+    "geom:longitude":28.41179,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 643074: name \"Pajum\u00e4ki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/643074"
+        },
+        {
+            "citation":"GeoNames populated place 643074: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/643074"
+        },
+        {
+            "citation":"GeoNames populated place 643074: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/643074"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199053 (Tuusniemi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683131,
+        102191581,
+        136253047,
+        404227407,
+        907199053,
+        1159321579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":643074
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"560b962c6a1dd403330d3c694acd7397",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321579,
+            "empire_id":136253047,
+            "localadmin_id":907199053,
+            "locality_id":9895016818,
+            "macroregion_id":404227407,
+            "region_id":85683131
+        }
+    ],
+    "wof:id":9895016818,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Pajum\u00e4ki",
+    "wof:parent_id":907199053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.41179,
+    62.83389,
+    28.41179,
+    62.83389
+],
+  "geometry": {"coordinates":[28.41179,62.83389],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895021415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.95573,61.18231,22.95573,61.18231",
+    "geom:latitude":61.18231,
+    "geom:longitude":22.95573,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12820782: name \"Kenninkulma\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12820782"
+        },
+        {
+            "citation":"GeoNames populated place 12820782: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12820782"
+        },
+        {
+            "citation":"GeoNames populated place 12820782: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12820782"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907198835 (Punkalaidun), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683099,
+        102191581,
+        136253047,
+        404227417,
+        907198835,
+        1159321613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12820782
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"3732472fde2cc0e9112f3a9449d18b4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321613,
+            "empire_id":136253047,
+            "localadmin_id":907198835,
+            "locality_id":9895021415,
+            "macroregion_id":404227417,
+            "region_id":85683099
+        }
+    ],
+    "wof:id":9895021415,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Kenninkulma",
+    "wof:parent_id":907198835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.95573,
+    61.18231,
+    22.95573,
+    61.18231
+],
+  "geometry": {"coordinates":[22.95573,61.18231],"type":"Point"}
+}

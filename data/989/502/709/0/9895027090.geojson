@@ -1,0 +1,80 @@
+{
+  "id": 9895027090,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.00194,65.63233,25.00194,65.63233",
+    "geom:latitude":65.63233,
+    "geom:longitude":25.00194,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13342786: name \"Vasankari\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13342786"
+        },
+        {
+            "citation":"GeoNames populated place 13342786: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13342786"
+        },
+        {
+            "citation":"GeoNames populated place 13342786: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13342786"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199485 (Simo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683147,
+        102191581,
+        136253047,
+        404227409,
+        907199485,
+        1159321559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13342786
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"b3dabcab01a3facd732c2277f968d4b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321559,
+            "empire_id":136253047,
+            "localadmin_id":907199485,
+            "locality_id":9895027090,
+            "macroregion_id":404227409,
+            "region_id":85683147
+        }
+    ],
+    "wof:id":9895027090,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Vasankari",
+    "wof:parent_id":907199485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.00194,
+    65.63233,
+    25.00194,
+    65.63233
+],
+  "geometry": {"coordinates":[25.00194,65.63233],"type":"Point"}
+}

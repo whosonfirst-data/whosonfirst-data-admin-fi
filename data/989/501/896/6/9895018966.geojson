@@ -1,0 +1,80 @@
+{
+  "id": 9895018966,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.7307,60.65959,25.7307,60.65959",
+    "geom:latitude":60.65959,
+    "geom:longitude":25.7307,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12632938: name \"Pyypp\u00f6l\u00e4nkulma\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12632938"
+        },
+        {
+            "citation":"GeoNames populated place 12632938: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12632938"
+        },
+        {
+            "citation":"GeoNames populated place 12632938: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12632938"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907198663 (Pukkila), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683067,
+        102191581,
+        136253047,
+        404227411,
+        907198663,
+        1159321593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12632938
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"ae364c25e4c5f5f07081665cb23c80cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321593,
+            "empire_id":136253047,
+            "localadmin_id":907198663,
+            "locality_id":9895018966,
+            "macroregion_id":404227411,
+            "region_id":85683067
+        }
+    ],
+    "wof:id":9895018966,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Pyypp\u00f6l\u00e4nkulma",
+    "wof:parent_id":907198663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.7307,
+    60.65959,
+    25.7307,
+    60.65959
+],
+  "geometry": {"coordinates":[25.7307,60.65959],"type":"Point"}
+}

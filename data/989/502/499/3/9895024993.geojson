@@ -1,0 +1,80 @@
+{
+  "id": 9895024993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.40877,63.4229,27.40877,63.4229",
+    "geom:latitude":63.4229,
+    "geom:longitude":27.40877,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13166228: name \"Savonneva\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13166228"
+        },
+        {
+            "citation":"GeoNames populated place 13166228: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13166228"
+        },
+        {
+            "citation":"GeoNames populated place 13166228: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13166228"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199373 (Lapinlahti), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683131,
+        102191581,
+        136253047,
+        404227407,
+        907199373,
+        1159321601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13166228
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"52f7c1576c0f237f8bd0a3e29e7756d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321601,
+            "empire_id":136253047,
+            "localadmin_id":907199373,
+            "locality_id":9895024993,
+            "macroregion_id":404227407,
+            "region_id":85683131
+        }
+    ],
+    "wof:id":9895024993,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Savonneva",
+    "wof:parent_id":907199373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.40877,
+    63.4229,
+    27.40877,
+    63.4229
+],
+  "geometry": {"coordinates":[27.40877,63.4229],"type":"Point"}
+}

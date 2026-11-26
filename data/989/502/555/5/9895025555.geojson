@@ -1,0 +1,80 @@
+{
+  "id": 9895025555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.86519,63.5804,22.86519,63.5804",
+    "geom:latitude":63.5804,
+    "geom:longitude":22.86519,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13190190: name \"K\u00e4ld\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13190190"
+        },
+        {
+            "citation":"GeoNames populated place 13190190: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13190190"
+        },
+        {
+            "citation":"GeoNames populated place 13190190: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13190190"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199161 (Pedersoren kunta), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683119,
+        102191581,
+        136253047,
+        404227417,
+        907199161,
+        1159321639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13190190
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"7b689fd2f3f873748d9ed5b2d34a931e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321639,
+            "empire_id":136253047,
+            "localadmin_id":907199161,
+            "locality_id":9895025555,
+            "macroregion_id":404227417,
+            "region_id":85683119
+        }
+    ],
+    "wof:id":9895025555,
+    "wof:lastmodified":1795734963,
+    "wof:name":"K\u00e4ld",
+    "wof:parent_id":907199161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.86519,
+    63.5804,
+    22.86519,
+    63.5804
+],
+  "geometry": {"coordinates":[22.86519,63.5804],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895019763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.97913,61.03566,27.97913,61.03566",
+    "geom:latitude":61.03566,
+    "geom:longitude":27.97913,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12698205: name \"Kukkola\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12698205"
+        },
+        {
+            "citation":"GeoNames populated place 12698205: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12698205"
+        },
+        {
+            "citation":"GeoNames populated place 12698205: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12698205"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907198887 (Lappeenranta), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683103,
+        102191581,
+        136253047,
+        404227411,
+        907198887,
+        1159321547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12698205
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"4e4f1a876fb0aa060e6c7b62e5216de3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321547,
+            "empire_id":136253047,
+            "localadmin_id":907198887,
+            "locality_id":9895019763,
+            "macroregion_id":404227411,
+            "region_id":85683103
+        }
+    ],
+    "wof:id":9895019763,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Kukkola",
+    "wof:parent_id":907198887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.97913,
+    61.03566,
+    27.97913,
+    61.03566
+],
+  "geometry": {"coordinates":[27.97913,61.03566],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895023285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.8909,62.09495,28.8909,62.09495",
+    "geom:latitude":62.09495,
+    "geom:longitude":28.8909,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12921768: name \"Jokisivu\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12921768"
+        },
+        {
+            "citation":"GeoNames populated place 12921768: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12921768"
+        },
+        {
+            "citation":"GeoNames populated place 12921768: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12921768"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199021 (Enonkoski), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683109,
+        102191581,
+        136253047,
+        404227407,
+        907199021,
+        1159321493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12921768
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"c9285a0ae12a691cb38ce910e909e2c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321493,
+            "empire_id":136253047,
+            "localadmin_id":907199021,
+            "locality_id":9895023285,
+            "macroregion_id":404227407,
+            "region_id":85683109
+        }
+    ],
+    "wof:id":9895023285,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Jokisivu",
+    "wof:parent_id":907199021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.8909,
+    62.09495,
+    28.8909,
+    62.09495
+],
+  "geometry": {"coordinates":[28.8909,62.09495],"type":"Point"}
+}

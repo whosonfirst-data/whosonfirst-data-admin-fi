@@ -1,0 +1,80 @@
+{
+  "id": 9895017346,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.72729,60.30918,22.72729,60.30918",
+    "geom:latitude":60.30918,
+    "geom:longitude":22.72729,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11874879: name \"M\u00e4ntykyl\u00e4\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11874879"
+        },
+        {
+            "citation":"GeoNames populated place 11874879: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11874879"
+        },
+        {
+            "citation":"GeoNames populated place 11874879: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11874879"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907198941 (Sauvo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683073,
+        102191581,
+        136253047,
+        404227405,
+        907198941,
+        1159321603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11874879
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"8a61635a253898ea15aeb14fea443003",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321603,
+            "empire_id":136253047,
+            "localadmin_id":907198941,
+            "locality_id":9895017346,
+            "macroregion_id":404227405,
+            "region_id":85683073
+        }
+    ],
+    "wof:id":9895017346,
+    "wof:lastmodified":1795734963,
+    "wof:name":"M\u00e4ntykyl\u00e4",
+    "wof:parent_id":907198941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.72729,
+    60.30918,
+    22.72729,
+    60.30918
+],
+  "geometry": {"coordinates":[22.72729,60.30918],"type":"Point"}
+}

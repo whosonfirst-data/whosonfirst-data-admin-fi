@@ -1,0 +1,80 @@
+{
+  "id": 9895016651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.34756,62.74035,30.34756,62.74035",
+    "geom:latitude":62.74035,
+    "geom:longitude":30.34756,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 636883: name \"Sikrenvaara\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/636883"
+        },
+        {
+            "citation":"GeoNames populated place 636883: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/636883"
+        },
+        {
+            "citation":"GeoNames populated place 636883: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/636883"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199609 (Joensuu), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683133,
+        102191581,
+        136253047,
+        404227407,
+        907199609,
+        1159321551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":636883
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"48a3384374e7ec47be32f0f512cca9c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321551,
+            "empire_id":136253047,
+            "localadmin_id":907199609,
+            "locality_id":9895016651,
+            "macroregion_id":404227407,
+            "region_id":85683133
+        }
+    ],
+    "wof:id":9895016651,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Sikrenvaara",
+    "wof:parent_id":907199609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.34756,
+    62.74035,
+    30.34756,
+    62.74035
+],
+  "geometry": {"coordinates":[30.34756,62.74035],"type":"Point"}
+}

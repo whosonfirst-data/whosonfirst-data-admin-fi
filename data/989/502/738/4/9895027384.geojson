@@ -1,0 +1,80 @@
+{
+  "id": 9895027384,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.47021,65.81404,27.47021,65.81404",
+    "geom:latitude":65.81404,
+    "geom:longitude":27.47021,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13388966: name \"Piste\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13388966"
+        },
+        {
+            "citation":"GeoNames populated place 13388966: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13388966"
+        },
+        {
+            "citation":"GeoNames populated place 13388966: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13388966"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199499 (Pudasjarvi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683143,
+        102191581,
+        136253047,
+        404227415,
+        907199499,
+        1159321497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13388966
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"4b5374ae04f9c383e4425e5af49581f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321497,
+            "empire_id":136253047,
+            "localadmin_id":907199499,
+            "locality_id":9895027384,
+            "macroregion_id":404227415,
+            "region_id":85683143
+        }
+    ],
+    "wof:id":9895027384,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Piste",
+    "wof:parent_id":907199499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.47021,
+    65.81404,
+    27.47021,
+    65.81404
+],
+  "geometry": {"coordinates":[27.47021,65.81404],"type":"Point"}
+}

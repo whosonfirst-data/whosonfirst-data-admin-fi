@@ -1,0 +1,80 @@
+{
+  "id": 9895017136,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.90377,62.51445,30.90377,62.51445",
+    "geom:latitude":62.51445,
+    "geom:longitude":30.90377,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 654618: name \"Kalliovaara\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/654618"
+        },
+        {
+            "citation":"GeoNames populated place 654618: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/654618"
+        },
+        {
+            "citation":"GeoNames populated place 654618: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/654618"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199525 (Ilomantsi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683133,
+        102191581,
+        136253047,
+        404227407,
+        907199525,
+        1159321551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":654618
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"6b31b2e3f5a22c2c61a2ebf73436ed2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321551,
+            "empire_id":136253047,
+            "localadmin_id":907199525,
+            "locality_id":9895017136,
+            "macroregion_id":404227407,
+            "region_id":85683133
+        }
+    ],
+    "wof:id":9895017136,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Kalliovaara",
+    "wof:parent_id":907199525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.90377,
+    62.51445,
+    30.90377,
+    62.51445
+],
+  "geometry": {"coordinates":[30.90377,62.51445],"type":"Point"}
+}

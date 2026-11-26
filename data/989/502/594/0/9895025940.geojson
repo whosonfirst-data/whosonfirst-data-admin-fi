@@ -1,0 +1,80 @@
+{
+  "id": 9895025940,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.84144,64.53993,24.84144,64.53993",
+    "geom:latitude":64.53993,
+    "geom:longitude":24.84144,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13217769: name \"M\u00f6ykkyper\u00e4\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13217769"
+        },
+        {
+            "citation":"GeoNames populated place 13217769: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13217769"
+        },
+        {
+            "citation":"GeoNames populated place 13217769: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13217769"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199449 (Raahe), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683143,
+        102191581,
+        136253047,
+        404227415,
+        907199449,
+        1159321631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13217769
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"10b23b4c6e582ca2731fcd932279257b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321631,
+            "empire_id":136253047,
+            "localadmin_id":907199449,
+            "locality_id":9895025940,
+            "macroregion_id":404227415,
+            "region_id":85683143
+        }
+    ],
+    "wof:id":9895025940,
+    "wof:lastmodified":1795734963,
+    "wof:name":"M\u00f6ykkyper\u00e4",
+    "wof:parent_id":907199449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.84144,
+    64.53993,
+    24.84144,
+    64.53993
+],
+  "geometry": {"coordinates":[24.84144,64.53993],"type":"Point"}
+}

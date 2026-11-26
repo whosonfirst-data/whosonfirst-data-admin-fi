@@ -1,0 +1,80 @@
+{
+  "id": 9895024479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.4945,63.02644,24.4945,63.02644",
+    "geom:latitude":63.02644,
+    "geom:longitude":24.4945,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13069735: name \"Nurmijoki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13069735"
+        },
+        {
+            "citation":"GeoNames populated place 13069735: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13069735"
+        },
+        {
+            "citation":"GeoNames populated place 13069735: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13069735"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199107 (Kyyjarvi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683117,
+        102191581,
+        136253047,
+        404227417,
+        907199107,
+        1159321515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13069735
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"d34841bfc9fc576ea210491263509538",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321515,
+            "empire_id":136253047,
+            "localadmin_id":907199107,
+            "locality_id":9895024479,
+            "macroregion_id":404227417,
+            "region_id":85683117
+        }
+    ],
+    "wof:id":9895024479,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Nurmijoki",
+    "wof:parent_id":907199107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.4945,
+    63.02644,
+    24.4945,
+    63.02644
+],
+  "geometry": {"coordinates":[24.4945,63.02644],"type":"Point"}
+}

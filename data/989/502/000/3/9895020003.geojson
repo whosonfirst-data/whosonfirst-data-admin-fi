@@ -1,0 +1,80 @@
+{
+  "id": 9895020003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.23333,61.53701,29.23333,61.53701",
+    "geom:latitude":61.53701,
+    "geom:longitude":29.23333,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12710655: name \"Lammaslampi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12710655"
+        },
+        {
+            "citation":"GeoNames populated place 12710655: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12710655"
+        },
+        {
+            "citation":"GeoNames populated place 12710655: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12710655"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907198791 (Ruokolahti), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683103,
+        102191581,
+        136253047,
+        404227411,
+        907198791,
+        1159321507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12710655
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"cdc373099b5e6cc253d0e3cbee7d3fd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321507,
+            "empire_id":136253047,
+            "localadmin_id":907198791,
+            "locality_id":9895020003,
+            "macroregion_id":404227411,
+            "region_id":85683103
+        }
+    ],
+    "wof:id":9895020003,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Lammaslampi",
+    "wof:parent_id":907198791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.23333,
+    61.53701,
+    29.23333,
+    61.53701
+],
+  "geometry": {"coordinates":[29.23333,61.53701],"type":"Point"}
+}

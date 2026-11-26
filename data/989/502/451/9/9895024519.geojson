@@ -1,0 +1,80 @@
+{
+  "id": 9895024519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.44479,63.10784,25.44479,63.10784",
+    "geom:latitude":63.10784,
+    "geom:longitude":25.44479,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13073464: name \"Kenn\u00e4\u00e4\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13073464"
+        },
+        {
+            "citation":"GeoNames populated place 13073464: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13073464"
+        },
+        {
+            "citation":"GeoNames populated place 13073464: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13073464"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199223 (Viitasaari), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683117,
+        102191581,
+        136253047,
+        404227417,
+        907199223,
+        1159321515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13073464
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"1809b28038db6bf7881dad9bf643fdba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321515,
+            "empire_id":136253047,
+            "localadmin_id":907199223,
+            "locality_id":9895024519,
+            "macroregion_id":404227417,
+            "region_id":85683117
+        }
+    ],
+    "wof:id":9895024519,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Kenn\u00e4\u00e4",
+    "wof:parent_id":907199223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.44479,
+    63.10784,
+    25.44479,
+    63.10784
+],
+  "geometry": {"coordinates":[25.44479,63.10784],"type":"Point"}
+}

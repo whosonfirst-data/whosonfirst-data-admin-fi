@@ -1,0 +1,80 @@
+{
+  "id": 9895016859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.9879,63.6183,23.9879,63.6183",
+    "geom:latitude":63.6183,
+    "geom:longitude":23.9879,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 645009: name \"Neverbacka\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/645009"
+        },
+        {
+            "citation":"GeoNames populated place 645009: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/645009"
+        },
+        {
+            "citation":"GeoNames populated place 645009: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/645009"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199049 (Kokkola), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683125,
+        102191581,
+        136253047,
+        404227417,
+        907199049,
+        1159321609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":645009
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"e68a3e0ccb3a48ea5788764f1246f284",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321609,
+            "empire_id":136253047,
+            "localadmin_id":907199049,
+            "locality_id":9895016859,
+            "macroregion_id":404227417,
+            "region_id":85683125
+        }
+    ],
+    "wof:id":9895016859,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Neverbacka",
+    "wof:parent_id":907199049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.9879,
+    63.6183,
+    23.9879,
+    63.6183
+],
+  "geometry": {"coordinates":[23.9879,63.6183],"type":"Point"}
+}

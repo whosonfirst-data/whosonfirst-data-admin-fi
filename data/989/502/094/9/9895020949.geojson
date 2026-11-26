@@ -1,0 +1,80 @@
+{
+  "id": 9895020949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.2848,62.89741,29.2848,62.89741",
+    "geom:latitude":62.89741,
+    "geom:longitude":29.2848,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12764728: name \"Palopet\u00e4ikk\u00f6\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12764728"
+        },
+        {
+            "citation":"GeoNames populated place 12764728: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12764728"
+        },
+        {
+            "citation":"GeoNames populated place 12764728: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12764728"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199399 (Polvijarvi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683133,
+        102191581,
+        136253047,
+        404227407,
+        907199399,
+        1159321551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12764728
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"ece6d29bed40ccff431daddb198a4203",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321551,
+            "empire_id":136253047,
+            "localadmin_id":907199399,
+            "locality_id":9895020949,
+            "macroregion_id":404227407,
+            "region_id":85683133
+        }
+    ],
+    "wof:id":9895020949,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Palopet\u00e4ikk\u00f6",
+    "wof:parent_id":907199399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.2848,
+    62.89741,
+    29.2848,
+    62.89741
+],
+  "geometry": {"coordinates":[29.2848,62.89741],"type":"Point"}
+}

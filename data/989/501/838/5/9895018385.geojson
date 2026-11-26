@@ -1,0 +1,80 @@
+{
+  "id": 9895018385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.2655,60.32368,24.2655,60.32368",
+    "geom:latitude":60.32368,
+    "geom:longitude":24.2655,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12587993: name \"Hiidenm\u00e4ki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12587993"
+        },
+        {
+            "citation":"GeoNames populated place 12587993: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12587993"
+        },
+        {
+            "citation":"GeoNames populated place 12587993: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12587993"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907198595 (Vihti), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683067,
+        102191581,
+        136253047,
+        404227411,
+        907198595,
+        1159321633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12587993
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"2af00895c9a669b6ed4283a90227b300",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321633,
+            "empire_id":136253047,
+            "localadmin_id":907198595,
+            "locality_id":9895018385,
+            "macroregion_id":404227411,
+            "region_id":85683067
+        }
+    ],
+    "wof:id":9895018385,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Hiidenm\u00e4ki",
+    "wof:parent_id":907198595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.2655,
+    60.32368,
+    24.2655,
+    60.32368
+],
+  "geometry": {"coordinates":[24.2655,60.32368],"type":"Point"}
+}

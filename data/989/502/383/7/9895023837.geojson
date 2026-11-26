@@ -1,0 +1,80 @@
+{
+  "id": 9895023837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.06768,63.01972,24.06768,63.01972",
+    "geom:latitude":63.01972,
+    "geom:longitude":24.06768,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12944820: name \"Aitasaari\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12944820"
+        },
+        {
+            "citation":"GeoNames populated place 12944820: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12944820"
+        },
+        {
+            "citation":"GeoNames populated place 12944820: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12944820"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199105 (Alajarvi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683113,
+        102191581,
+        136253047,
+        404227417,
+        907199105,
+        1159321567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12944820
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"b9eb24bf38dd26585f718819529f8eca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321567,
+            "empire_id":136253047,
+            "localadmin_id":907199105,
+            "locality_id":9895023837,
+            "macroregion_id":404227417,
+            "region_id":85683113
+        }
+    ],
+    "wof:id":9895023837,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Aitasaari",
+    "wof:parent_id":907199105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.06768,
+    63.01972,
+    24.06768,
+    63.01972
+],
+  "geometry": {"coordinates":[24.06768,63.01972],"type":"Point"}
+}

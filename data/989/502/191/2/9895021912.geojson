@@ -1,0 +1,80 @@
+{
+  "id": 9895021912,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.24469,62.49221,22.24469,62.49221",
+    "geom:latitude":62.49221,
+    "geom:longitude":22.24469,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12844996: name \"Kohlu\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12844996"
+        },
+        {
+            "citation":"GeoNames populated place 12844996: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12844996"
+        },
+        {
+            "citation":"GeoNames populated place 12844996: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12844996"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199121 (Kauhajoki), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683113,
+        102191581,
+        136253047,
+        404227417,
+        907199121,
+        1159321543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12844996
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"68dba1a1f78bbaa6d10ff0343f73f86d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321543,
+            "empire_id":136253047,
+            "localadmin_id":907199121,
+            "locality_id":9895021912,
+            "macroregion_id":404227417,
+            "region_id":85683113
+        }
+    ],
+    "wof:id":9895021912,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Kohlu",
+    "wof:parent_id":907199121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.24469,
+    62.49221,
+    22.24469,
+    62.49221
+],
+  "geometry": {"coordinates":[22.24469,62.49221],"type":"Point"}
+}

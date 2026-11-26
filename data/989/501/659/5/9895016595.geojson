@@ -1,0 +1,80 @@
+{
+  "id": 9895016595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.01787,67.35768,24.01787,67.35768",
+    "geom:latitude":67.35768,
+    "geom:longitude":24.01787,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 634573: name \"Teuraj\u00e4rvi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/634573"
+        },
+        {
+            "citation":"GeoNames populated place 634573: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/634573"
+        },
+        {
+            "citation":"GeoNames populated place 634573: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/634573"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199583 (Kolari), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683147,
+        102191581,
+        136253047,
+        404227409,
+        907199583,
+        1159321583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":634573
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"5ef1e6d2313a3e9a6df13eec1b3aa350",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321583,
+            "empire_id":136253047,
+            "localadmin_id":907199583,
+            "locality_id":9895016595,
+            "macroregion_id":404227409,
+            "region_id":85683147
+        }
+    ],
+    "wof:id":9895016595,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Teuraj\u00e4rvi",
+    "wof:parent_id":907199583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.01787,
+    67.35768,
+    24.01787,
+    67.35768
+],
+  "geometry": {"coordinates":[24.01787,67.35768],"type":"Point"}
+}

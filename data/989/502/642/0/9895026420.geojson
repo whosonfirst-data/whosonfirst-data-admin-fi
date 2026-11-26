@@ -1,0 +1,80 @@
+{
+  "id": 9895026420,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.15542,64.15522,26.15542,64.15522",
+    "geom:latitude":64.15522,
+    "geom:longitude":26.15542,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13237721: name \"Soronper\u00e4\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13237721"
+        },
+        {
+            "citation":"GeoNames populated place 13237721: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13237721"
+        },
+        {
+            "citation":"GeoNames populated place 13237721: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13237721"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199755 (Siikalatva), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683143,
+        102191581,
+        136253047,
+        404227415,
+        907199755,
+        1159321571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13237721
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"627bb1b393e504dd09c7cff1956b02dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321571,
+            "empire_id":136253047,
+            "localadmin_id":907199755,
+            "locality_id":9895026420,
+            "macroregion_id":404227415,
+            "region_id":85683143
+        }
+    ],
+    "wof:id":9895026420,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Soronper\u00e4",
+    "wof:parent_id":907199755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.15542,
+    64.15522,
+    26.15542,
+    64.15522
+],
+  "geometry": {"coordinates":[26.15542,64.15522],"type":"Point"}
+}

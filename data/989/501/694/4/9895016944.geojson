@@ -1,0 +1,80 @@
+{
+  "id": 9895016944,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.8618,63.55407,28.8618,63.55407",
+    "geom:latitude":63.55407,
+    "geom:longitude":28.8618,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 647593: name \"Loukkus\u00e4rkk\u00e4\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/647593"
+        },
+        {
+            "citation":"GeoNames populated place 647593: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/647593"
+        },
+        {
+            "citation":"GeoNames populated place 647593: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/647593"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199409 (Nurmes), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683133,
+        102191581,
+        136253047,
+        404227407,
+        907199409,
+        1159321575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":647593
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"d8a45d68cc5a6621b1ddf3f5f4424651",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321575,
+            "empire_id":136253047,
+            "localadmin_id":907199409,
+            "locality_id":9895016944,
+            "macroregion_id":404227407,
+            "region_id":85683133
+        }
+    ],
+    "wof:id":9895016944,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Loukkus\u00e4rkk\u00e4",
+    "wof:parent_id":907199409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.8618,
+    63.55407,
+    28.8618,
+    63.55407
+],
+  "geometry": {"coordinates":[28.8618,63.55407],"type":"Point"}
+}

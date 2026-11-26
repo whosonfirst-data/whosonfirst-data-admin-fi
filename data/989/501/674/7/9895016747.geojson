@@ -1,0 +1,80 @@
+{
+  "id": 9895016747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.21412,61.16481,25.21412,61.16481",
+    "geom:latitude":61.16481,
+    "geom:longitude":25.21412,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 640101: name \"Raittinsaari\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/640101"
+        },
+        {
+            "citation":"GeoNames populated place 640101: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/640101"
+        },
+        {
+            "citation":"GeoNames populated place 640101: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/640101"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199245 (Hameenlinna), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683077,
+        102191581,
+        136253047,
+        404227411,
+        907199245,
+        1159321513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":640101
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"3ce25afbb673b47d5549a9993082b28c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321513,
+            "empire_id":136253047,
+            "localadmin_id":907199245,
+            "locality_id":9895016747,
+            "macroregion_id":404227411,
+            "region_id":85683077
+        }
+    ],
+    "wof:id":9895016747,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Raittinsaari",
+    "wof:parent_id":907199245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.21412,
+    61.16481,
+    25.21412,
+    61.16481
+],
+  "geometry": {"coordinates":[25.21412,61.16481],"type":"Point"}
+}

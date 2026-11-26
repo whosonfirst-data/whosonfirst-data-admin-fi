@@ -1,0 +1,80 @@
+{
+  "id": 9895018002,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.65234,60.91372,23.65234,60.91372",
+    "geom:latitude":60.91372,
+    "geom:longitude":23.65234,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12569829: name \"Rekirikko\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12569829"
+        },
+        {
+            "citation":"GeoNames populated place 12569829: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12569829"
+        },
+        {
+            "citation":"GeoNames populated place 12569829: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12569829"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199441 (Forssa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683077,
+        102191581,
+        136253047,
+        404227411,
+        907199441,
+        1159321511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12569829
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"fc77c6ba29a3518307a7a2d89e74284b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321511,
+            "empire_id":136253047,
+            "localadmin_id":907199441,
+            "locality_id":9895018002,
+            "macroregion_id":404227411,
+            "region_id":85683077
+        }
+    ],
+    "wof:id":9895018002,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Rekirikko",
+    "wof:parent_id":907199441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.65234,
+    60.91372,
+    23.65234,
+    60.91372
+],
+  "geometry": {"coordinates":[23.65234,60.91372],"type":"Point"}
+}

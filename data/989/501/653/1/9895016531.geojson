@@ -1,0 +1,80 @@
+{
+  "id": 9895016531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.96971,61.85428,25.96971,61.85428",
+    "geom:latitude":61.85428,
+    "geom:longitude":25.96971,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 632315: name \"Vartiam\u00e4ki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/632315"
+        },
+        {
+            "citation":"GeoNames populated place 632315: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/632315"
+        },
+        {
+            "citation":"GeoNames populated place 632315: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/632315"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907198751 (Joutsa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683117,
+        102191581,
+        136253047,
+        404227417,
+        907198751,
+        1159321619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":632315
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"9e4d88dc8d3be7d10932117fc3a018b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321619,
+            "empire_id":136253047,
+            "localadmin_id":907198751,
+            "locality_id":9895016531,
+            "macroregion_id":404227417,
+            "region_id":85683117
+        }
+    ],
+    "wof:id":9895016531,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Vartiam\u00e4ki",
+    "wof:parent_id":907198751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.96971,
+    61.85428,
+    25.96971,
+    61.85428
+],
+  "geometry": {"coordinates":[25.96971,61.85428],"type":"Point"}
+}

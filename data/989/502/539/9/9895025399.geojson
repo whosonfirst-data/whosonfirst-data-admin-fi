@@ -1,0 +1,80 @@
+{
+  "id": 9895025399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.67635,64.14887,23.67635,64.14887",
+    "geom:latitude":64.14887,
+    "geom:longitude":23.67635,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13181678: name \"Kivinen\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13181678"
+        },
+        {
+            "citation":"GeoNames populated place 13181678: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13181678"
+        },
+        {
+            "citation":"GeoNames populated place 13181678: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13181678"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199617 (Kalajoki), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683143,
+        102191581,
+        136253047,
+        404227415,
+        907199617,
+        1159321569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13181678
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"1667324f3d76fad1a1a1c922d45e861a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321569,
+            "empire_id":136253047,
+            "localadmin_id":907199617,
+            "locality_id":9895025399,
+            "macroregion_id":404227415,
+            "region_id":85683143
+        }
+    ],
+    "wof:id":9895025399,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Kivinen",
+    "wof:parent_id":907199617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.67635,
+    64.14887,
+    23.67635,
+    64.14887
+],
+  "geometry": {"coordinates":[23.67635,64.14887],"type":"Point"}
+}

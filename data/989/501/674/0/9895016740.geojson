@@ -1,0 +1,80 @@
+{
+  "id": 9895016740,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.48718,66.0053,24.48718,66.0053",
+    "geom:latitude":66.0053,
+    "geom:longitude":24.48718,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 639917: name \"Rantamaanm\u00e4ki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/639917"
+        },
+        {
+            "citation":"GeoNames populated place 639917: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/639917"
+        },
+        {
+            "citation":"GeoNames populated place 639917: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/639917"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199557 (Tornio), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683147,
+        102191581,
+        136253047,
+        404227409,
+        907199557,
+        1159321559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":639917
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"4424b9a60baf74300dd525ea7a903db6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321559,
+            "empire_id":136253047,
+            "localadmin_id":907199557,
+            "locality_id":9895016740,
+            "macroregion_id":404227409,
+            "region_id":85683147
+        }
+    ],
+    "wof:id":9895016740,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Rantamaanm\u00e4ki",
+    "wof:parent_id":907199557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.48718,
+    66.0053,
+    24.48718,
+    66.0053
+],
+  "geometry": {"coordinates":[24.48718,66.0053],"type":"Point"}
+}

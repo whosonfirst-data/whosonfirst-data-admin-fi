@@ -1,0 +1,80 @@
+{
+  "id": 9895017453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.64732,61.17413,25.64732,61.17413",
+    "geom:latitude":61.17413,
+    "geom:longitude":25.64732,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12232620: name \"Eskeli\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12232620"
+        },
+        {
+            "citation":"GeoNames populated place 12232620: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12232620"
+        },
+        {
+            "citation":"GeoNames populated place 12232620: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12232620"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907198691 (Asikkala), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683091,
+        102191581,
+        136253047,
+        404227411,
+        907198691,
+        1159321483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12232620
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"d18fed8b2a0ebe488e4331a0d88bd290",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321483,
+            "empire_id":136253047,
+            "localadmin_id":907198691,
+            "locality_id":9895017453,
+            "macroregion_id":404227411,
+            "region_id":85683091
+        }
+    ],
+    "wof:id":9895017453,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Eskeli",
+    "wof:parent_id":907198691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.64732,
+    61.17413,
+    25.64732,
+    61.17413
+],
+  "geometry": {"coordinates":[25.64732,61.17413],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895019962,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.43912,60.53858,27.43912,60.53858",
+    "geom:latitude":60.53858,
+    "geom:longitude":27.43912,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12706150: name \"Riko\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12706150"
+        },
+        {
+            "citation":"GeoNames populated place 12706150: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12706150"
+        },
+        {
+            "citation":"GeoNames populated place 12706150: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12706150"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907198719 (Virolahti), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683081,
+        102191581,
+        136253047,
+        404227411,
+        907198719,
+        1159321573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12706150
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"4a613723e7b3bd629f25c5751d870f6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321573,
+            "empire_id":136253047,
+            "localadmin_id":907198719,
+            "locality_id":9895019962,
+            "macroregion_id":404227411,
+            "region_id":85683081
+        }
+    ],
+    "wof:id":9895019962,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Riko",
+    "wof:parent_id":907198719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.43912,
+    60.53858,
+    27.43912,
+    60.53858
+],
+  "geometry": {"coordinates":[27.43912,60.53858],"type":"Point"}
+}

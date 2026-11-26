@@ -1,0 +1,80 @@
+{
+  "id": 9895018864,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.27236,61.29578,22.27236,61.29578",
+    "geom:latitude":61.29578,
+    "geom:longitude":22.27236,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12631139: name \"M\u00e4nsk\u00e4nm\u00e4ki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12631139"
+        },
+        {
+            "citation":"GeoNames populated place 12631139: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12631139"
+        },
+        {
+            "citation":"GeoNames populated place 12631139: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12631139"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907198937 (Kokemaki), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683095,
+        102191581,
+        136253047,
+        404227405,
+        907198937,
+        1159321565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12631139
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"9ce93c4862d6c947935cb048d8dbaf0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321565,
+            "empire_id":136253047,
+            "localadmin_id":907198937,
+            "locality_id":9895018864,
+            "macroregion_id":404227405,
+            "region_id":85683095
+        }
+    ],
+    "wof:id":9895018864,
+    "wof:lastmodified":1795734963,
+    "wof:name":"M\u00e4nsk\u00e4nm\u00e4ki",
+    "wof:parent_id":907198937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.27236,
+    61.29578,
+    22.27236,
+    61.29578
+],
+  "geometry": {"coordinates":[22.27236,61.29578],"type":"Point"}
+}

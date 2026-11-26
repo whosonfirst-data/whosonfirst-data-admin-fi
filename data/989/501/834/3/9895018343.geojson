@@ -1,0 +1,80 @@
+{
+  "id": 9895018343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.25529,60.00206,23.25529,60.00206",
+    "geom:latitude":60.00206,
+    "geom:longitude":23.25529,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12585677: name \"Skinnarby\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12585677"
+        },
+        {
+            "citation":"GeoNames populated place 12585677: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12585677"
+        },
+        {
+            "citation":"GeoNames populated place 12585677: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12585677"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199747 (Raasepori), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683067,
+        102191581,
+        136253047,
+        404227411,
+        907199747,
+        1159321627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12585677
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"3dee07c2155840c5934956cb34076a01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321627,
+            "empire_id":136253047,
+            "localadmin_id":907199747,
+            "locality_id":9895018343,
+            "macroregion_id":404227411,
+            "region_id":85683067
+        }
+    ],
+    "wof:id":9895018343,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Skinnarby",
+    "wof:parent_id":907199747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.25529,
+    60.00206,
+    23.25529,
+    60.00206
+],
+  "geometry": {"coordinates":[23.25529,60.00206],"type":"Point"}
+}

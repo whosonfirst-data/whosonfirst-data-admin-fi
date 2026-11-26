@@ -1,0 +1,80 @@
+{
+  "id": 9895018425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.41583,60.88222,24.41583,60.88222",
+    "geom:latitude":60.88222,
+    "geom:longitude":24.41583,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12589399: name \"Lauttiankulma\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12589399"
+        },
+        {
+            "citation":"GeoNames populated place 12589399: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12589399"
+        },
+        {
+            "citation":"GeoNames populated place 12589399: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12589399"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199245 (Hameenlinna), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683077,
+        102191581,
+        136253047,
+        404227411,
+        907199245,
+        1159321513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12589399
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"0bdc9bed79d3d0247286b1e73a954eda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321513,
+            "empire_id":136253047,
+            "localadmin_id":907199245,
+            "locality_id":9895018425,
+            "macroregion_id":404227411,
+            "region_id":85683077
+        }
+    ],
+    "wof:id":9895018425,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Lauttiankulma",
+    "wof:parent_id":907199245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.41583,
+    60.88222,
+    24.41583,
+    60.88222
+],
+  "geometry": {"coordinates":[24.41583,60.88222],"type":"Point"}
+}

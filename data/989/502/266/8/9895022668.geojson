@@ -1,0 +1,80 @@
+{
+  "id": 9895022668,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.99964,62.13591,25.99964,62.13591",
+    "geom:latitude":62.13591,
+    "geom:longitude":25.99964,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12884087: name \"Peiponsalmi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12884087"
+        },
+        {
+            "citation":"GeoNames populated place 12884087: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12884087"
+        },
+        {
+            "citation":"GeoNames populated place 12884087: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12884087"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907198813 (Toivakka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683117,
+        102191581,
+        136253047,
+        404227417,
+        907198813,
+        1159321625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12884087
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"0d51840b4e3bf3eac928275b495c1e71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321625,
+            "empire_id":136253047,
+            "localadmin_id":907198813,
+            "locality_id":9895022668,
+            "macroregion_id":404227417,
+            "region_id":85683117
+        }
+    ],
+    "wof:id":9895022668,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Peiponsalmi",
+    "wof:parent_id":907198813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.99964,
+    62.13591,
+    25.99964,
+    62.13591
+],
+  "geometry": {"coordinates":[25.99964,62.13591],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895025654,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.85751,63.66039,28.85751,63.66039",
+    "geom:latitude":63.66039,
+    "geom:longitude":28.85751,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13202192: name \"Marjokangas\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13202192"
+        },
+        {
+            "citation":"GeoNames populated place 13202192: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13202192"
+        },
+        {
+            "citation":"GeoNames populated place 13202192: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13202192"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199405 (Valtimo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683133,
+        102191581,
+        136253047,
+        404227407,
+        907199405,
+        1159321575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13202192
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"a21b738b566ab95007f7e2a20cb3a363",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321575,
+            "empire_id":136253047,
+            "localadmin_id":907199405,
+            "locality_id":9895025654,
+            "macroregion_id":404227407,
+            "region_id":85683133
+        }
+    ],
+    "wof:id":9895025654,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Marjokangas",
+    "wof:parent_id":907199405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.85751,
+    63.66039,
+    28.85751,
+    63.66039
+],
+  "geometry": {"coordinates":[28.85751,63.66039],"type":"Point"}
+}

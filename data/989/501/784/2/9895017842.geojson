@@ -1,0 +1,80 @@
+{
+  "id": 9895017842,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.02306,62.61883,25.02306,62.61883",
+    "geom:latitude":62.61883,
+    "geom:longitude":25.02306,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12564065: name \"Kiviper\u00e4\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12564065"
+        },
+        {
+            "citation":"GeoNames populated place 12564065: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12564065"
+        },
+        {
+            "citation":"GeoNames populated place 12564065: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12564065"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199213 (Saarijarvi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683117,
+        102191581,
+        136253047,
+        404227417,
+        907199213,
+        1159321515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12564065
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"1f35880f4c4e34d17708a3bf7ce2b83c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321515,
+            "empire_id":136253047,
+            "localadmin_id":907199213,
+            "locality_id":9895017842,
+            "macroregion_id":404227417,
+            "region_id":85683117
+        }
+    ],
+    "wof:id":9895017842,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Kiviper\u00e4",
+    "wof:parent_id":907199213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.02306,
+    62.61883,
+    25.02306,
+    62.61883
+],
+  "geometry": {"coordinates":[25.02306,62.61883],"type":"Point"}
+}

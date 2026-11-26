@@ -1,0 +1,80 @@
+{
+  "id": 9895017454,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.57492,61.73839,21.57492,61.73839",
+    "geom:latitude":61.73839,
+    "geom:longitude":21.57492,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12233226: name \"Haraberg\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12233226"
+        },
+        {
+            "citation":"GeoNames populated place 12233226: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12233226"
+        },
+        {
+            "citation":"GeoNames populated place 12233226: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12233226"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199653 (Pori), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683095,
+        102191581,
+        136253047,
+        404227405,
+        907199653,
+        1159321565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12233226
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"43cdcd8c6d75ffdd14701844ed0ddba9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321565,
+            "empire_id":136253047,
+            "localadmin_id":907199653,
+            "locality_id":9895017454,
+            "macroregion_id":404227405,
+            "region_id":85683095
+        }
+    ],
+    "wof:id":9895017454,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Haraberg",
+    "wof:parent_id":907199653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.57492,
+    61.73839,
+    21.57492,
+    61.73839
+],
+  "geometry": {"coordinates":[21.57492,61.73839],"type":"Point"}
+}

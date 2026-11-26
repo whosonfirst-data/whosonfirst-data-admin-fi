@@ -1,0 +1,80 @@
+{
+  "id": 9895027365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.08845,66.26342,28.08845,66.26342",
+    "geom:latitude":66.26342,
+    "geom:longitude":28.08845,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13384896: name \"Luksua\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13384896"
+        },
+        {
+            "citation":"GeoNames populated place 13384896: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13384896"
+        },
+        {
+            "citation":"GeoNames populated place 13384896: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13384896"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199533 (Posio), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683147,
+        102191581,
+        136253047,
+        404227409,
+        907199533,
+        1159321535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13384896
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"928ce689c2433df00a6f784e94631f64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321535,
+            "empire_id":136253047,
+            "localadmin_id":907199533,
+            "locality_id":9895027365,
+            "macroregion_id":404227409,
+            "region_id":85683147
+        }
+    ],
+    "wof:id":9895027365,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Luksua",
+    "wof:parent_id":907199533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.08845,
+    66.26342,
+    28.08845,
+    66.26342
+],
+  "geometry": {"coordinates":[28.08845,66.26342],"type":"Point"}
+}

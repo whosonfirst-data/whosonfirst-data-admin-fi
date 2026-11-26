@@ -1,0 +1,80 @@
+{
+  "id": 9895027305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.7923,64.59483,26.7923,64.59483",
+    "geom:latitude":64.59483,
+    "geom:longitude":26.7923,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13373711: name \"J\u00e4rvikyl\u00e4\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13373711"
+        },
+        {
+            "citation":"GeoNames populated place 13373711: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13373711"
+        },
+        {
+            "citation":"GeoNames populated place 13373711: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13373711"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199621 (Vaala), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683137,
+        102191581,
+        136253047,
+        404227415,
+        907199621,
+        1159321487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13373711
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"7cdb76541431c4dbf4827385dcaea697",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321487,
+            "empire_id":136253047,
+            "localadmin_id":907199621,
+            "locality_id":9895027305,
+            "macroregion_id":404227415,
+            "region_id":85683137
+        }
+    ],
+    "wof:id":9895027305,
+    "wof:lastmodified":1795734963,
+    "wof:name":"J\u00e4rvikyl\u00e4",
+    "wof:parent_id":907199621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.7923,
+    64.59483,
+    26.7923,
+    64.59483
+],
+  "geometry": {"coordinates":[26.7923,64.59483],"type":"Point"}
+}

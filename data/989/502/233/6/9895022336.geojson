@@ -1,0 +1,80 @@
+{
+  "id": 9895022336,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.16612,62.47271,24.16612,62.47271",
+    "geom:latitude":62.47271,
+    "geom:longitude":24.16612,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12860905: name \"Saarikyl\u00e4\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12860905"
+        },
+        {
+            "citation":"GeoNames populated place 12860905: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12860905"
+        },
+        {
+            "citation":"GeoNames populated place 12860905: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12860905"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199089 (Ahtari), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683113,
+        102191581,
+        136253047,
+        404227417,
+        907199089,
+        1159321555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12860905
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"d0a09cc8e663d52969b6672dab3df915",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321555,
+            "empire_id":136253047,
+            "localadmin_id":907199089,
+            "locality_id":9895022336,
+            "macroregion_id":404227417,
+            "region_id":85683113
+        }
+    ],
+    "wof:id":9895022336,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Saarikyl\u00e4",
+    "wof:parent_id":907199089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.16612,
+    62.47271,
+    24.16612,
+    62.47271
+],
+  "geometry": {"coordinates":[24.16612,62.47271],"type":"Point"}
+}

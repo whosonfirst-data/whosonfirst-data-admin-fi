@@ -1,0 +1,80 @@
+{
+  "id": 9895021063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.25693,65.03607,29.25693,65.03607",
+    "geom:latitude":65.03607,
+    "geom:longitude":29.25693,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12772241: name \"Myllylahti\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12772241"
+        },
+        {
+            "citation":"GeoNames populated place 12772241: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12772241"
+        },
+        {
+            "citation":"GeoNames populated place 12772241: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12772241"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199501 (Suomussalmi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683137,
+        102191581,
+        136253047,
+        404227415,
+        907199501,
+        1159321549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12772241
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"d99cca36be7c606f144f6dc81dfc7885",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321549,
+            "empire_id":136253047,
+            "localadmin_id":907199501,
+            "locality_id":9895021063,
+            "macroregion_id":404227415,
+            "region_id":85683137
+        }
+    ],
+    "wof:id":9895021063,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Myllylahti",
+    "wof:parent_id":907199501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.25693,
+    65.03607,
+    29.25693,
+    65.03607
+],
+  "geometry": {"coordinates":[29.25693,65.03607],"type":"Point"}
+}

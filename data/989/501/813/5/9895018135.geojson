@@ -1,0 +1,80 @@
+{
+  "id": 9895018135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.96534,60.50086,23.96534,60.50086",
+    "geom:latitude":60.50086,
+    "geom:longitude":23.96534,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12579946: name \"Hattula\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12579946"
+        },
+        {
+            "citation":"GeoNames populated place 12579946: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12579946"
+        },
+        {
+            "citation":"GeoNames populated place 12579946: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12579946"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907198655 (Lohja), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683067,
+        102191581,
+        136253047,
+        404227411,
+        907198655,
+        1159321633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12579946
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"924da39c9e132d832d599dbab0b6bc7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321633,
+            "empire_id":136253047,
+            "localadmin_id":907198655,
+            "locality_id":9895018135,
+            "macroregion_id":404227411,
+            "region_id":85683067
+        }
+    ],
+    "wof:id":9895018135,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Hattula",
+    "wof:parent_id":907198655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.96534,
+    60.50086,
+    23.96534,
+    60.50086
+],
+  "geometry": {"coordinates":[23.96534,60.50086],"type":"Point"}
+}

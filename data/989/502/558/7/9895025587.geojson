@@ -1,0 +1,80 @@
+{
+  "id": 9895025587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.18942,63.52958,23.18942,63.52958",
+    "geom:latitude":63.52958,
+    "geom:longitude":23.18942,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13194851: name \"Storbacka\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13194851"
+        },
+        {
+            "citation":"GeoNames populated place 13194851: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13194851"
+        },
+        {
+            "citation":"GeoNames populated place 13194851: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13194851"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199161 (Pedersoren kunta), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683119,
+        102191581,
+        136253047,
+        404227417,
+        907199161,
+        1159321639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13194851
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"681e9fc65a310de4788240cf693cffe4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321639,
+            "empire_id":136253047,
+            "localadmin_id":907199161,
+            "locality_id":9895025587,
+            "macroregion_id":404227417,
+            "region_id":85683119
+        }
+    ],
+    "wof:id":9895025587,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Storbacka",
+    "wof:parent_id":907199161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.18942,
+    63.52958,
+    23.18942,
+    63.52958
+],
+  "geometry": {"coordinates":[23.18942,63.52958],"type":"Point"}
+}

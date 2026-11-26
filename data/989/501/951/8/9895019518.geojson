@@ -1,0 +1,80 @@
+{
+  "id": 9895019518,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.40283,60.52861,25.40283,60.52861",
+    "geom:latitude":60.52861,
+    "geom:longitude":25.40283,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12676903: name \"Pahna\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12676903"
+        },
+        {
+            "citation":"GeoNames populated place 12676903: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12676903"
+        },
+        {
+            "citation":"GeoNames populated place 12676903: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12676903"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907198545 (Pornainen), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683067,
+        102191581,
+        136253047,
+        404227411,
+        907198545,
+        1159321633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12676903
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"5759bda02f0241f6075500d7336a971d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321633,
+            "empire_id":136253047,
+            "localadmin_id":907198545,
+            "locality_id":9895019518,
+            "macroregion_id":404227411,
+            "region_id":85683067
+        }
+    ],
+    "wof:id":9895019518,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Pahna",
+    "wof:parent_id":907198545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.40283,
+    60.52861,
+    25.40283,
+    60.52861
+],
+  "geometry": {"coordinates":[25.40283,60.52861],"type":"Point"}
+}

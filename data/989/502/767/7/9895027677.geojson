@@ -1,0 +1,80 @@
+{
+  "id": 9895027677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.47824,67.56465,23.47824,67.56465",
+    "geom:latitude":67.56465,
+    "geom:longitude":23.47824,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13475673: name \"Vanha-Kihlanki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13475673"
+        },
+        {
+            "citation":"GeoNames populated place 13475673: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13475673"
+        },
+        {
+            "citation":"GeoNames populated place 13475673: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13475673"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199587 (Muonio), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683147,
+        102191581,
+        136253047,
+        404227409,
+        907199587,
+        1159321583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13475673
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"03505d333a452ee412849a0d2ef1c3c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321583,
+            "empire_id":136253047,
+            "localadmin_id":907199587,
+            "locality_id":9895027677,
+            "macroregion_id":404227409,
+            "region_id":85683147
+        }
+    ],
+    "wof:id":9895027677,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Vanha-Kihlanki",
+    "wof:parent_id":907199587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.47824,
+    67.56465,
+    23.47824,
+    67.56465
+],
+  "geometry": {"coordinates":[23.47824,67.56465],"type":"Point"}
+}

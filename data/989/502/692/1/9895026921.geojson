@@ -1,0 +1,80 @@
+{
+  "id": 9895026921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.08842,64.32155,29.08842,64.32155",
+    "geom:latitude":64.32155,
+    "geom:longitude":29.08842,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13331290: name \"Yl\u00e4-Vieksi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13331290"
+        },
+        {
+            "citation":"GeoNames populated place 13331290: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13331290"
+        },
+        {
+            "citation":"GeoNames populated place 13331290: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13331290"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199507 (Kuhmo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683137,
+        102191581,
+        136253047,
+        404227415,
+        907199507,
+        1159321549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13331290
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"c0a67f309e7214238c3f1745f2cbf6c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321549,
+            "empire_id":136253047,
+            "localadmin_id":907199507,
+            "locality_id":9895026921,
+            "macroregion_id":404227415,
+            "region_id":85683137
+        }
+    ],
+    "wof:id":9895026921,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Yl\u00e4-Vieksi",
+    "wof:parent_id":907199507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.08842,
+    64.32155,
+    29.08842,
+    64.32155
+],
+  "geometry": {"coordinates":[29.08842,64.32155],"type":"Point"}
+}

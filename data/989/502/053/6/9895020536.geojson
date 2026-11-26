@@ -1,0 +1,80 @@
+{
+  "id": 9895020536,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.36648,60.76039,23.36648,60.76039",
+    "geom:latitude":60.76039,
+    "geom:longitude":23.36648,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12735911: name \"Kottaanoja\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12735911"
+        },
+        {
+            "citation":"GeoNames populated place 12735911: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12735911"
+        },
+        {
+            "citation":"GeoNames populated place 12735911: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12735911"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907198833 (Ypaja), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683077,
+        102191581,
+        136253047,
+        404227411,
+        907198833,
+        1159321511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12735911
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"4ea0d9423c8e4bb227bb92e6856f19bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321511,
+            "empire_id":136253047,
+            "localadmin_id":907198833,
+            "locality_id":9895020536,
+            "macroregion_id":404227411,
+            "region_id":85683077
+        }
+    ],
+    "wof:id":9895020536,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Kottaanoja",
+    "wof:parent_id":907198833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.36648,
+    60.76039,
+    23.36648,
+    60.76039
+],
+  "geometry": {"coordinates":[23.36648,60.76039],"type":"Point"}
+}

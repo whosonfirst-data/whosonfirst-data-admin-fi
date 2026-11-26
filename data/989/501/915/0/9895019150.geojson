@@ -1,0 +1,80 @@
+{
+  "id": 9895019150,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.94324,60.60131,21.94324,60.60131",
+    "geom:latitude":60.60131,
+    "geom:longitude":21.94324,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12656838: name \"Mannerj\u00e4rvi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12656838"
+        },
+        {
+            "citation":"GeoNames populated place 12656838: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12656838"
+        },
+        {
+            "citation":"GeoNames populated place 12656838: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12656838"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907198919 (Masku), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683073,
+        102191581,
+        136253047,
+        404227405,
+        907198919,
+        1159321603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12656838
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"013422e9ad4a07029cd21c9a72a6326f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321603,
+            "empire_id":136253047,
+            "localadmin_id":907198919,
+            "locality_id":9895019150,
+            "macroregion_id":404227405,
+            "region_id":85683073
+        }
+    ],
+    "wof:id":9895019150,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Mannerj\u00e4rvi",
+    "wof:parent_id":907198919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.94324,
+    60.60131,
+    21.94324,
+    60.60131
+],
+  "geometry": {"coordinates":[21.94324,60.60131],"type":"Point"}
+}

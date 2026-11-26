@@ -1,0 +1,80 @@
+{
+  "id": 9895019286,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.2766,60.53992,24.2766,60.53992",
+    "geom:latitude":60.53992,
+    "geom:longitude":24.2766,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12666306: name \"P\u00f6yt\u00e4kivenkulma\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12666306"
+        },
+        {
+            "citation":"GeoNames populated place 12666306: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12666306"
+        },
+        {
+            "citation":"GeoNames populated place 12666306: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12666306"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907198539 (Karkkila), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683067,
+        102191581,
+        136253047,
+        404227411,
+        907198539,
+        1159321633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12666306
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"f584eefd55e0ce33e3523a34a8492b54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321633,
+            "empire_id":136253047,
+            "localadmin_id":907198539,
+            "locality_id":9895019286,
+            "macroregion_id":404227411,
+            "region_id":85683067
+        }
+    ],
+    "wof:id":9895019286,
+    "wof:lastmodified":1795734963,
+    "wof:name":"P\u00f6yt\u00e4kivenkulma",
+    "wof:parent_id":907198539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.2766,
+    60.53992,
+    24.2766,
+    60.53992
+],
+  "geometry": {"coordinates":[24.2766,60.53992],"type":"Point"}
+}

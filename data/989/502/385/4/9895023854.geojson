@@ -1,0 +1,80 @@
+{
+  "id": 9895023854,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.84548,62.8875,22.84548,62.8875",
+    "geom:latitude":62.8875,
+    "geom:longitude":22.84548,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12945357: name \"Varattomanloukko\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12945357"
+        },
+        {
+            "citation":"GeoNames populated place 12945357: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12945357"
+        },
+        {
+            "citation":"GeoNames populated place 12945357: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12945357"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199241 (Lapua), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683113,
+        102191581,
+        136253047,
+        404227417,
+        907199241,
+        1159321561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12945357
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"1135f173ae40b6f85849c140d3e4bec8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321561,
+            "empire_id":136253047,
+            "localadmin_id":907199241,
+            "locality_id":9895023854,
+            "macroregion_id":404227417,
+            "region_id":85683113
+        }
+    ],
+    "wof:id":9895023854,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Varattomanloukko",
+    "wof:parent_id":907199241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.84548,
+    62.8875,
+    22.84548,
+    62.8875
+],
+  "geometry": {"coordinates":[22.84548,62.8875],"type":"Point"}
+}

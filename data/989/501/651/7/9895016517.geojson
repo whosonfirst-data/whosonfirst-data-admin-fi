@@ -1,0 +1,80 @@
+{
+  "id": 9895016517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.18835,63.48356,24.18835,63.48356",
+    "geom:latitude":63.48356,
+    "geom:longitude":24.18835,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 631951: name \"Venetjoki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/631951"
+        },
+        {
+            "citation":"GeoNames populated place 631951: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/631951"
+        },
+        {
+            "citation":"GeoNames populated place 631951: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/631951"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199301 (Halsua), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683125,
+        102191581,
+        136253047,
+        404227417,
+        907199301,
+        1159321595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":631951
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"22290dbda0e4d764ca971451d72dd6e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321595,
+            "empire_id":136253047,
+            "localadmin_id":907199301,
+            "locality_id":9895016517,
+            "macroregion_id":404227417,
+            "region_id":85683125
+        }
+    ],
+    "wof:id":9895016517,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Venetjoki",
+    "wof:parent_id":907199301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.18835,
+    63.48356,
+    24.18835,
+    63.48356
+],
+  "geometry": {"coordinates":[24.18835,63.48356],"type":"Point"}
+}

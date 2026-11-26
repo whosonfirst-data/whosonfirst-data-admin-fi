@@ -1,0 +1,80 @@
+{
+  "id": 9895018478,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.58313,61.15924,21.58313,61.15924",
+    "geom:latitude":61.15924,
+    "geom:longitude":21.58313,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12591200: name \"Tiilivuori\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12591200"
+        },
+        {
+            "citation":"GeoNames populated place 12591200: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12591200"
+        },
+        {
+            "citation":"GeoNames populated place 12591200: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12591200"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907198665 (Rauma), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683095,
+        102191581,
+        136253047,
+        404227405,
+        907198665,
+        1159321607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12591200
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"c631972888021f6fbd65f79e2be0a9d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321607,
+            "empire_id":136253047,
+            "localadmin_id":907198665,
+            "locality_id":9895018478,
+            "macroregion_id":404227405,
+            "region_id":85683095
+        }
+    ],
+    "wof:id":9895018478,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Tiilivuori",
+    "wof:parent_id":907198665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.58313,
+    61.15924,
+    21.58313,
+    61.15924
+],
+  "geometry": {"coordinates":[21.58313,61.15924],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895024235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.66075,63.21491,22.66075,63.21491",
+    "geom:latitude":63.21491,
+    "geom:longitude":22.66075,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13049986: name \"Saunakangas\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13049986"
+        },
+        {
+            "citation":"GeoNames populated place 13049986: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13049986"
+        },
+        {
+            "citation":"GeoNames populated place 13049986: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13049986"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199237 (Kauhava), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683113,
+        102191581,
+        136253047,
+        404227417,
+        907199237,
+        1159321561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13049986
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"e421b48049e28070dded5fc75e3aaceb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321561,
+            "empire_id":136253047,
+            "localadmin_id":907199237,
+            "locality_id":9895024235,
+            "macroregion_id":404227417,
+            "region_id":85683113
+        }
+    ],
+    "wof:id":9895024235,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Saunakangas",
+    "wof:parent_id":907199237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.66075,
+    63.21491,
+    22.66075,
+    63.21491
+],
+  "geometry": {"coordinates":[22.66075,63.21491],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895024144,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.42512,63.25645,22.42512,63.25645",
+    "geom:latitude":63.25645,
+    "geom:longitude":22.42512,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13041907: name \"B\u00e5skas\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13041907"
+        },
+        {
+            "citation":"GeoNames populated place 13041907: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13041907"
+        },
+        {
+            "citation":"GeoNames populated place 13041907: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13041907"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199763 (Voyri), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683119,
+        102191581,
+        136253047,
+        404227417,
+        907199763,
+        1159321501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13041907
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"40b1a39f00633b1c81837e39e50d0ced",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321501,
+            "empire_id":136253047,
+            "localadmin_id":907199763,
+            "locality_id":9895024144,
+            "macroregion_id":404227417,
+            "region_id":85683119
+        }
+    ],
+    "wof:id":9895024144,
+    "wof:lastmodified":1795734963,
+    "wof:name":"B\u00e5skas",
+    "wof:parent_id":907199763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.42512,
+    63.25645,
+    22.42512,
+    63.25645
+],
+  "geometry": {"coordinates":[22.42512,63.25645],"type":"Point"}
+}

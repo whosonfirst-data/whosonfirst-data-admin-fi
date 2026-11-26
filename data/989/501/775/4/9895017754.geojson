@@ -1,0 +1,80 @@
+{
+  "id": 9895017754,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.41271,60.43742,23.41271,60.43742",
+    "geom:latitude":60.43742,
+    "geom:longitude":23.41271,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12364677: name \"Hepokallionkulma\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12364677"
+        },
+        {
+            "citation":"GeoNames populated place 12364677: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12364677"
+        },
+        {
+            "citation":"GeoNames populated place 12364677: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12364677"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907198943 (Salo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683073,
+        102191581,
+        136253047,
+        404227405,
+        907198943,
+        1159321585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12364677
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"04c11cdd3b1eb7b52742b0738946c3d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321585,
+            "empire_id":136253047,
+            "localadmin_id":907198943,
+            "locality_id":9895017754,
+            "macroregion_id":404227405,
+            "region_id":85683073
+        }
+    ],
+    "wof:id":9895017754,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Hepokallionkulma",
+    "wof:parent_id":907198943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.41271,
+    60.43742,
+    23.41271,
+    60.43742
+],
+  "geometry": {"coordinates":[23.41271,60.43742],"type":"Point"}
+}

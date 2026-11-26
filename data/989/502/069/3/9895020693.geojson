@@ -1,0 +1,80 @@
+{
+  "id": 9895020693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.29357,62.16928,30.29357,62.16928",
+    "geom:latitude":62.16928,
+    "geom:longitude":30.29357,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12742801: name \"Viitoi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12742801"
+        },
+        {
+            "citation":"GeoNames populated place 12742801: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12742801"
+        },
+        {
+            "citation":"GeoNames populated place 12742801: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12742801"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199417 (Tohmajarvi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683133,
+        102191581,
+        136253047,
+        404227407,
+        907199417,
+        1159321517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12742801
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"a38ea4628f069730e0442102e876805a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321517,
+            "empire_id":136253047,
+            "localadmin_id":907199417,
+            "locality_id":9895020693,
+            "macroregion_id":404227407,
+            "region_id":85683133
+        }
+    ],
+    "wof:id":9895020693,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Viitoi",
+    "wof:parent_id":907199417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.29357,
+    62.16928,
+    30.29357,
+    62.16928
+],
+  "geometry": {"coordinates":[30.29357,62.16928],"type":"Point"}
+}

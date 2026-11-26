@@ -1,0 +1,80 @@
+{
+  "id": 9895019070,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.84402,60.41641,25.84402,60.41641",
+    "geom:latitude":60.41641,
+    "geom:longitude":25.84402,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12638567: name \"Renum\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12638567"
+        },
+        {
+            "citation":"GeoNames populated place 12638567: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12638567"
+        },
+        {
+            "citation":"GeoNames populated place 12638567: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12638567"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907198525 (Porvoo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683067,
+        102191581,
+        136253047,
+        404227411,
+        907198525,
+        1159321593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12638567
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"01c0577063b420d54a059af6f613c9a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321593,
+            "empire_id":136253047,
+            "localadmin_id":907198525,
+            "locality_id":9895019070,
+            "macroregion_id":404227411,
+            "region_id":85683067
+        }
+    ],
+    "wof:id":9895019070,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Renum",
+    "wof:parent_id":907198525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.84402,
+    60.41641,
+    25.84402,
+    60.41641
+],
+  "geometry": {"coordinates":[25.84402,60.41641],"type":"Point"}
+}

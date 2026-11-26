@@ -1,0 +1,80 @@
+{
+  "id": 9895018974,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.58984,60.50281,25.58984,60.50281",
+    "geom:latitude":60.50281,
+    "geom:longitude":25.58984,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12633081: name \"Nietoo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12633081"
+        },
+        {
+            "citation":"GeoNames populated place 12633081: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12633081"
+        },
+        {
+            "citation":"GeoNames populated place 12633081: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12633081"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907198543 (Askola), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683067,
+        102191581,
+        136253047,
+        404227411,
+        907198543,
+        1159321593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12633081
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"ff210bf83f3a24517813a6c1c5a6776e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321593,
+            "empire_id":136253047,
+            "localadmin_id":907198543,
+            "locality_id":9895018974,
+            "macroregion_id":404227411,
+            "region_id":85683067
+        }
+    ],
+    "wof:id":9895018974,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Nietoo",
+    "wof:parent_id":907198543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.58984,
+    60.50281,
+    25.58984,
+    60.50281
+],
+  "geometry": {"coordinates":[25.58984,60.50281],"type":"Point"}
+}

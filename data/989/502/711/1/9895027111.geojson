@@ -1,0 +1,80 @@
+{
+  "id": 9895027111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.08538,64.65694,26.08538,64.65694",
+    "geom:latitude":64.65694,
+    "geom:longitude":26.08538,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13344250: name \"M\u00f6kkikyl\u00e4\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13344250"
+        },
+        {
+            "citation":"GeoNames populated place 13344250: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13344250"
+        },
+        {
+            "citation":"GeoNames populated place 13344250: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13344250"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199477 (Muhos), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683143,
+        102191581,
+        136253047,
+        404227415,
+        907199477,
+        1159321529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13344250
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"ebc072528305a0fcfc4e94de10655da5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321529,
+            "empire_id":136253047,
+            "localadmin_id":907199477,
+            "locality_id":9895027111,
+            "macroregion_id":404227415,
+            "region_id":85683143
+        }
+    ],
+    "wof:id":9895027111,
+    "wof:lastmodified":1795734963,
+    "wof:name":"M\u00f6kkikyl\u00e4",
+    "wof:parent_id":907199477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.08538,
+    64.65694,
+    26.08538,
+    64.65694
+],
+  "geometry": {"coordinates":[26.08538,64.65694],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895027586,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.10564,66.43699,24.10564,66.43699",
+    "geom:latitude":66.43699,
+    "geom:longitude":24.10564,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13470642: name \"Isot\u00f6rm\u00e4\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13470642"
+        },
+        {
+            "citation":"GeoNames populated place 13470642: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13470642"
+        },
+        {
+            "citation":"GeoNames populated place 13470642: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13470642"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199549 (Ylitornio), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683147,
+        102191581,
+        136253047,
+        404227409,
+        907199549,
+        1159321537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13470642
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"15bdb6a8257d5621f9af308d8f4e4ff3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321537,
+            "empire_id":136253047,
+            "localadmin_id":907199549,
+            "locality_id":9895027586,
+            "macroregion_id":404227409,
+            "region_id":85683147
+        }
+    ],
+    "wof:id":9895027586,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Isot\u00f6rm\u00e4",
+    "wof:parent_id":907199549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.10564,
+    66.43699,
+    24.10564,
+    66.43699
+],
+  "geometry": {"coordinates":[24.10564,66.43699],"type":"Point"}
+}

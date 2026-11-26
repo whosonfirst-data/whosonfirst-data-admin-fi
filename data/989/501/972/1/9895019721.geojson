@@ -1,0 +1,80 @@
+{
+  "id": 9895019721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.56695,61.05453,27.56695,61.05453",
+    "geom:latitude":61.05453,
+    "geom:longitude":27.56695,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12697283: name \"Kurki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12697283"
+        },
+        {
+            "citation":"GeoNames populated place 12697283: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12697283"
+        },
+        {
+            "citation":"GeoNames populated place 12697283: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12697283"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907198759 (Savitaipale), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683103,
+        102191581,
+        136253047,
+        404227411,
+        907198759,
+        1159321547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12697283
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"5b0ef6694ecd8b93c1a231e957b9a4dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321547,
+            "empire_id":136253047,
+            "localadmin_id":907198759,
+            "locality_id":9895019721,
+            "macroregion_id":404227411,
+            "region_id":85683103
+        }
+    ],
+    "wof:id":9895019721,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Kurki",
+    "wof:parent_id":907198759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.56695,
+    61.05453,
+    27.56695,
+    61.05453
+],
+  "geometry": {"coordinates":[27.56695,61.05453],"type":"Point"}
+}

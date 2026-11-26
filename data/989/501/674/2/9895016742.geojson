@@ -1,0 +1,80 @@
+{
+  "id": 9895016742,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.58682,63.30108,23.58682,63.30108",
+    "geom:latitude":63.30108,
+    "geom:longitude":23.58682,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 639972: name \"Rantaaho\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/639972"
+        },
+        {
+            "citation":"GeoNames populated place 639972: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/639972"
+        },
+        {
+            "citation":"GeoNames populated place 639972: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/639972"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199283 (Evijarvi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683113,
+        102191581,
+        136253047,
+        404227417,
+        907199283,
+        1159321567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":639972
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"48340af629ac0082d04086bfe17b06a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321567,
+            "empire_id":136253047,
+            "localadmin_id":907199283,
+            "locality_id":9895016742,
+            "macroregion_id":404227417,
+            "region_id":85683113
+        }
+    ],
+    "wof:id":9895016742,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Rantaaho",
+    "wof:parent_id":907199283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.58682,
+    63.30108,
+    23.58682,
+    63.30108
+],
+  "geometry": {"coordinates":[23.58682,63.30108],"type":"Point"}
+}

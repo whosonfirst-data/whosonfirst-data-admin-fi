@@ -1,0 +1,80 @@
+{
+  "id": 9895019948,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.22181,60.6123,27.22181,60.6123",
+    "geom:latitude":60.6123,
+    "geom:longitude":27.22181,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12704931: name \"Eerinm\u00e4ki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12704931"
+        },
+        {
+            "citation":"GeoNames populated place 12704931: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12704931"
+        },
+        {
+            "citation":"GeoNames populated place 12704931: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12704931"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199723 (Hamina), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683081,
+        102191581,
+        136253047,
+        404227411,
+        907199723,
+        1159321573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12704931
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"66d63234a5e6dfc0e0818dc38061099e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321573,
+            "empire_id":136253047,
+            "localadmin_id":907199723,
+            "locality_id":9895019948,
+            "macroregion_id":404227411,
+            "region_id":85683081
+        }
+    ],
+    "wof:id":9895019948,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Eerinm\u00e4ki",
+    "wof:parent_id":907199723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.22181,
+    60.6123,
+    27.22181,
+    60.6123
+],
+  "geometry": {"coordinates":[27.22181,60.6123],"type":"Point"}
+}

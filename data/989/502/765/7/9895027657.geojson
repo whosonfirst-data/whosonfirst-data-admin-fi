@@ -1,0 +1,80 @@
+{
+  "id": 9895027657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.80862,66.058,24.80862,66.058",
+    "geom:latitude":66.058,
+    "geom:longitude":24.80862,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13474111: name \"Isonpalonper\u00e4\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13474111"
+        },
+        {
+            "citation":"GeoNames populated place 13474111: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13474111"
+        },
+        {
+            "citation":"GeoNames populated place 13474111: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13474111"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199545 (Tervola), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683147,
+        102191581,
+        136253047,
+        404227409,
+        907199545,
+        1159321559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13474111
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"af667a92ed29a577a5dc5fcfbb4dc31d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321559,
+            "empire_id":136253047,
+            "localadmin_id":907199545,
+            "locality_id":9895027657,
+            "macroregion_id":404227409,
+            "region_id":85683147
+        }
+    ],
+    "wof:id":9895027657,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Isonpalonper\u00e4",
+    "wof:parent_id":907199545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.80862,
+    66.058,
+    24.80862,
+    66.058
+],
+  "geometry": {"coordinates":[24.80862,66.058],"type":"Point"}
+}

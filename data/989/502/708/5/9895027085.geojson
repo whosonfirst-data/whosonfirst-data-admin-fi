@@ -1,0 +1,80 @@
+{
+  "id": 9895027085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.32399,64.77866,26.32399,64.77866",
+    "geom:latitude":64.77866,
+    "geom:longitude":26.32399,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13342554: name \"Alakyl\u00e4\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13342554"
+        },
+        {
+            "citation":"GeoNames populated place 13342554: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13342554"
+        },
+        {
+            "citation":"GeoNames populated place 13342554: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13342554"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199509 (Utajarvi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683143,
+        102191581,
+        136253047,
+        404227415,
+        907199509,
+        1159321497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13342554
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"d30d90195d1179d3a42443294840e93d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321497,
+            "empire_id":136253047,
+            "localadmin_id":907199509,
+            "locality_id":9895027085,
+            "macroregion_id":404227415,
+            "region_id":85683143
+        }
+    ],
+    "wof:id":9895027085,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Alakyl\u00e4",
+    "wof:parent_id":907199509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.32399,
+    64.77866,
+    26.32399,
+    64.77866
+],
+  "geometry": {"coordinates":[26.32399,64.77866],"type":"Point"}
+}

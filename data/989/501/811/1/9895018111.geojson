@@ -1,0 +1,80 @@
+{
+  "id": 9895018111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.70164,60.72874,24.70164,60.72874",
+    "geom:latitude":60.72874,
+    "geom:longitude":24.70164,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12579191: name \"Riutta\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12579191"
+        },
+        {
+            "citation":"GeoNames populated place 12579191: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12579191"
+        },
+        {
+            "citation":"GeoNames populated place 12579191: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12579191"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199603 (Riihimaki), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683077,
+        102191581,
+        136253047,
+        404227411,
+        907199603,
+        1159321541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12579191
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"ad6389d37b3a17107a6ea14b576abfb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321541,
+            "empire_id":136253047,
+            "localadmin_id":907199603,
+            "locality_id":9895018111,
+            "macroregion_id":404227411,
+            "region_id":85683077
+        }
+    ],
+    "wof:id":9895018111,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Riutta",
+    "wof:parent_id":907199603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.70164,
+    60.72874,
+    24.70164,
+    60.72874
+],
+  "geometry": {"coordinates":[24.70164,60.72874],"type":"Point"}
+}

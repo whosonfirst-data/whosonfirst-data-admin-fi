@@ -1,0 +1,80 @@
+{
+  "id": 9895024046,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.9104,62.60536,23.9104,62.60536",
+    "geom:latitude":62.60536,
+    "geom:longitude":23.9104,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12951426: name \"Hakoj\u00e4rvi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12951426"
+        },
+        {
+            "citation":"GeoNames populated place 12951426: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12951426"
+        },
+        {
+            "citation":"GeoNames populated place 12951426: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12951426"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199157 (Alavus), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683113,
+        102191581,
+        136253047,
+        404227417,
+        907199157,
+        1159321555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12951426
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"1270d8aba35c6b7f6f9f54c314b64d41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321555,
+            "empire_id":136253047,
+            "localadmin_id":907199157,
+            "locality_id":9895024046,
+            "macroregion_id":404227417,
+            "region_id":85683113
+        }
+    ],
+    "wof:id":9895024046,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Hakoj\u00e4rvi",
+    "wof:parent_id":907199157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.9104,
+    62.60536,
+    23.9104,
+    62.60536
+],
+  "geometry": {"coordinates":[23.9104,62.60536],"type":"Point"}
+}

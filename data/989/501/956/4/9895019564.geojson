@@ -1,0 +1,80 @@
+{
+  "id": 9895019564,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.34582,60.70503,26.34582,60.70503",
+    "geom:latitude":60.70503,
+    "geom:longitude":26.34582,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12677916: name \"Soiniitty\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12677916"
+        },
+        {
+            "citation":"GeoNames populated place 12677916: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12677916"
+        },
+        {
+            "citation":"GeoNames populated place 12677916: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12677916"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907198969 (Kouvola), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683081,
+        102191581,
+        136253047,
+        404227411,
+        907198969,
+        1159321557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12677916
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"2cddbb6760cb6cb96b8fb65bc04c0a12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321557,
+            "empire_id":136253047,
+            "localadmin_id":907198969,
+            "locality_id":9895019564,
+            "macroregion_id":404227411,
+            "region_id":85683081
+        }
+    ],
+    "wof:id":9895019564,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Soiniitty",
+    "wof:parent_id":907198969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.34582,
+    60.70503,
+    26.34582,
+    60.70503
+],
+  "geometry": {"coordinates":[26.34582,60.70503],"type":"Point"}
+}

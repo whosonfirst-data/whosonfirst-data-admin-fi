@@ -1,0 +1,80 @@
+{
+  "id": 9895016583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.47208,65.90551,29.47208,65.90551",
+    "geom:latitude":65.90551,
+    "geom:longitude":29.47208,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 634111: name \"T\u00f6rm\u00e4senvaara\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/634111"
+        },
+        {
+            "citation":"GeoNames populated place 634111: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/634111"
+        },
+        {
+            "citation":"GeoNames populated place 634111: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/634111"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199519 (Kuusamo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683143,
+        102191581,
+        136253047,
+        404227415,
+        907199519,
+        1159321489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":634111
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"f47c3db09dd6f54998a62e18adb601eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321489,
+            "empire_id":136253047,
+            "localadmin_id":907199519,
+            "locality_id":9895016583,
+            "macroregion_id":404227415,
+            "region_id":85683143
+        }
+    ],
+    "wof:id":9895016583,
+    "wof:lastmodified":1795734963,
+    "wof:name":"T\u00f6rm\u00e4senvaara",
+    "wof:parent_id":907199519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.47208,
+    65.90551,
+    29.47208,
+    65.90551
+],
+  "geometry": {"coordinates":[29.47208,65.90551],"type":"Point"}
+}

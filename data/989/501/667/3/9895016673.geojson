@@ -1,0 +1,80 @@
+{
+  "id": 9895016673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.99227,61.04458,25.99227,61.04458",
+    "geom:latitude":61.04458,
+    "geom:longitude":25.99227,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 637317: name \"Saviste\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/637317"
+        },
+        {
+            "citation":"GeoNames populated place 637317: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/637317"
+        },
+        {
+            "citation":"GeoNames populated place 637317: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/637317"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907198647 (Lahti), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683091,
+        102191581,
+        136253047,
+        404227411,
+        907198647,
+        1159321483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":637317
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"0b5151d1dd8b0d2544e0a0b7a59507ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321483,
+            "empire_id":136253047,
+            "localadmin_id":907198647,
+            "locality_id":9895016673,
+            "macroregion_id":404227411,
+            "region_id":85683091
+        }
+    ],
+    "wof:id":9895016673,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Saviste",
+    "wof:parent_id":907198647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.99227,
+    61.04458,
+    25.99227,
+    61.04458
+],
+  "geometry": {"coordinates":[25.99227,61.04458],"type":"Point"}
+}

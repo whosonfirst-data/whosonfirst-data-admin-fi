@@ -1,0 +1,80 @@
+{
+  "id": 9895019944,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.19606,60.62473,27.19606,60.62473",
+    "geom:latitude":60.62473,
+    "geom:longitude":27.19606,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12704864: name \"Aholanm\u00e4ki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12704864"
+        },
+        {
+            "citation":"GeoNames populated place 12704864: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12704864"
+        },
+        {
+            "citation":"GeoNames populated place 12704864: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12704864"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199723 (Hamina), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683081,
+        102191581,
+        136253047,
+        404227411,
+        907199723,
+        1159321573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12704864
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"3305ddc5c93ec7f19341e666857a3f71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321573,
+            "empire_id":136253047,
+            "localadmin_id":907199723,
+            "locality_id":9895019944,
+            "macroregion_id":404227411,
+            "region_id":85683081
+        }
+    ],
+    "wof:id":9895019944,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Aholanm\u00e4ki",
+    "wof:parent_id":907199723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.19606,
+    60.62473,
+    27.19606,
+    60.62473
+],
+  "geometry": {"coordinates":[27.19606,60.62473],"type":"Point"}
+}

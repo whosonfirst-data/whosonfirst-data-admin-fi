@@ -1,0 +1,80 @@
+{
+  "id": 9895023334,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.83128,61.80013,26.83128,61.80013",
+    "geom:latitude":61.80013,
+    "geom:longitude":26.83128,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12923357: name \"Pohjoiskyl\u00e4\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12923357"
+        },
+        {
+            "citation":"GeoNames populated place 12923357: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12923357"
+        },
+        {
+            "citation":"GeoNames populated place 12923357: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12923357"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907198755 (Hirvensalmi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683109,
+        102191581,
+        136253047,
+        404227407,
+        907198755,
+        1159321539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12923357
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"e9f3faa1f2fb6798e7c3442806db8b21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321539,
+            "empire_id":136253047,
+            "localadmin_id":907198755,
+            "locality_id":9895023334,
+            "macroregion_id":404227407,
+            "region_id":85683109
+        }
+    ],
+    "wof:id":9895023334,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Pohjoiskyl\u00e4",
+    "wof:parent_id":907198755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.83128,
+    61.80013,
+    26.83128,
+    61.80013
+],
+  "geometry": {"coordinates":[26.83128,61.80013],"type":"Point"}
+}

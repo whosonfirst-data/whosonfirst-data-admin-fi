@@ -1,0 +1,80 @@
+{
+  "id": 9895019455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.74094,60.08334,23.74094,60.08334",
+    "geom:latitude":60.08334,
+    "geom:longitude":23.74094,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12674504: name \"Lillsann\u00e4s\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12674504"
+        },
+        {
+            "citation":"GeoNames populated place 12674504: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12674504"
+        },
+        {
+            "citation":"GeoNames populated place 12674504: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12674504"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199747 (Raasepori), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683067,
+        102191581,
+        136253047,
+        404227411,
+        907199747,
+        1159321627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12674504
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"1311a783c35ce89ec631f79889eeea7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321627,
+            "empire_id":136253047,
+            "localadmin_id":907199747,
+            "locality_id":9895019455,
+            "macroregion_id":404227411,
+            "region_id":85683067
+        }
+    ],
+    "wof:id":9895019455,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Lillsann\u00e4s",
+    "wof:parent_id":907199747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.74094,
+    60.08334,
+    23.74094,
+    60.08334
+],
+  "geometry": {"coordinates":[23.74094,60.08334],"type":"Point"}
+}
