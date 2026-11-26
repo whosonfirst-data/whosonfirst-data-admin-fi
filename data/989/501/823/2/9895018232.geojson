@@ -1,0 +1,80 @@
+{
+  "id": 9895018232,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.60067,60.9395,22.60067,60.9395",
+    "geom:latitude":60.9395,
+    "geom:longitude":22.60067,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12582502: name \"Niittykyl\u00e4\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12582502"
+        },
+        {
+            "citation":"GeoNames populated place 12582502: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12582502"
+        },
+        {
+            "citation":"GeoNames populated place 12582502: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12582502"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907198963 (Loimaa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683073,
+        102191581,
+        136253047,
+        404227405,
+        907198963,
+        1159321505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12582502
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"6f5785720e7cbac043878ed180e9a690",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321505,
+            "empire_id":136253047,
+            "localadmin_id":907198963,
+            "locality_id":9895018232,
+            "macroregion_id":404227405,
+            "region_id":85683073
+        }
+    ],
+    "wof:id":9895018232,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Niittykyl\u00e4",
+    "wof:parent_id":907198963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.60067,
+    60.9395,
+    22.60067,
+    60.9395
+],
+  "geometry": {"coordinates":[22.60067,60.9395],"type":"Point"}
+}

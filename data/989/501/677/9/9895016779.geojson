@@ -1,0 +1,80 @@
+{
+  "id": 9895016779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.11613,63.66299,29.11613,63.66299",
+    "geom:latitude":63.66299,
+    "geom:longitude":29.11613,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 641321: name \"Pitk\u00e4koski\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/641321"
+        },
+        {
+            "citation":"GeoNames populated place 641321: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/641321"
+        },
+        {
+            "citation":"GeoNames populated place 641321: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/641321"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199409 (Nurmes), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683133,
+        102191581,
+        136253047,
+        404227407,
+        907199409,
+        1159321575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":641321
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"d648acff19734d2151fdc517ad797c9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321575,
+            "empire_id":136253047,
+            "localadmin_id":907199409,
+            "locality_id":9895016779,
+            "macroregion_id":404227407,
+            "region_id":85683133
+        }
+    ],
+    "wof:id":9895016779,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Pitk\u00e4koski",
+    "wof:parent_id":907199409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.11613,
+    63.66299,
+    29.11613,
+    63.66299
+],
+  "geometry": {"coordinates":[29.11613,63.66299],"type":"Point"}
+}

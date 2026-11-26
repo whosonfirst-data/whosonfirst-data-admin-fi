@@ -1,0 +1,80 @@
+{
+  "id": 9895025504,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.28814,63.97971,24.28814,63.97971",
+    "geom:latitude":63.97971,
+    "geom:longitude":24.28814,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13187992: name \"Asemakyl\u00e4\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13187992"
+        },
+        {
+            "citation":"GeoNames populated place 13187992: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13187992"
+        },
+        {
+            "citation":"GeoNames populated place 13187992: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13187992"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199347 (Sievi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683143,
+        102191581,
+        136253047,
+        404227415,
+        907199347,
+        1159321569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13187992
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"751c5997a9d7839f63c9283de6b67054",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321569,
+            "empire_id":136253047,
+            "localadmin_id":907199347,
+            "locality_id":9895025504,
+            "macroregion_id":404227415,
+            "region_id":85683143
+        }
+    ],
+    "wof:id":9895025504,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Asemakyl\u00e4",
+    "wof:parent_id":907199347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.28814,
+    63.97971,
+    24.28814,
+    63.97971
+],
+  "geometry": {"coordinates":[24.28814,63.97971],"type":"Point"}
+}

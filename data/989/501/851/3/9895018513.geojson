@@ -1,0 +1,80 @@
+{
+  "id": 9895018513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.00465,60.57092,24.00465,60.57092",
+    "geom:latitude":60.57092,
+    "geom:longitude":24.00465,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12592556: name \"Sahankulma\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12592556"
+        },
+        {
+            "citation":"GeoNames populated place 12592556: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12592556"
+        },
+        {
+            "citation":"GeoNames populated place 12592556: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12592556"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907198655 (Lohja), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683067,
+        102191581,
+        136253047,
+        404227411,
+        907198655,
+        1159321633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12592556
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"ca0a3386f0c19e3c3983045879a07c53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321633,
+            "empire_id":136253047,
+            "localadmin_id":907198655,
+            "locality_id":9895018513,
+            "macroregion_id":404227411,
+            "region_id":85683067
+        }
+    ],
+    "wof:id":9895018513,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Sahankulma",
+    "wof:parent_id":907198655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.00465,
+    60.57092,
+    24.00465,
+    60.57092
+],
+  "geometry": {"coordinates":[24.00465,60.57092],"type":"Point"}
+}

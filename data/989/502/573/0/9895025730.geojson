@@ -1,0 +1,80 @@
+{
+  "id": 9895025730,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.2863,63.10225,28.2863,63.10225",
+    "geom:latitude":63.10225,
+    "geom:longitude":28.2863,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13205981: name \"Selk\u00e4l\u00e4nniemi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13205981"
+        },
+        {
+            "citation":"GeoNames populated place 13205981: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13205981"
+        },
+        {
+            "citation":"GeoNames populated place 13205981: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13205981"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199339 (Juankoski), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683131,
+        102191581,
+        136253047,
+        404227407,
+        907199339,
+        1159321597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13205981
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"df017c826e401057fccb79b10311e27d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321597,
+            "empire_id":136253047,
+            "localadmin_id":907199339,
+            "locality_id":9895025730,
+            "macroregion_id":404227407,
+            "region_id":85683131
+        }
+    ],
+    "wof:id":9895025730,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Selk\u00e4l\u00e4nniemi",
+    "wof:parent_id":907199339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.2863,
+    63.10225,
+    28.2863,
+    63.10225
+],
+  "geometry": {"coordinates":[28.2863,63.10225],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895017151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.06883,62.40069,26.06883,62.40069",
+    "geom:latitude":62.40069,
+    "geom:longitude":26.06883,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 655168: name \"K\u00e4\u00e4minniemi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/655168"
+        },
+        {
+            "citation":"GeoNames populated place 655168: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/655168"
+        },
+        {
+            "citation":"GeoNames populated place 655168: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/655168"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199203 (Laukaa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683117,
+        102191581,
+        136253047,
+        404227417,
+        907199203,
+        1159321625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":655168
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"9adee02371faef96ef18160fe57672b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321625,
+            "empire_id":136253047,
+            "localadmin_id":907199203,
+            "locality_id":9895017151,
+            "macroregion_id":404227417,
+            "region_id":85683117
+        }
+    ],
+    "wof:id":9895017151,
+    "wof:lastmodified":1795734963,
+    "wof:name":"K\u00e4\u00e4minniemi",
+    "wof:parent_id":907199203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.06883,
+    62.40069,
+    26.06883,
+    62.40069
+],
+  "geometry": {"coordinates":[26.06883,62.40069],"type":"Point"}
+}

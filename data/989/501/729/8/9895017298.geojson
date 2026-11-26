@@ -1,0 +1,80 @@
+{
+  "id": 9895017298,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.2697,63.85207,26.2697,63.85207",
+    "geom:latitude":63.85207,
+    "geom:longitude":26.2697,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 661654: name \"Akanm\u00e4ki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/661654"
+        },
+        {
+            "citation":"GeoNames populated place 661654: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/661654"
+        },
+        {
+            "citation":"GeoNames populated place 661654: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/661654"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199491 (Pyhanta), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683143,
+        102191581,
+        136253047,
+        404227415,
+        907199491,
+        1159321571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":661654
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"7d2deabec058ccbddaa5497c154152c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321571,
+            "empire_id":136253047,
+            "localadmin_id":907199491,
+            "locality_id":9895017298,
+            "macroregion_id":404227415,
+            "region_id":85683143
+        }
+    ],
+    "wof:id":9895017298,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Akanm\u00e4ki",
+    "wof:parent_id":907199491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.2697,
+    63.85207,
+    26.2697,
+    63.85207
+],
+  "geometry": {"coordinates":[26.2697,63.85207],"type":"Point"}
+}

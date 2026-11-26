@@ -1,0 +1,80 @@
+{
+  "id": 9895016776,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.74964,61.62191,29.74964,61.62191",
+    "geom:latitude":61.62191,
+    "geom:longitude":29.74964,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 641271: name \"Pitk\u00e4pohja\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/641271"
+        },
+        {
+            "citation":"GeoNames populated place 641271: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/641271"
+        },
+        {
+            "citation":"GeoNames populated place 641271: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/641271"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907198853 (Parikkala), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683103,
+        102191581,
+        136253047,
+        404227411,
+        907198853,
+        1159321507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":641271
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"121d8fcce7b6eee0c2b5a5a5a6797855",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321507,
+            "empire_id":136253047,
+            "localadmin_id":907198853,
+            "locality_id":9895016776,
+            "macroregion_id":404227411,
+            "region_id":85683103
+        }
+    ],
+    "wof:id":9895016776,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Pitk\u00e4pohja",
+    "wof:parent_id":907198853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.74964,
+    61.62191,
+    29.74964,
+    61.62191
+],
+  "geometry": {"coordinates":[29.74964,61.62191],"type":"Point"}
+}

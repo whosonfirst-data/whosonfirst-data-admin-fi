@@ -1,0 +1,80 @@
+{
+  "id": 9895027046,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.70766,64.52367,28.70766,64.52367",
+    "geom:latitude":64.52367,
+    "geom:longitude":28.70766,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13339303: name \"Viitavaara\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13339303"
+        },
+        {
+            "citation":"GeoNames populated place 13339303: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13339303"
+        },
+        {
+            "citation":"GeoNames populated place 13339303: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13339303"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199527 (Ristijarvi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683137,
+        102191581,
+        136253047,
+        404227415,
+        907199527,
+        1159321487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13339303
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"efc9f07a1cd772c5335ca3c8f8fd77e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321487,
+            "empire_id":136253047,
+            "localadmin_id":907199527,
+            "locality_id":9895027046,
+            "macroregion_id":404227415,
+            "region_id":85683137
+        }
+    ],
+    "wof:id":9895027046,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Viitavaara",
+    "wof:parent_id":907199527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.70766,
+    64.52367,
+    28.70766,
+    64.52367
+],
+  "geometry": {"coordinates":[28.70766,64.52367],"type":"Point"}
+}

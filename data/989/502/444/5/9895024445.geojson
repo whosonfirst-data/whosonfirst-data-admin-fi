@@ -1,0 +1,80 @@
+{
+  "id": 9895024445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.86288,63.33051,24.86288,63.33051",
+    "geom:latitude":63.33051,
+    "geom:longitude":24.86288,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13066103: name \"Matkusjoki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13066103"
+        },
+        {
+            "citation":"GeoNames populated place 13066103: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13066103"
+        },
+        {
+            "citation":"GeoNames populated place 13066103: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13066103"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199139 (Kinnula), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683117,
+        102191581,
+        136253047,
+        404227417,
+        907199139,
+        1159321515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13066103
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"99aad5e463f9b9bafa307c01cb619a3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321515,
+            "empire_id":136253047,
+            "localadmin_id":907199139,
+            "locality_id":9895024445,
+            "macroregion_id":404227417,
+            "region_id":85683117
+        }
+    ],
+    "wof:id":9895024445,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Matkusjoki",
+    "wof:parent_id":907199139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.86288,
+    63.33051,
+    24.86288,
+    63.33051
+],
+  "geometry": {"coordinates":[24.86288,63.33051],"type":"Point"}
+}

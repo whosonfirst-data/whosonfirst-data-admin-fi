@@ -1,0 +1,80 @@
+{
+  "id": 9895026792,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.3869,65.98317,24.3869,65.98317",
+    "geom:latitude":65.98317,
+    "geom:longitude":24.3869,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13315508: name \"Mustakumpu\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13315508"
+        },
+        {
+            "citation":"GeoNames populated place 13315508: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13315508"
+        },
+        {
+            "citation":"GeoNames populated place 13315508: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13315508"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199557 (Tornio), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683147,
+        102191581,
+        136253047,
+        404227409,
+        907199557,
+        1159321559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13315508
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"ca3ab6f25a6df6f570c9f520d72cc26f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321559,
+            "empire_id":136253047,
+            "localadmin_id":907199557,
+            "locality_id":9895026792,
+            "macroregion_id":404227409,
+            "region_id":85683147
+        }
+    ],
+    "wof:id":9895026792,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Mustakumpu",
+    "wof:parent_id":907199557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.3869,
+    65.98317,
+    24.3869,
+    65.98317
+],
+  "geometry": {"coordinates":[24.3869,65.98317],"type":"Point"}
+}

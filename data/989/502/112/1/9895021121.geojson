@@ -1,0 +1,80 @@
+{
+  "id": 9895021121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0255,64.24424,30.0255,64.24424",
+    "geom:latitude":64.24424,
+    "geom:longitude":30.0255,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12782162: name \"Kaksipirttinen\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12782162"
+        },
+        {
+            "citation":"GeoNames populated place 12782162: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12782162"
+        },
+        {
+            "citation":"GeoNames populated place 12782162: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12782162"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199507 (Kuhmo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683137,
+        102191581,
+        136253047,
+        404227415,
+        907199507,
+        1159321549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12782162
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"b05710bcbf7c3688ff74cd5c0865328c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321549,
+            "empire_id":136253047,
+            "localadmin_id":907199507,
+            "locality_id":9895021121,
+            "macroregion_id":404227415,
+            "region_id":85683137
+        }
+    ],
+    "wof:id":9895021121,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Kaksipirttinen",
+    "wof:parent_id":907199507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0255,
+    64.24424,
+    30.0255,
+    64.24424
+],
+  "geometry": {"coordinates":[30.0255,64.24424],"type":"Point"}
+}

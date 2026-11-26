@@ -1,0 +1,80 @@
+{
+  "id": 9895026594,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.61066,63.73467,26.61066,63.73467",
+    "geom:latitude":63.73467,
+    "geom:longitude":26.61066,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13247657: name \"Mykk\u00e4sper\u00e4\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13247657"
+        },
+        {
+            "citation":"GeoNames populated place 13247657: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13247657"
+        },
+        {
+            "citation":"GeoNames populated place 13247657: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13247657"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199481 (Kiuruvesi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683131,
+        102191581,
+        136253047,
+        404227407,
+        907199481,
+        1159321601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13247657
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"d7ed6febf05f2b68b92e882b4885cf3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321601,
+            "empire_id":136253047,
+            "localadmin_id":907199481,
+            "locality_id":9895026594,
+            "macroregion_id":404227407,
+            "region_id":85683131
+        }
+    ],
+    "wof:id":9895026594,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Mykk\u00e4sper\u00e4",
+    "wof:parent_id":907199481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.61066,
+    63.73467,
+    26.61066,
+    63.73467
+],
+  "geometry": {"coordinates":[26.61066,63.73467],"type":"Point"}
+}

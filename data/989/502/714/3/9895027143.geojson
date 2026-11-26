@@ -1,0 +1,80 @@
+{
+  "id": 9895027143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.6651,65.23225,26.6651,65.23225",
+    "geom:latitude":65.23225,
+    "geom:longitude":26.6651,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13345644: name \"Pet\u00e4j\u00e4niemi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13345644"
+        },
+        {
+            "citation":"GeoNames populated place 13345644: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13345644"
+        },
+        {
+            "citation":"GeoNames populated place 13345644: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13345644"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199499 (Pudasjarvi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683143,
+        102191581,
+        136253047,
+        404227415,
+        907199499,
+        1159321497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13345644
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"9ad7aa0b63207779aeab154a80588ab6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321497,
+            "empire_id":136253047,
+            "localadmin_id":907199499,
+            "locality_id":9895027143,
+            "macroregion_id":404227415,
+            "region_id":85683143
+        }
+    ],
+    "wof:id":9895027143,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Pet\u00e4j\u00e4niemi",
+    "wof:parent_id":907199499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.6651,
+    65.23225,
+    26.6651,
+    65.23225
+],
+  "geometry": {"coordinates":[26.6651,65.23225],"type":"Point"}
+}

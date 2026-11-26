@@ -1,0 +1,80 @@
+{
+  "id": 9895024363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.4157,62.58827,22.4157,62.58827",
+    "geom:latitude":62.58827,
+    "geom:longitude":22.4157,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13056654: name \"Pitk\u00e4m\u00f6nranta\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13056654"
+        },
+        {
+            "citation":"GeoNames populated place 13056654: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13056654"
+        },
+        {
+            "citation":"GeoNames populated place 13056654: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13056654"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199007 (Kurikka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683113,
+        102191581,
+        136253047,
+        404227417,
+        907199007,
+        1159321561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13056654
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"a3448eb4c7dfe1ec7127934f8385570b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321561,
+            "empire_id":136253047,
+            "localadmin_id":907199007,
+            "locality_id":9895024363,
+            "macroregion_id":404227417,
+            "region_id":85683113
+        }
+    ],
+    "wof:id":9895024363,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Pitk\u00e4m\u00f6nranta",
+    "wof:parent_id":907199007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.4157,
+    62.58827,
+    22.4157,
+    62.58827
+],
+  "geometry": {"coordinates":[22.4157,62.58827],"type":"Point"}
+}

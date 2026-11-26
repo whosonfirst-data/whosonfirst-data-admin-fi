@@ -1,0 +1,80 @@
+{
+  "id": 9895023493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.75169,61.52464,26.75169,61.52464",
+    "geom:latitude":61.52464,
+    "geom:longitude":26.75169,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12929846: name \"Mikkanen\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12929846"
+        },
+        {
+            "citation":"GeoNames populated place 12929846: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12929846"
+        },
+        {
+            "citation":"GeoNames populated place 12929846: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12929846"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907198721 (Mantyharju), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683109,
+        102191581,
+        136253047,
+        404227407,
+        907198721,
+        1159321539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12929846
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"07c1e2f9bc1a34c072fcd6215f07051b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321539,
+            "empire_id":136253047,
+            "localadmin_id":907198721,
+            "locality_id":9895023493,
+            "macroregion_id":404227407,
+            "region_id":85683109
+        }
+    ],
+    "wof:id":9895023493,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Mikkanen",
+    "wof:parent_id":907198721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.75169,
+    61.52464,
+    26.75169,
+    61.52464
+],
+  "geometry": {"coordinates":[26.75169,61.52464],"type":"Point"}
+}

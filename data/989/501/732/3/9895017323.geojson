@@ -1,0 +1,80 @@
+{
+  "id": 9895017323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.75087,61.48814,21.75087,61.48814",
+    "geom:latitude":61.48814,
+    "geom:longitude":21.75087,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11669731: name \"Tikkula\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11669731"
+        },
+        {
+            "citation":"GeoNames populated place 11669731: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11669731"
+        },
+        {
+            "citation":"GeoNames populated place 11669731: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11669731"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199653 (Pori), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683095,
+        102191581,
+        136253047,
+        404227405,
+        907199653,
+        1159321565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11669731
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"b11dbba06962aad99e47bfa93dfe2eb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321565,
+            "empire_id":136253047,
+            "localadmin_id":907199653,
+            "locality_id":9895017323,
+            "macroregion_id":404227405,
+            "region_id":85683095
+        }
+    ],
+    "wof:id":9895017323,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Tikkula",
+    "wof:parent_id":907199653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.75087,
+    61.48814,
+    21.75087,
+    61.48814
+],
+  "geometry": {"coordinates":[21.75087,61.48814],"type":"Point"}
+}

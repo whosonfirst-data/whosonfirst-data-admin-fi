@@ -1,0 +1,80 @@
+{
+  "id": 9895018722,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.09822,60.72074,23.09822,60.72074",
+    "geom:latitude":60.72074,
+    "geom:longitude":23.09822,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12602221: name \"Ruona\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12602221"
+        },
+        {
+            "citation":"GeoNames populated place 12602221: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12602221"
+        },
+        {
+            "citation":"GeoNames populated place 12602221: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12602221"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199647 (Koski Tl), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683073,
+        102191581,
+        136253047,
+        404227405,
+        907199647,
+        1159321505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12602221
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"4403fc2a447b03396e0281919af6baac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321505,
+            "empire_id":136253047,
+            "localadmin_id":907199647,
+            "locality_id":9895018722,
+            "macroregion_id":404227405,
+            "region_id":85683073
+        }
+    ],
+    "wof:id":9895018722,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Ruona",
+    "wof:parent_id":907199647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.09822,
+    60.72074,
+    23.09822,
+    60.72074
+],
+  "geometry": {"coordinates":[23.09822,60.72074],"type":"Point"}
+}

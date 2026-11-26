@@ -1,0 +1,80 @@
+{
+  "id": 9895024378,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.48393,62.59919,22.48393,62.59919",
+    "geom:latitude":62.59919,
+    "geom:longitude":22.48393,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13056797: name \"Myllysalo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13056797"
+        },
+        {
+            "citation":"GeoNames populated place 13056797: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13056797"
+        },
+        {
+            "citation":"GeoNames populated place 13056797: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13056797"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199007 (Kurikka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683113,
+        102191581,
+        136253047,
+        404227417,
+        907199007,
+        1159321561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13056797
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"70fd58c3cc58e7c8d90cd8f52f0533c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321561,
+            "empire_id":136253047,
+            "localadmin_id":907199007,
+            "locality_id":9895024378,
+            "macroregion_id":404227417,
+            "region_id":85683113
+        }
+    ],
+    "wof:id":9895024378,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Myllysalo",
+    "wof:parent_id":907199007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.48393,
+    62.59919,
+    22.48393,
+    62.59919
+],
+  "geometry": {"coordinates":[22.48393,62.59919],"type":"Point"}
+}

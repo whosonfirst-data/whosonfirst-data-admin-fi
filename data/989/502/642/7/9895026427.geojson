@@ -1,0 +1,80 @@
+{
+  "id": 9895026427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.46961,64.1784,26.46961,64.1784",
+    "geom:latitude":64.1784,
+    "geom:longitude":26.46961,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13238137: name \"Kallionper\u00e4\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13238137"
+        },
+        {
+            "citation":"GeoNames populated place 13238137: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13238137"
+        },
+        {
+            "citation":"GeoNames populated place 13238137: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13238137"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199491 (Pyhanta), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683143,
+        102191581,
+        136253047,
+        404227415,
+        907199491,
+        1159321571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13238137
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"5d6b41fa3833acdcc331f3482a5d1cdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321571,
+            "empire_id":136253047,
+            "localadmin_id":907199491,
+            "locality_id":9895026427,
+            "macroregion_id":404227415,
+            "region_id":85683143
+        }
+    ],
+    "wof:id":9895026427,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Kallionper\u00e4",
+    "wof:parent_id":907199491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.46961,
+    64.1784,
+    26.46961,
+    64.1784
+],
+  "geometry": {"coordinates":[26.46961,64.1784],"type":"Point"}
+}

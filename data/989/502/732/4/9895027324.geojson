@@ -1,0 +1,80 @@
+{
+  "id": 9895027324,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.94528,64.54852,27.94528,64.54852",
+    "geom:latitude":64.54852,
+    "geom:longitude":27.94528,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13375035: name \"Nurkkakyl\u00e4\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13375035"
+        },
+        {
+            "citation":"GeoNames populated place 13375035: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13375035"
+        },
+        {
+            "citation":"GeoNames populated place 13375035: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13375035"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199475 (Paltamo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683137,
+        102191581,
+        136253047,
+        404227415,
+        907199475,
+        1159321487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13375035
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"a2effaf21edd43200111e62ae9bec942",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321487,
+            "empire_id":136253047,
+            "localadmin_id":907199475,
+            "locality_id":9895027324,
+            "macroregion_id":404227415,
+            "region_id":85683137
+        }
+    ],
+    "wof:id":9895027324,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Nurkkakyl\u00e4",
+    "wof:parent_id":907199475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.94528,
+    64.54852,
+    27.94528,
+    64.54852
+],
+  "geometry": {"coordinates":[27.94528,64.54852],"type":"Point"}
+}

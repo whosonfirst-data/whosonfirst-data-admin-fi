@@ -1,0 +1,80 @@
+{
+  "id": 9895021692,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.26302,61.08962,25.26302,61.08962",
+    "geom:latitude":61.08962,
+    "geom:longitude":25.26302,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12829672: name \"J\u00e4rvenp\u00e4\u00e4\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12829672"
+        },
+        {
+            "citation":"GeoNames populated place 12829672: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12829672"
+        },
+        {
+            "citation":"GeoNames populated place 12829672: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12829672"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907198585 (Hollola), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683091,
+        102191581,
+        136253047,
+        404227411,
+        907198585,
+        1159321483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12829672
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"5f9414c950cc718d14b69f32d1df68ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321483,
+            "empire_id":136253047,
+            "localadmin_id":907198585,
+            "locality_id":9895021692,
+            "macroregion_id":404227411,
+            "region_id":85683091
+        }
+    ],
+    "wof:id":9895021692,
+    "wof:lastmodified":1795734963,
+    "wof:name":"J\u00e4rvenp\u00e4\u00e4",
+    "wof:parent_id":907198585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.26302,
+    61.08962,
+    25.26302,
+    61.08962
+],
+  "geometry": {"coordinates":[25.26302,61.08962],"type":"Point"}
+}

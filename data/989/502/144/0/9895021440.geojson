@@ -1,0 +1,80 @@
+{
+  "id": 9895021440,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.16623,61.02283,23.16623,61.02283",
+    "geom:latitude":61.02283,
+    "geom:longitude":23.16623,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12821206: name \"Saikareenkulma\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12821206"
+        },
+        {
+            "citation":"GeoNames populated place 12821206: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12821206"
+        },
+        {
+            "citation":"GeoNames populated place 12821206: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12821206"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907198835 (Punkalaidun), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683099,
+        102191581,
+        136253047,
+        404227417,
+        907198835,
+        1159321613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12821206
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"508b45d030eb7dbd516c46269fa1dcce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321613,
+            "empire_id":136253047,
+            "localadmin_id":907198835,
+            "locality_id":9895021440,
+            "macroregion_id":404227417,
+            "region_id":85683099
+        }
+    ],
+    "wof:id":9895021440,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Saikareenkulma",
+    "wof:parent_id":907198835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.16623,
+    61.02283,
+    23.16623,
+    61.02283
+],
+  "geometry": {"coordinates":[23.16623,61.02283],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895025249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.21379,62.90716,28.21379,62.90716",
+    "geom:latitude":62.90716,
+    "geom:longitude":28.21379,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13174392: name \"P\u00f6ll\u00e4kk\u00e4\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13174392"
+        },
+        {
+            "citation":"GeoNames populated place 13174392: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13174392"
+        },
+        {
+            "citation":"GeoNames populated place 13174392: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13174392"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199673 (Kuopio), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683131,
+        102191581,
+        136253047,
+        404227407,
+        907199673,
+        1159321597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13174392
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"2a9153be16ee544759d2e5ae6eb24336",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321597,
+            "empire_id":136253047,
+            "localadmin_id":907199673,
+            "locality_id":9895025249,
+            "macroregion_id":404227407,
+            "region_id":85683131
+        }
+    ],
+    "wof:id":9895025249,
+    "wof:lastmodified":1795734963,
+    "wof:name":"P\u00f6ll\u00e4kk\u00e4",
+    "wof:parent_id":907199673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.21379,
+    62.90716,
+    28.21379,
+    62.90716
+],
+  "geometry": {"coordinates":[28.21379,62.90716],"type":"Point"}
+}

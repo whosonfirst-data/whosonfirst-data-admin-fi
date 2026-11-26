@@ -1,0 +1,80 @@
+{
+  "id": 9895026737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.97591,63.81669,26.97591,63.81669",
+    "geom:latitude":63.81669,
+    "geom:longitude":26.97591,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13251615: name \"Koskenkyl\u00e4\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13251615"
+        },
+        {
+            "citation":"GeoNames populated place 13251615: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13251615"
+        },
+        {
+            "citation":"GeoNames populated place 13251615: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13251615"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199359 (Vierema), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683131,
+        102191581,
+        136253047,
+        404227407,
+        907199359,
+        1159321601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13251615
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"6444cdcc81994d1fb8294a657f953012",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321601,
+            "empire_id":136253047,
+            "localadmin_id":907199359,
+            "locality_id":9895026737,
+            "macroregion_id":404227407,
+            "region_id":85683131
+        }
+    ],
+    "wof:id":9895026737,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Koskenkyl\u00e4",
+    "wof:parent_id":907199359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.97591,
+    63.81669,
+    26.97591,
+    63.81669
+],
+  "geometry": {"coordinates":[26.97591,63.81669],"type":"Point"}
+}

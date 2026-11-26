@@ -1,0 +1,80 @@
+{
+  "id": 9895020813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.00718,63.56222,30.00718,63.56222",
+    "geom:latitude":63.56222,
+    "geom:longitude":30.00718,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12753307: name \"Viitakoski\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12753307"
+        },
+        {
+            "citation":"GeoNames populated place 12753307: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12753307"
+        },
+        {
+            "citation":"GeoNames populated place 12753307: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12753307"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199605 (Lieksa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683133,
+        102191581,
+        136253047,
+        404227407,
+        907199605,
+        1159321575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12753307
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"97374ce9dd4e9b759c7bc314398c8eb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321575,
+            "empire_id":136253047,
+            "localadmin_id":907199605,
+            "locality_id":9895020813,
+            "macroregion_id":404227407,
+            "region_id":85683133
+        }
+    ],
+    "wof:id":9895020813,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Viitakoski",
+    "wof:parent_id":907199605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.00718,
+    63.56222,
+    30.00718,
+    63.56222
+],
+  "geometry": {"coordinates":[30.00718,63.56222],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895021998,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.86929,62.16211,21.86929,62.16211",
+    "geom:latitude":62.16211,
+    "geom:longitude":21.86929,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12847733: name \"Kilpel\u00e4\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12847733"
+        },
+        {
+            "citation":"GeoNames populated place 12847733: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12847733"
+        },
+        {
+            "citation":"GeoNames populated place 12847733: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12847733"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907198871 (Isojoki), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683113,
+        102191581,
+        136253047,
+        404227417,
+        907198871,
+        1159321543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12847733
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"5e339b75066b81ebe4ea724090540c93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321543,
+            "empire_id":136253047,
+            "localadmin_id":907198871,
+            "locality_id":9895021998,
+            "macroregion_id":404227417,
+            "region_id":85683113
+        }
+    ],
+    "wof:id":9895021998,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Kilpel\u00e4",
+    "wof:parent_id":907198871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.86929,
+    62.16211,
+    21.86929,
+    62.16211
+],
+  "geometry": {"coordinates":[21.86929,62.16211],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895019504,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.74756,60.76381,26.74756,60.76381",
+    "geom:latitude":60.76381,
+    "geom:longitude":26.74756,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12676553: name \"Sipil\u00e4nm\u00e4ki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12676553"
+        },
+        {
+            "citation":"GeoNames populated place 12676553: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12676553"
+        },
+        {
+            "citation":"GeoNames populated place 12676553: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12676553"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907198969 (Kouvola), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683081,
+        102191581,
+        136253047,
+        404227411,
+        907198969,
+        1159321557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12676553
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"d391c7dfda19ef078ec1bd03cf30e65f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321557,
+            "empire_id":136253047,
+            "localadmin_id":907198969,
+            "locality_id":9895019504,
+            "macroregion_id":404227411,
+            "region_id":85683081
+        }
+    ],
+    "wof:id":9895019504,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Sipil\u00e4nm\u00e4ki",
+    "wof:parent_id":907198969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.74756,
+    60.76381,
+    26.74756,
+    60.76381
+],
+  "geometry": {"coordinates":[26.74756,60.76381],"type":"Point"}
+}

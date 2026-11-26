@@ -1,0 +1,80 @@
+{
+  "id": 9895016908,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.01693,63.90144,27.01693,63.90144",
+    "geom:latitude":63.90144,
+    "geom:longitude":27.01693,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 646500: name \"Marttism\u00e4ki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/646500"
+        },
+        {
+            "citation":"GeoNames populated place 646500: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/646500"
+        },
+        {
+            "citation":"GeoNames populated place 646500: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/646500"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199359 (Vierema), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683131,
+        102191581,
+        136253047,
+        404227407,
+        907199359,
+        1159321601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":646500
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"e0c32804e9b29229c90b65d57b4ce6c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321601,
+            "empire_id":136253047,
+            "localadmin_id":907199359,
+            "locality_id":9895016908,
+            "macroregion_id":404227407,
+            "region_id":85683131
+        }
+    ],
+    "wof:id":9895016908,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Marttism\u00e4ki",
+    "wof:parent_id":907199359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.01693,
+    63.90144,
+    27.01693,
+    63.90144
+],
+  "geometry": {"coordinates":[27.01693,63.90144],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895020317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.78783,62.71227,29.78783,62.71227",
+    "geom:latitude":62.71227,
+    "geom:longitude":29.78783,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12729783: name \"Hirviranta\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12729783"
+        },
+        {
+            "citation":"GeoNames populated place 12729783: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12729783"
+        },
+        {
+            "citation":"GeoNames populated place 12729783: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12729783"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199445 (Kontiolahti), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683133,
+        102191581,
+        136253047,
+        404227407,
+        907199445,
+        1159321551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12729783
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"7fe4325f0eaed1e7aa94f83a76dccfa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321551,
+            "empire_id":136253047,
+            "localadmin_id":907199445,
+            "locality_id":9895020317,
+            "macroregion_id":404227407,
+            "region_id":85683133
+        }
+    ],
+    "wof:id":9895020317,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Hirviranta",
+    "wof:parent_id":907199445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.78783,
+    62.71227,
+    29.78783,
+    62.71227
+],
+  "geometry": {"coordinates":[29.78783,62.71227],"type":"Point"}
+}

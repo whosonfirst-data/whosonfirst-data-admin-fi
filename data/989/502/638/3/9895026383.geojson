@@ -1,0 +1,80 @@
+{
+  "id": 9895026383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.5905,64.45581,26.5905,64.45581",
+    "geom:latitude":64.45581,
+    "geom:longitude":26.5905,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13233045: name \"Sorsaper\u00e4\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13233045"
+        },
+        {
+            "citation":"GeoNames populated place 13233045: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13233045"
+        },
+        {
+            "citation":"GeoNames populated place 13233045: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13233045"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199621 (Vaala), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683137,
+        102191581,
+        136253047,
+        404227415,
+        907199621,
+        1159321487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13233045
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"2e44dbe63ee8699e69f8e38011f0cd15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321487,
+            "empire_id":136253047,
+            "localadmin_id":907199621,
+            "locality_id":9895026383,
+            "macroregion_id":404227415,
+            "region_id":85683137
+        }
+    ],
+    "wof:id":9895026383,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Sorsaper\u00e4",
+    "wof:parent_id":907199621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.5905,
+    64.45581,
+    26.5905,
+    64.45581
+],
+  "geometry": {"coordinates":[26.5905,64.45581],"type":"Point"}
+}

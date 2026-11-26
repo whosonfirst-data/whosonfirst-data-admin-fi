@@ -1,0 +1,80 @@
+{
+  "id": 9895020634,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6514,62.23251,29.6514,62.23251",
+    "geom:latitude":62.23251,
+    "geom:longitude":29.6514,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12741358: name \"M\u00e4ensalo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12741358"
+        },
+        {
+            "citation":"GeoNames populated place 12741358: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12741358"
+        },
+        {
+            "citation":"GeoNames populated place 12741358: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12741358"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907198891 (Raakkyla), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683133,
+        102191581,
+        136253047,
+        404227407,
+        907198891,
+        1159321517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12741358
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"efc2c91807b9b2bc428f38c10b0d40f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321517,
+            "empire_id":136253047,
+            "localadmin_id":907198891,
+            "locality_id":9895020634,
+            "macroregion_id":404227407,
+            "region_id":85683133
+        }
+    ],
+    "wof:id":9895020634,
+    "wof:lastmodified":1795734963,
+    "wof:name":"M\u00e4ensalo",
+    "wof:parent_id":907198891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6514,
+    62.23251,
+    29.6514,
+    62.23251
+],
+  "geometry": {"coordinates":[29.6514,62.23251],"type":"Point"}
+}

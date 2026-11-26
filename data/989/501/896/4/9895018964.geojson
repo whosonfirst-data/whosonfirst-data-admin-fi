@@ -1,0 +1,80 @@
+{
+  "id": 9895018964,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.51646,60.72309,25.51646,60.72309",
+    "geom:latitude":60.72309,
+    "geom:longitude":25.51646,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12632913: name \"Rajakulma\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12632913"
+        },
+        {
+            "citation":"GeoNames populated place 12632913: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12632913"
+        },
+        {
+            "citation":"GeoNames populated place 12632913: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12632913"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907198557 (Mantsala), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683067,
+        102191581,
+        136253047,
+        404227411,
+        907198557,
+        1159321633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12632913
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"c4ee6b80bac1cbeb453649dbb660fb61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321633,
+            "empire_id":136253047,
+            "localadmin_id":907198557,
+            "locality_id":9895018964,
+            "macroregion_id":404227411,
+            "region_id":85683067
+        }
+    ],
+    "wof:id":9895018964,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Rajakulma",
+    "wof:parent_id":907198557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.51646,
+    60.72309,
+    25.51646,
+    60.72309
+],
+  "geometry": {"coordinates":[25.51646,60.72309],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895021122,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.008,64.02388,30.008,64.02388",
+    "geom:latitude":64.02388,
+    "geom:longitude":30.008,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12782312: name \"Haukela\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12782312"
+        },
+        {
+            "citation":"GeoNames populated place 12782312: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12782312"
+        },
+        {
+            "citation":"GeoNames populated place 12782312: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12782312"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199507 (Kuhmo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683137,
+        102191581,
+        136253047,
+        404227415,
+        907199507,
+        1159321549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12782312
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"8918de7bc29de612ef5865557091bc75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321549,
+            "empire_id":136253047,
+            "localadmin_id":907199507,
+            "locality_id":9895021122,
+            "macroregion_id":404227415,
+            "region_id":85683137
+        }
+    ],
+    "wof:id":9895021122,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Haukela",
+    "wof:parent_id":907199507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.008,
+    64.02388,
+    30.008,
+    64.02388
+],
+  "geometry": {"coordinates":[30.008,64.02388],"type":"Point"}
+}

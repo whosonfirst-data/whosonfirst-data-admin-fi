@@ -1,0 +1,80 @@
+{
+  "id": 9895018434,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.86435,60.15869,23.86435,60.15869",
+    "geom:latitude":60.15869,
+    "geom:longitude":23.86435,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12589898: name \"Mj\u00f6lnarby\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12589898"
+        },
+        {
+            "citation":"GeoNames populated place 12589898: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12589898"
+        },
+        {
+            "citation":"GeoNames populated place 12589898: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12589898"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199747 (Raasepori), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683067,
+        102191581,
+        136253047,
+        404227411,
+        907199747,
+        1159321627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12589898
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"6c11b61dff36cc11ac3020b9c30e36d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321627,
+            "empire_id":136253047,
+            "localadmin_id":907199747,
+            "locality_id":9895018434,
+            "macroregion_id":404227411,
+            "region_id":85683067
+        }
+    ],
+    "wof:id":9895018434,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Mj\u00f6lnarby",
+    "wof:parent_id":907199747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.86435,
+    60.15869,
+    23.86435,
+    60.15869
+],
+  "geometry": {"coordinates":[23.86435,60.15869],"type":"Point"}
+}

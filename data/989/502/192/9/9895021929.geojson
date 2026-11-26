@@ -1,0 +1,80 @@
+{
+  "id": 9895021929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.34335,62.43945,22.34335,62.43945",
+    "geom:latitude":62.43945,
+    "geom:longitude":22.34335,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12845452: name \"Vanhakyl\u00e4\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12845452"
+        },
+        {
+            "citation":"GeoNames populated place 12845452: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12845452"
+        },
+        {
+            "citation":"GeoNames populated place 12845452: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12845452"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199121 (Kauhajoki), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683113,
+        102191581,
+        136253047,
+        404227417,
+        907199121,
+        1159321543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12845452
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"026505d5accfb718f55e4e2ac7aa724d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321543,
+            "empire_id":136253047,
+            "localadmin_id":907199121,
+            "locality_id":9895021929,
+            "macroregion_id":404227417,
+            "region_id":85683113
+        }
+    ],
+    "wof:id":9895021929,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Vanhakyl\u00e4",
+    "wof:parent_id":907199121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.34335,
+    62.43945,
+    22.34335,
+    62.43945
+],
+  "geometry": {"coordinates":[22.34335,62.43945],"type":"Point"}
+}

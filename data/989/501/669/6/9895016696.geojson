@@ -1,0 +1,80 @@
+{
+  "id": 9895016696,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.31173,64.12835,29.31173,64.12835",
+    "geom:latitude":64.12835,
+    "geom:longitude":29.31173,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 638013: name \"Salmi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/638013"
+        },
+        {
+            "citation":"GeoNames populated place 638013: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/638013"
+        },
+        {
+            "citation":"GeoNames populated place 638013: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/638013"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199507 (Kuhmo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683137,
+        102191581,
+        136253047,
+        404227415,
+        907199507,
+        1159321549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":638013
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"486855edf3c3ff53b18654a48fa769c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321549,
+            "empire_id":136253047,
+            "localadmin_id":907199507,
+            "locality_id":9895016696,
+            "macroregion_id":404227415,
+            "region_id":85683137
+        }
+    ],
+    "wof:id":9895016696,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Salmi",
+    "wof:parent_id":907199507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.31173,
+    64.12835,
+    29.31173,
+    64.12835
+],
+  "geometry": {"coordinates":[29.31173,64.12835],"type":"Point"}
+}

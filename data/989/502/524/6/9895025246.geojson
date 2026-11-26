@@ -1,0 +1,80 @@
+{
+  "id": 9895025246,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.03152,62.9325,28.03152,62.9325",
+    "geom:latitude":62.9325,
+    "geom:longitude":28.03152,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13174334: name \"Hussonm\u00e4ki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13174334"
+        },
+        {
+            "citation":"GeoNames populated place 13174334: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13174334"
+        },
+        {
+            "citation":"GeoNames populated place 13174334: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13174334"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199673 (Kuopio), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683131,
+        102191581,
+        136253047,
+        404227407,
+        907199673,
+        1159321597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13174334
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"f41a144d855a1562d7e71b4160a73fbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321597,
+            "empire_id":136253047,
+            "localadmin_id":907199673,
+            "locality_id":9895025246,
+            "macroregion_id":404227407,
+            "region_id":85683131
+        }
+    ],
+    "wof:id":9895025246,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Hussonm\u00e4ki",
+    "wof:parent_id":907199673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.03152,
+    62.9325,
+    28.03152,
+    62.9325
+],
+  "geometry": {"coordinates":[28.03152,62.9325],"type":"Point"}
+}

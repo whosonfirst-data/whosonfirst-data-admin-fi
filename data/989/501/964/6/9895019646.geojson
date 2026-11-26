@@ -1,0 +1,80 @@
+{
+  "id": 9895019646,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.71677,60.42691,25.71677,60.42691",
+    "geom:latitude":60.42691,
+    "geom:longitude":25.71677,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12679392: name \"Uusikrouvi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12679392"
+        },
+        {
+            "citation":"GeoNames populated place 12679392: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12679392"
+        },
+        {
+            "citation":"GeoNames populated place 12679392: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12679392"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907198525 (Porvoo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683067,
+        102191581,
+        136253047,
+        404227411,
+        907198525,
+        1159321593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12679392
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"c21803a7a21020713a1b4de785904141",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321593,
+            "empire_id":136253047,
+            "localadmin_id":907198525,
+            "locality_id":9895019646,
+            "macroregion_id":404227411,
+            "region_id":85683067
+        }
+    ],
+    "wof:id":9895019646,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Uusikrouvi",
+    "wof:parent_id":907198525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.71677,
+    60.42691,
+    25.71677,
+    60.42691
+],
+  "geometry": {"coordinates":[25.71677,60.42691],"type":"Point"}
+}

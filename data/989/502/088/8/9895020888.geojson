@@ -1,0 +1,80 @@
+{
+  "id": 9895020888,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.43325,63.12478,29.43325,63.12478",
+    "geom:latitude":63.12478,
+    "geom:longitude":29.43325,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12757403: name \"Sumukka\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12757403"
+        },
+        {
+            "citation":"GeoNames populated place 12757403: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12757403"
+        },
+        {
+            "citation":"GeoNames populated place 12757403: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12757403"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199389 (Juuka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683133,
+        102191581,
+        136253047,
+        404227407,
+        907199389,
+        1159321551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12757403
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"fdbf722e7b2531577315e6c546c575a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321551,
+            "empire_id":136253047,
+            "localadmin_id":907199389,
+            "locality_id":9895020888,
+            "macroregion_id":404227407,
+            "region_id":85683133
+        }
+    ],
+    "wof:id":9895020888,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Sumukka",
+    "wof:parent_id":907199389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.43325,
+    63.12478,
+    29.43325,
+    63.12478
+],
+  "geometry": {"coordinates":[29.43325,63.12478],"type":"Point"}
+}

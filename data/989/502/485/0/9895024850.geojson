@@ -1,0 +1,80 @@
+{
+  "id": 9895024850,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.87987,62.91517,26.87987,62.91517",
+    "geom:latitude":62.91517,
+    "geom:longitude":26.87987,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13090207: name \"Kitula\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13090207"
+        },
+        {
+            "citation":"GeoNames populated place 13090207: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13090207"
+        },
+        {
+            "citation":"GeoNames populated place 13090207: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13090207"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199369 (Tervo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683131,
+        102191581,
+        136253047,
+        404227407,
+        907199369,
+        1159321623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13090207
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"67f2fab8b6efe273842e0b6b4054fd8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321623,
+            "empire_id":136253047,
+            "localadmin_id":907199369,
+            "locality_id":9895024850,
+            "macroregion_id":404227407,
+            "region_id":85683131
+        }
+    ],
+    "wof:id":9895024850,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Kitula",
+    "wof:parent_id":907199369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.87987,
+    62.91517,
+    26.87987,
+    62.91517
+],
+  "geometry": {"coordinates":[26.87987,62.91517],"type":"Point"}
+}

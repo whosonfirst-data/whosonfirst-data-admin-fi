@@ -1,0 +1,80 @@
+{
+  "id": 9895016816,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.98805,65.35866,25.98805,65.35866",
+    "geom:latitude":65.35866,
+    "geom:longitude":25.98805,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 643025: name \"Pahkala\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/643025"
+        },
+        {
+            "citation":"GeoNames populated place 643025: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/643025"
+        },
+        {
+            "citation":"GeoNames populated place 643025: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/643025"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199459 (Oulu), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683143,
+        102191581,
+        136253047,
+        404227415,
+        907199459,
+        1159321529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":643025
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"bfd41d86d31e3cf60f1f63f14d3bfa2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321529,
+            "empire_id":136253047,
+            "localadmin_id":907199459,
+            "locality_id":9895016816,
+            "macroregion_id":404227415,
+            "region_id":85683143
+        }
+    ],
+    "wof:id":9895016816,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Pahkala",
+    "wof:parent_id":907199459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.98805,
+    65.35866,
+    25.98805,
+    65.35866
+],
+  "geometry": {"coordinates":[25.98805,65.35866],"type":"Point"}
+}

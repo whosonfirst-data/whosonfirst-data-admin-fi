@@ -1,0 +1,80 @@
+{
+  "id": 9895017279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.47831,60.1033,23.47831,60.1033",
+    "geom:latitude":60.1033,
+    "geom:longitude":23.47831,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 660470: name \"Br\u00f6dtorp\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/660470"
+        },
+        {
+            "citation":"GeoNames populated place 660470: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/660470"
+        },
+        {
+            "citation":"GeoNames populated place 660470: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/660470"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199747 (Raasepori), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683067,
+        102191581,
+        136253047,
+        404227411,
+        907199747,
+        1159321627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":660470
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"9ab284c205b4fe5b645554fc7fb6feed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321627,
+            "empire_id":136253047,
+            "localadmin_id":907199747,
+            "locality_id":9895017279,
+            "macroregion_id":404227411,
+            "region_id":85683067
+        }
+    ],
+    "wof:id":9895017279,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Br\u00f6dtorp",
+    "wof:parent_id":907199747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.47831,
+    60.1033,
+    23.47831,
+    60.1033
+],
+  "geometry": {"coordinates":[23.47831,60.1033],"type":"Point"}
+}

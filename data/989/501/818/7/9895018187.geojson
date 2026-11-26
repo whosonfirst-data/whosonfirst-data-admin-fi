@@ -1,0 +1,80 @@
+{
+  "id": 9895018187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.13975,61.163,22.13975,61.163",
+    "geom:latitude":61.163,
+    "geom:longitude":22.13975,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12581362: name \"Suontausta\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12581362"
+        },
+        {
+            "citation":"GeoNames populated place 12581362: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12581362"
+        },
+        {
+            "citation":"GeoNames populated place 12581362: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12581362"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907198915 (Eura), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683095,
+        102191581,
+        136253047,
+        404227405,
+        907198915,
+        1159321607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12581362
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"26210b43ede4f41c2d7c9d9b055f9984",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321607,
+            "empire_id":136253047,
+            "localadmin_id":907198915,
+            "locality_id":9895018187,
+            "macroregion_id":404227405,
+            "region_id":85683095
+        }
+    ],
+    "wof:id":9895018187,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Suontausta",
+    "wof:parent_id":907198915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.13975,
+    61.163,
+    22.13975,
+    61.163
+],
+  "geometry": {"coordinates":[22.13975,61.163],"type":"Point"}
+}

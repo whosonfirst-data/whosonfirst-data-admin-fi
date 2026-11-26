@@ -1,0 +1,80 @@
+{
+  "id": 9895021086,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.79225,64.59875,29.79225,64.59875",
+    "geom:latitude":64.59875,
+    "geom:longitude":29.79225,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12776506: name \"Liekinvaara\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12776506"
+        },
+        {
+            "citation":"GeoNames populated place 12776506: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12776506"
+        },
+        {
+            "citation":"GeoNames populated place 12776506: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12776506"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199507 (Kuhmo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683137,
+        102191581,
+        136253047,
+        404227415,
+        907199507,
+        1159321549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12776506
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"76ece0fae02c50da9f1e9baead4e759d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321549,
+            "empire_id":136253047,
+            "localadmin_id":907199507,
+            "locality_id":9895021086,
+            "macroregion_id":404227415,
+            "region_id":85683137
+        }
+    ],
+    "wof:id":9895021086,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Liekinvaara",
+    "wof:parent_id":907199507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.79225,
+    64.59875,
+    29.79225,
+    64.59875
+],
+  "geometry": {"coordinates":[29.79225,64.59875],"type":"Point"}
+}

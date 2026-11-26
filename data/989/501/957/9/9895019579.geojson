@@ -1,0 +1,80 @@
+{
+  "id": 9895019579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.26054,60.60325,26.26054,60.60325",
+    "geom:latitude":60.60325,
+    "geom:longitude":26.26054,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12678217: name \"Br\u00e4nnskogen\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12678217"
+        },
+        {
+            "citation":"GeoNames populated place 12678217: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12678217"
+        },
+        {
+            "citation":"GeoNames populated place 12678217: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12678217"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907198607 (Lapinjarvi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683067,
+        102191581,
+        136253047,
+        404227411,
+        907198607,
+        1159321525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12678217
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"698c9e7e04cbc6fc06608b39037729e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321525,
+            "empire_id":136253047,
+            "localadmin_id":907198607,
+            "locality_id":9895019579,
+            "macroregion_id":404227411,
+            "region_id":85683067
+        }
+    ],
+    "wof:id":9895019579,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Br\u00e4nnskogen",
+    "wof:parent_id":907198607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.26054,
+    60.60325,
+    26.26054,
+    60.60325
+],
+  "geometry": {"coordinates":[26.26054,60.60325],"type":"Point"}
+}

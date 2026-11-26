@@ -1,0 +1,80 @@
+{
+  "id": 9895027264,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.15861,65.19859,28.15861,65.19859",
+    "geom:latitude":65.19859,
+    "geom:longitude":28.15861,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13365383: name \"Paljakka\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13365383"
+        },
+        {
+            "citation":"GeoNames populated place 13365383: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13365383"
+        },
+        {
+            "citation":"GeoNames populated place 13365383: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13365383"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199513 (Puolanka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683137,
+        102191581,
+        136253047,
+        404227415,
+        907199513,
+        1159321549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13365383
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"e2b601babe92c85c5129748319e9b2ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321549,
+            "empire_id":136253047,
+            "localadmin_id":907199513,
+            "locality_id":9895027264,
+            "macroregion_id":404227415,
+            "region_id":85683137
+        }
+    ],
+    "wof:id":9895027264,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Paljakka",
+    "wof:parent_id":907199513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.15861,
+    65.19859,
+    28.15861,
+    65.19859
+],
+  "geometry": {"coordinates":[28.15861,65.19859],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895020258,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.7998,60.59692,27.7998,60.59692",
+    "geom:latitude":60.59692,
+    "geom:longitude":27.7998,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12728029: name \"Kuokanm\u00e4ki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12728029"
+        },
+        {
+            "citation":"GeoNames populated place 12728029: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12728029"
+        },
+        {
+            "citation":"GeoNames populated place 12728029: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12728029"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907198719 (Virolahti), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683081,
+        102191581,
+        136253047,
+        404227411,
+        907198719,
+        1159321573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12728029
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"cfa8830df0a3c0194dea669da91cfff1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321573,
+            "empire_id":136253047,
+            "localadmin_id":907198719,
+            "locality_id":9895020258,
+            "macroregion_id":404227411,
+            "region_id":85683081
+        }
+    ],
+    "wof:id":9895020258,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Kuokanm\u00e4ki",
+    "wof:parent_id":907198719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.7998,
+    60.59692,
+    27.7998,
+    60.59692
+],
+  "geometry": {"coordinates":[27.7998,60.59692],"type":"Point"}
+}

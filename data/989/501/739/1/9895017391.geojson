@@ -1,0 +1,80 @@
+{
+  "id": 9895017391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.16889,66.40732,28.16889,66.40732",
+    "geom:latitude":66.40732,
+    "geom:longitude":28.16889,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12165998: name \"Nolimo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12165998"
+        },
+        {
+            "citation":"GeoNames populated place 12165998: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12165998"
+        },
+        {
+            "citation":"GeoNames populated place 12165998: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12165998"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199533 (Posio), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683147,
+        102191581,
+        136253047,
+        404227409,
+        907199533,
+        1159321535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12165998
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"e1aeb55d991fbb982070f5d97004fc17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321535,
+            "empire_id":136253047,
+            "localadmin_id":907199533,
+            "locality_id":9895017391,
+            "macroregion_id":404227409,
+            "region_id":85683147
+        }
+    ],
+    "wof:id":9895017391,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Nolimo",
+    "wof:parent_id":907199533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.16889,
+    66.40732,
+    28.16889,
+    66.40732
+],
+  "geometry": {"coordinates":[28.16889,66.40732],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895016981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.22034,63.65737,27.22034,63.65737",
+    "geom:latitude":63.65737,
+    "geom:longitude":27.22034,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 648786: name \"Latukka\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/648786"
+        },
+        {
+            "citation":"GeoNames populated place 648786: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/648786"
+        },
+        {
+            "citation":"GeoNames populated place 648786: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/648786"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199351 (Iisalmi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683131,
+        102191581,
+        136253047,
+        404227407,
+        907199351,
+        1159321601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":648786
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"58b3ae4733af44f78dd23e2cc0022152",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321601,
+            "empire_id":136253047,
+            "localadmin_id":907199351,
+            "locality_id":9895016981,
+            "macroregion_id":404227407,
+            "region_id":85683131
+        }
+    ],
+    "wof:id":9895016981,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Latukka",
+    "wof:parent_id":907199351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.22034,
+    63.65737,
+    27.22034,
+    63.65737
+],
+  "geometry": {"coordinates":[27.22034,63.65737],"type":"Point"}
+}

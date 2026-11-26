@@ -1,0 +1,80 @@
+{
+  "id": 9895020046,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.73039,61.68293,29.73039,61.68293",
+    "geom:latitude":61.68293,
+    "geom:longitude":29.73039,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12712608: name \"Poutasenryhm\u00e4\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12712608"
+        },
+        {
+            "citation":"GeoNames populated place 12712608: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12712608"
+        },
+        {
+            "citation":"GeoNames populated place 12712608: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12712608"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907198853 (Parikkala), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683103,
+        102191581,
+        136253047,
+        404227411,
+        907198853,
+        1159321507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12712608
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"9d66632cf4a5239b06e8050ff43f038e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321507,
+            "empire_id":136253047,
+            "localadmin_id":907198853,
+            "locality_id":9895020046,
+            "macroregion_id":404227411,
+            "region_id":85683103
+        }
+    ],
+    "wof:id":9895020046,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Poutasenryhm\u00e4",
+    "wof:parent_id":907198853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.73039,
+    61.68293,
+    29.73039,
+    61.68293
+],
+  "geometry": {"coordinates":[29.73039,61.68293],"type":"Point"}
+}

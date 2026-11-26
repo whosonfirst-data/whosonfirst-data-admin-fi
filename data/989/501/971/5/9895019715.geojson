@@ -1,0 +1,80 @@
+{
+  "id": 9895019715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.69895,61.09497,27.69895,61.09497",
+    "geom:latitude":61.09497,
+    "geom:longitude":27.69895,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12697248: name \"Olkku\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12697248"
+        },
+        {
+            "citation":"GeoNames populated place 12697248: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12697248"
+        },
+        {
+            "citation":"GeoNames populated place 12697248: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12697248"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907198959 (Lemi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683103,
+        102191581,
+        136253047,
+        404227411,
+        907198959,
+        1159321547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12697248
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"3e9b012bd76a6445ef27fa730623be95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321547,
+            "empire_id":136253047,
+            "localadmin_id":907198959,
+            "locality_id":9895019715,
+            "macroregion_id":404227411,
+            "region_id":85683103
+        }
+    ],
+    "wof:id":9895019715,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Olkku",
+    "wof:parent_id":907198959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.69895,
+    61.09497,
+    27.69895,
+    61.09497
+],
+  "geometry": {"coordinates":[27.69895,61.09497],"type":"Point"}
+}

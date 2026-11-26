@@ -1,0 +1,80 @@
+{
+  "id": 9895021000,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0936,62.79297,30.0936,62.79297",
+    "geom:latitude":62.79297,
+    "geom:longitude":30.0936,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12766771: name \"Tavis\u00e4rkk\u00e4\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12766771"
+        },
+        {
+            "citation":"GeoNames populated place 12766771: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12766771"
+        },
+        {
+            "citation":"GeoNames populated place 12766771: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12766771"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199609 (Joensuu), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683133,
+        102191581,
+        136253047,
+        404227407,
+        907199609,
+        1159321551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12766771
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"3647c8fdb2e724f7435bc58840a60a46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321551,
+            "empire_id":136253047,
+            "localadmin_id":907199609,
+            "locality_id":9895021000,
+            "macroregion_id":404227407,
+            "region_id":85683133
+        }
+    ],
+    "wof:id":9895021000,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Tavis\u00e4rkk\u00e4",
+    "wof:parent_id":907199609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0936,
+    62.79297,
+    30.0936,
+    62.79297
+],
+  "geometry": {"coordinates":[30.0936,62.79297],"type":"Point"}
+}

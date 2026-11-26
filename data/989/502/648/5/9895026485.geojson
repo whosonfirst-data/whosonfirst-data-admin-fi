@@ -1,0 +1,80 @@
+{
+  "id": 9895026485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.14974,63.96302,26.14974,63.96302",
+    "geom:latitude":63.96302,
+    "geom:longitude":26.14974,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13243490: name \"Luomaper\u00e4\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13243490"
+        },
+        {
+            "citation":"GeoNames populated place 13243490: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13243490"
+        },
+        {
+            "citation":"GeoNames populated place 13243490: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13243490"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199465 (Karsamaki), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683143,
+        102191581,
+        136253047,
+        404227415,
+        907199465,
+        1159321591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13243490
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"8281a2ab35f1bc3c9f35c08da0037122",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321591,
+            "empire_id":136253047,
+            "localadmin_id":907199465,
+            "locality_id":9895026485,
+            "macroregion_id":404227415,
+            "region_id":85683143
+        }
+    ],
+    "wof:id":9895026485,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Luomaper\u00e4",
+    "wof:parent_id":907199465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.14974,
+    63.96302,
+    26.14974,
+    63.96302
+],
+  "geometry": {"coordinates":[26.14974,63.96302],"type":"Point"}
+}

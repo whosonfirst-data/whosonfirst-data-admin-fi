@@ -1,0 +1,80 @@
+{
+  "id": 9895024720,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.76857,63.27975,26.76857,63.27975",
+    "geom:latitude":63.27975,
+    "geom:longitude":26.76857,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13083902: name \"P\u00e4ij\u00e4nteenm\u00e4ki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13083902"
+        },
+        {
+            "citation":"GeoNames populated place 13083902: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13083902"
+        },
+        {
+            "citation":"GeoNames populated place 13083902: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13083902"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199287 (Pielavesi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683131,
+        102191581,
+        136253047,
+        404227407,
+        907199287,
+        1159321601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13083902
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"ae90b68356c190c43997b756c2790261",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321601,
+            "empire_id":136253047,
+            "localadmin_id":907199287,
+            "locality_id":9895024720,
+            "macroregion_id":404227407,
+            "region_id":85683131
+        }
+    ],
+    "wof:id":9895024720,
+    "wof:lastmodified":1795734963,
+    "wof:name":"P\u00e4ij\u00e4nteenm\u00e4ki",
+    "wof:parent_id":907199287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.76857,
+    63.27975,
+    26.76857,
+    63.27975
+],
+  "geometry": {"coordinates":[26.76857,63.27975],"type":"Point"}
+}

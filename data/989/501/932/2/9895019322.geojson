@@ -1,0 +1,80 @@
+{
+  "id": 9895019322,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.99405,60.52982,24.99405,60.52982",
+    "geom:latitude":60.52982,
+    "geom:longitude":24.99405,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12667297: name \"Tiensivu\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12667297"
+        },
+        {
+            "citation":"GeoNames populated place 12667297: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12667297"
+        },
+        {
+            "citation":"GeoNames populated place 12667297: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12667297"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907198631 (Tuusula), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683067,
+        102191581,
+        136253047,
+        404227411,
+        907198631,
+        1159321633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12667297
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"023ef577ec70c8b31d7ae0c09e4d89f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321633,
+            "empire_id":136253047,
+            "localadmin_id":907198631,
+            "locality_id":9895019322,
+            "macroregion_id":404227411,
+            "region_id":85683067
+        }
+    ],
+    "wof:id":9895019322,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Tiensivu",
+    "wof:parent_id":907198631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.99405,
+    60.52982,
+    24.99405,
+    60.52982
+],
+  "geometry": {"coordinates":[24.99405,60.52982],"type":"Point"}
+}

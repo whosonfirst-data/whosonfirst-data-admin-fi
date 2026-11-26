@@ -1,0 +1,80 @@
+{
+  "id": 9895018663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.84121,60.82741,22.84121,60.82741",
+    "geom:latitude":60.82741,
+    "geom:longitude":22.84121,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12600406: name \"Sulajoenkulma\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12600406"
+        },
+        {
+            "citation":"GeoNames populated place 12600406: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12600406"
+        },
+        {
+            "citation":"GeoNames populated place 12600406: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12600406"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907198963 (Loimaa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683073,
+        102191581,
+        136253047,
+        404227405,
+        907198963,
+        1159321505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12600406
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"baaf29473cbfe7bfae988518e8761d53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321505,
+            "empire_id":136253047,
+            "localadmin_id":907198963,
+            "locality_id":9895018663,
+            "macroregion_id":404227405,
+            "region_id":85683073
+        }
+    ],
+    "wof:id":9895018663,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Sulajoenkulma",
+    "wof:parent_id":907198963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.84121,
+    60.82741,
+    22.84121,
+    60.82741
+],
+  "geometry": {"coordinates":[22.84121,60.82741],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895026965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.62291,64.17412,28.62291,64.17412",
+    "geom:latitude":64.17412,
+    "geom:longitude":28.62291,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13332829: name \"Korpikyl\u00e4\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13332829"
+        },
+        {
+            "citation":"GeoNames populated place 13332829: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13332829"
+        },
+        {
+            "citation":"GeoNames populated place 13332829: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13332829"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199319 (Sotkamo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683137,
+        102191581,
+        136253047,
+        404227415,
+        907199319,
+        1159321487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13332829
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"cb4a29cf8de88a07119c3eb6118c8a4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321487,
+            "empire_id":136253047,
+            "localadmin_id":907199319,
+            "locality_id":9895026965,
+            "macroregion_id":404227415,
+            "region_id":85683137
+        }
+    ],
+    "wof:id":9895026965,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Korpikyl\u00e4",
+    "wof:parent_id":907199319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.62291,
+    64.17412,
+    28.62291,
+    64.17412
+],
+  "geometry": {"coordinates":[28.62291,64.17412],"type":"Point"}
+}

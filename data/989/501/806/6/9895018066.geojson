@@ -1,0 +1,80 @@
+{
+  "id": 9895018066,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.82054,60.61322,22.82054,60.61322",
+    "geom:latitude":60.61322,
+    "geom:longitude":22.82054,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12571385: name \"Ry\u00f6nummi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12571385"
+        },
+        {
+            "citation":"GeoNames populated place 12571385: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12571385"
+        },
+        {
+            "citation":"GeoNames populated place 12571385: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12571385"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199011 (Lieto), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683073,
+        102191581,
+        136253047,
+        404227405,
+        907199011,
+        1159321603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12571385
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"2771095074482b7fc5443d398f556e06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321603,
+            "empire_id":136253047,
+            "localadmin_id":907199011,
+            "locality_id":9895018066,
+            "macroregion_id":404227405,
+            "region_id":85683073
+        }
+    ],
+    "wof:id":9895018066,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Ry\u00f6nummi",
+    "wof:parent_id":907199011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.82054,
+    60.61322,
+    22.82054,
+    60.61322
+],
+  "geometry": {"coordinates":[22.82054,60.61322],"type":"Point"}
+}

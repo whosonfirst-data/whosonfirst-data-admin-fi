@@ -1,0 +1,81 @@
+{
+  "id": 9895017308,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.62337,60.22767,24.62337,60.22767",
+    "geom:latitude":60.22767,
+    "geom:longitude":24.62337,
+    "gn:population":2717,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 840809: name \"Karhusuo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/840809"
+        },
+        {
+            "citation":"GeoNames populated place 840809: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/840809"
+        },
+        {
+            "citation":"GeoNames populated place 840809: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/840809"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907198517 (Espoo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683067,
+        102191581,
+        136253047,
+        404227411,
+        907198517,
+        1159321633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":840809
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"e06c3d6a873567f66d74c4890c172821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321633,
+            "empire_id":136253047,
+            "localadmin_id":907198517,
+            "locality_id":9895017308,
+            "macroregion_id":404227411,
+            "region_id":85683067
+        }
+    ],
+    "wof:id":9895017308,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Karhusuo",
+    "wof:parent_id":907198517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.62337,
+    60.22767,
+    24.62337,
+    60.22767
+],
+  "geometry": {"coordinates":[24.62337,60.22767],"type":"Point"}
+}

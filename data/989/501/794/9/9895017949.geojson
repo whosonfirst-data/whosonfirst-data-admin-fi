@@ -1,0 +1,80 @@
+{
+  "id": 9895017949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.94122,61.46963,21.94122,61.46963",
+    "geom:latitude":61.46963,
+    "geom:longitude":21.94122,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12569146: name \"Karhukorpi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12569146"
+        },
+        {
+            "citation":"GeoNames populated place 12569146: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12569146"
+        },
+        {
+            "citation":"GeoNames populated place 12569146: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12569146"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907198905 (Ulvila), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683095,
+        102191581,
+        136253047,
+        404227405,
+        907198905,
+        1159321565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12569146
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"7ff162945ff8e2f90aceb6949c2dd9e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321565,
+            "empire_id":136253047,
+            "localadmin_id":907198905,
+            "locality_id":9895017949,
+            "macroregion_id":404227405,
+            "region_id":85683095
+        }
+    ],
+    "wof:id":9895017949,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Karhukorpi",
+    "wof:parent_id":907198905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.94122,
+    61.46963,
+    21.94122,
+    61.46963
+],
+  "geometry": {"coordinates":[21.94122,61.46963],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895024970,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.01417,63.48731,27.01417,63.48731",
+    "geom:latitude":63.48731,
+    "geom:longitude":27.01417,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13165469: name \"Haukilahti\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13165469"
+        },
+        {
+            "citation":"GeoNames populated place 13165469: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13165469"
+        },
+        {
+            "citation":"GeoNames populated place 13165469: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13165469"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199351 (Iisalmi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683131,
+        102191581,
+        136253047,
+        404227407,
+        907199351,
+        1159321601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13165469
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"2a001510845202bb1c182eb187254cb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321601,
+            "empire_id":136253047,
+            "localadmin_id":907199351,
+            "locality_id":9895024970,
+            "macroregion_id":404227407,
+            "region_id":85683131
+        }
+    ],
+    "wof:id":9895024970,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Haukilahti",
+    "wof:parent_id":907199351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.01417,
+    63.48731,
+    27.01417,
+    63.48731
+],
+  "geometry": {"coordinates":[27.01417,63.48731],"type":"Point"}
+}

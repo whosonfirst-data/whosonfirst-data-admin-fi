@@ -1,0 +1,80 @@
+{
+  "id": 9895024659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.92565,62.61965,24.92565,62.61965",
+    "geom:latitude":62.61965,
+    "geom:longitude":24.92565,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13080192: name \"Viinaper\u00e4\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13080192"
+        },
+        {
+            "citation":"GeoNames populated place 13080192: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13080192"
+        },
+        {
+            "citation":"GeoNames populated place 13080192: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13080192"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199213 (Saarijarvi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683117,
+        102191581,
+        136253047,
+        404227417,
+        907199213,
+        1159321515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13080192
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"11be946bce9003240f4876766b83acf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321515,
+            "empire_id":136253047,
+            "localadmin_id":907199213,
+            "locality_id":9895024659,
+            "macroregion_id":404227417,
+            "region_id":85683117
+        }
+    ],
+    "wof:id":9895024659,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Viinaper\u00e4",
+    "wof:parent_id":907199213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.92565,
+    62.61965,
+    24.92565,
+    62.61965
+],
+  "geometry": {"coordinates":[24.92565,62.61965],"type":"Point"}
+}

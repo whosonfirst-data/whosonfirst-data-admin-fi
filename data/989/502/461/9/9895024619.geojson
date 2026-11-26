@@ -1,0 +1,80 @@
+{
+  "id": 9895024619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.50129,62.91037,25.50129,62.91037",
+    "geom:latitude":62.91037,
+    "geom:longitude":25.50129,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13078198: name \"Lakom\u00e4ki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13078198"
+        },
+        {
+            "citation":"GeoNames populated place 13078198: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13078198"
+        },
+        {
+            "citation":"GeoNames populated place 13078198: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13078198"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199227 (Kannonkoski), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683117,
+        102191581,
+        136253047,
+        404227417,
+        907199227,
+        1159321515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13078198
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"cc818d794d29a8818549d4659274dc2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321515,
+            "empire_id":136253047,
+            "localadmin_id":907199227,
+            "locality_id":9895024619,
+            "macroregion_id":404227417,
+            "region_id":85683117
+        }
+    ],
+    "wof:id":9895024619,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Lakom\u00e4ki",
+    "wof:parent_id":907199227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.50129,
+    62.91037,
+    25.50129,
+    62.91037
+],
+  "geometry": {"coordinates":[25.50129,62.91037],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895019292,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.04838,60.93979,26.04838,60.93979",
+    "geom:latitude":60.93979,
+    "geom:longitude":26.04838,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12666600: name \"P\u00f6nn\u00f6l\u00e4nm\u00e4ki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12666600"
+        },
+        {
+            "citation":"GeoNames populated place 12666600: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12666600"
+        },
+        {
+            "citation":"GeoNames populated place 12666600: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12666600"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907198647 (Lahti), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683091,
+        102191581,
+        136253047,
+        404227411,
+        907198647,
+        1159321483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12666600
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"8679044c9f3e2a5c88e90d24f2d6914c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321483,
+            "empire_id":136253047,
+            "localadmin_id":907198647,
+            "locality_id":9895019292,
+            "macroregion_id":404227411,
+            "region_id":85683091
+        }
+    ],
+    "wof:id":9895019292,
+    "wof:lastmodified":1795734963,
+    "wof:name":"P\u00f6nn\u00f6l\u00e4nm\u00e4ki",
+    "wof:parent_id":907198647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.04838,
+    60.93979,
+    26.04838,
+    60.93979
+],
+  "geometry": {"coordinates":[26.04838,60.93979],"type":"Point"}
+}

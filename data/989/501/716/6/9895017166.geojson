@@ -1,0 +1,80 @@
+{
+  "id": 9895017166,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.72234,62.16822,22.72234,62.16822",
+    "geom:latitude":62.16822,
+    "geom:longitude":22.72234,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 655599: name \"Jouppilankyl\u00e4\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/655599"
+        },
+        {
+            "citation":"GeoNames populated place 655599: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/655599"
+        },
+        {
+            "citation":"GeoNames populated place 655599: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/655599"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199119 (Karvia), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683095,
+        102191581,
+        136253047,
+        404227405,
+        907199119,
+        1159321519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":655599
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"c1dfd264aeb1e7f0f85a8c6edaa66bb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321519,
+            "empire_id":136253047,
+            "localadmin_id":907199119,
+            "locality_id":9895017166,
+            "macroregion_id":404227405,
+            "region_id":85683095
+        }
+    ],
+    "wof:id":9895017166,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Jouppilankyl\u00e4",
+    "wof:parent_id":907199119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.72234,
+    62.16822,
+    22.72234,
+    62.16822
+],
+  "geometry": {"coordinates":[22.72234,62.16822],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895019338,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.24464,60.34727,24.24464,60.34727",
+    "geom:latitude":60.34727,
+    "geom:longitude":24.24464,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12667674: name \"Lepp\u00e4rl\u00e4\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12667674"
+        },
+        {
+            "citation":"GeoNames populated place 12667674: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12667674"
+        },
+        {
+            "citation":"GeoNames populated place 12667674: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12667674"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907198595 (Vihti), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683067,
+        102191581,
+        136253047,
+        404227411,
+        907198595,
+        1159321633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12667674
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"a806d429690f540099c9e505bd7ed109",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321633,
+            "empire_id":136253047,
+            "localadmin_id":907198595,
+            "locality_id":9895019338,
+            "macroregion_id":404227411,
+            "region_id":85683067
+        }
+    ],
+    "wof:id":9895019338,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Lepp\u00e4rl\u00e4",
+    "wof:parent_id":907198595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.24464,
+    60.34727,
+    24.24464,
+    60.34727
+],
+  "geometry": {"coordinates":[24.24464,60.34727],"type":"Point"}
+}

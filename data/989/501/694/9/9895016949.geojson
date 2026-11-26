@@ -1,0 +1,80 @@
+{
+  "id": 9895016949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.20623,63.30337,29.20623,63.30337",
+    "geom:latitude":63.30337,
+    "geom:longitude":29.20623,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 647675: name \"Lonkaanvaara\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/647675"
+        },
+        {
+            "citation":"GeoNames populated place 647675: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/647675"
+        },
+        {
+            "citation":"GeoNames populated place 647675: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/647675"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199389 (Juuka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683133,
+        102191581,
+        136253047,
+        404227407,
+        907199389,
+        1159321551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":647675
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"7f7f15b47f34e1dd3cde1f8fc44d05b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321551,
+            "empire_id":136253047,
+            "localadmin_id":907199389,
+            "locality_id":9895016949,
+            "macroregion_id":404227407,
+            "region_id":85683133
+        }
+    ],
+    "wof:id":9895016949,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Lonkaanvaara",
+    "wof:parent_id":907199389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.20623,
+    63.30337,
+    29.20623,
+    63.30337
+],
+  "geometry": {"coordinates":[29.20623,63.30337],"type":"Point"}
+}

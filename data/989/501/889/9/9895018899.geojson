@@ -1,0 +1,80 @@
+{
+  "id": 9895018899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.78041,61.07067,21.78041,61.07067",
+    "geom:latitude":61.07067,
+    "geom:longitude":21.78041,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12631681: name \"Kauklainen\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12631681"
+        },
+        {
+            "citation":"GeoNames populated place 12631681: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12631681"
+        },
+        {
+            "citation":"GeoNames populated place 12631681: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12631681"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907198665 (Rauma), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683095,
+        102191581,
+        136253047,
+        404227405,
+        907198665,
+        1159321607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12631681
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"276d397c18129f3f5be0a24618de4bd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321607,
+            "empire_id":136253047,
+            "localadmin_id":907198665,
+            "locality_id":9895018899,
+            "macroregion_id":404227405,
+            "region_id":85683095
+        }
+    ],
+    "wof:id":9895018899,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Kauklainen",
+    "wof:parent_id":907198665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.78041,
+    61.07067,
+    21.78041,
+    61.07067
+],
+  "geometry": {"coordinates":[21.78041,61.07067],"type":"Point"}
+}

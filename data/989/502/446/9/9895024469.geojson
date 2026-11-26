@@ -1,0 +1,80 @@
+{
+  "id": 9895024469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.41161,63.07981,24.41161,63.07981",
+    "geom:latitude":63.07981,
+    "geom:longitude":24.41161,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13069466: name \"Keskikyl\u00e4\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13069466"
+        },
+        {
+            "citation":"GeoNames populated place 13069466: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13069466"
+        },
+        {
+            "citation":"GeoNames populated place 13069466: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13069466"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199107 (Kyyjarvi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683117,
+        102191581,
+        136253047,
+        404227417,
+        907199107,
+        1159321515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13069466
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"4520947a3a2af3eefea265961c9bbe84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321515,
+            "empire_id":136253047,
+            "localadmin_id":907199107,
+            "locality_id":9895024469,
+            "macroregion_id":404227417,
+            "region_id":85683117
+        }
+    ],
+    "wof:id":9895024469,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Keskikyl\u00e4",
+    "wof:parent_id":907199107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.41161,
+    63.07981,
+    24.41161,
+    63.07981
+],
+  "geometry": {"coordinates":[24.41161,63.07981],"type":"Point"}
+}

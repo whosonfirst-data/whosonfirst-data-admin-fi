@@ -1,0 +1,80 @@
+{
+  "id": 9895026683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.47339,63.53295,27.47339,63.53295",
+    "geom:latitude":63.53295,
+    "geom:longitude":27.47339,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13249958: name \"Niuvankyl\u00e4\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13249958"
+        },
+        {
+            "citation":"GeoNames populated place 13249958: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13249958"
+        },
+        {
+            "citation":"GeoNames populated place 13249958: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13249958"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199351 (Iisalmi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683131,
+        102191581,
+        136253047,
+        404227407,
+        907199351,
+        1159321601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13249958
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"19ed5707381dfcf5b9a830b9cf340fa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321601,
+            "empire_id":136253047,
+            "localadmin_id":907199351,
+            "locality_id":9895026683,
+            "macroregion_id":404227407,
+            "region_id":85683131
+        }
+    ],
+    "wof:id":9895026683,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Niuvankyl\u00e4",
+    "wof:parent_id":907199351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.47339,
+    63.53295,
+    27.47339,
+    63.53295
+],
+  "geometry": {"coordinates":[27.47339,63.53295],"type":"Point"}
+}

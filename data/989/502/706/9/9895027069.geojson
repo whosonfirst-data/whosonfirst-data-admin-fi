@@ -1,0 +1,80 @@
+{
+  "id": 9895027069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.39154,65.21874,26.39154,65.21874",
+    "geom:latitude":65.21874,
+    "geom:longitude":26.39154,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13341273: name \"Levo-oja\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13341273"
+        },
+        {
+            "citation":"GeoNames populated place 13341273: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13341273"
+        },
+        {
+            "citation":"GeoNames populated place 13341273: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13341273"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199499 (Pudasjarvi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683143,
+        102191581,
+        136253047,
+        404227415,
+        907199499,
+        1159321497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13341273
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"d4f7aa2bedcaf78128c7f3a603f41952",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321497,
+            "empire_id":136253047,
+            "localadmin_id":907199499,
+            "locality_id":9895027069,
+            "macroregion_id":404227415,
+            "region_id":85683143
+        }
+    ],
+    "wof:id":9895027069,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Levo-oja",
+    "wof:parent_id":907199499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.39154,
+    65.21874,
+    26.39154,
+    65.21874
+],
+  "geometry": {"coordinates":[26.39154,65.21874],"type":"Point"}
+}

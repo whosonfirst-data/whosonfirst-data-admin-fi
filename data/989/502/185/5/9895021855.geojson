@@ -1,0 +1,80 @@
+{
+  "id": 9895021855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.14382,62.47898,21.14382,62.47898",
+    "geom:latitude":62.47898,
+    "geom:longitude":21.14382,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12843407: name \"\u00d6skatan\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12843407"
+        },
+        {
+            "citation":"GeoNames populated place 12843407: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12843407"
+        },
+        {
+            "citation":"GeoNames populated place 12843407: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12843407"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199661 (Narpio), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683119,
+        102191581,
+        136253047,
+        404227417,
+        907199661,
+        1159321495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12843407
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"d5338962dfef50e2d8e4b3484882c427",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321495,
+            "empire_id":136253047,
+            "localadmin_id":907199661,
+            "locality_id":9895021855,
+            "macroregion_id":404227417,
+            "region_id":85683119
+        }
+    ],
+    "wof:id":9895021855,
+    "wof:lastmodified":1795734963,
+    "wof:name":"\u00d6skatan",
+    "wof:parent_id":907199661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.14382,
+    62.47898,
+    21.14382,
+    62.47898
+],
+  "geometry": {"coordinates":[21.14382,62.47898],"type":"Point"}
+}

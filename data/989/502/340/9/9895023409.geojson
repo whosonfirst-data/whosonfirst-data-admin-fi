@@ -1,0 +1,80 @@
+{
+  "id": 9895023409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.71305,61.83459,27.71305,61.83459",
+    "geom:latitude":61.83459,
+    "geom:longitude":27.71305,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12926764: name \"Oivarinkangas\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12926764"
+        },
+        {
+            "citation":"GeoNames populated place 12926764: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12926764"
+        },
+        {
+            "citation":"GeoNames populated place 12926764: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12926764"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907198761 (Juva), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683109,
+        102191581,
+        136253047,
+        404227407,
+        907198761,
+        1159321615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12926764
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"5519fe3b25ab0a5a3e1de78b484ca96e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321615,
+            "empire_id":136253047,
+            "localadmin_id":907198761,
+            "locality_id":9895023409,
+            "macroregion_id":404227407,
+            "region_id":85683109
+        }
+    ],
+    "wof:id":9895023409,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Oivarinkangas",
+    "wof:parent_id":907198761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.71305,
+    61.83459,
+    27.71305,
+    61.83459
+],
+  "geometry": {"coordinates":[27.71305,61.83459],"type":"Point"}
+}

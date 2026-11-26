@@ -1,0 +1,80 @@
+{
+  "id": 9895022600,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.67915,62.49148,25.67915,62.49148",
+    "geom:latitude":62.49148,
+    "geom:longitude":25.67915,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12880744: name \"Hirvaskyl\u00e4\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12880744"
+        },
+        {
+            "citation":"GeoNames populated place 12880744: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12880744"
+        },
+        {
+            "citation":"GeoNames populated place 12880744: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12880744"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199197 (Uurainen), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683117,
+        102191581,
+        136253047,
+        404227417,
+        907199197,
+        1159321625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12880744
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"65c8fb5336d324d5550331bf62ffb3a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321625,
+            "empire_id":136253047,
+            "localadmin_id":907199197,
+            "locality_id":9895022600,
+            "macroregion_id":404227417,
+            "region_id":85683117
+        }
+    ],
+    "wof:id":9895022600,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Hirvaskyl\u00e4",
+    "wof:parent_id":907199197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.67915,
+    62.49148,
+    25.67915,
+    62.49148
+],
+  "geometry": {"coordinates":[25.67915,62.49148],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 9895020134,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.46139,61.4756,29.46139,61.4756",
+    "geom:latitude":61.4756,
+    "geom:longitude":29.46139,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12717961: name \"Hovinniemi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12717961"
+        },
+        {
+            "citation":"GeoNames populated place 12717961: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12717961"
+        },
+        {
+            "citation":"GeoNames populated place 12717961: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12717961"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907198853 (Parikkala), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683103,
+        102191581,
+        136253047,
+        404227411,
+        907198853,
+        1159321507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12717961
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"79d683dceebe0f5a5afc4cd4fef9cdfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321507,
+            "empire_id":136253047,
+            "localadmin_id":907198853,
+            "locality_id":9895020134,
+            "macroregion_id":404227411,
+            "region_id":85683103
+        }
+    ],
+    "wof:id":9895020134,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Hovinniemi",
+    "wof:parent_id":907198853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.46139,
+    61.4756,
+    29.46139,
+    61.4756
+],
+  "geometry": {"coordinates":[29.46139,61.4756],"type":"Point"}
+}

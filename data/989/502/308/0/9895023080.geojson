@@ -1,0 +1,80 @@
+{
+  "id": 9895023080,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.52797,62.35588,27.52797,62.35588",
+    "geom:latitude":62.35588,
+    "geom:longitude":27.52797,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12914499: name \"Taipale\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12914499"
+        },
+        {
+            "citation":"GeoNames populated place 12914499: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12914499"
+        },
+        {
+            "citation":"GeoNames populated place 12914499: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12914499"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199013 (Pieksamaki), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683109,
+        102191581,
+        136253047,
+        404227407,
+        907199013,
+        1159321615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12914499
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"7630a49ca3bc0841f1de036b74b29956",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321615,
+            "empire_id":136253047,
+            "localadmin_id":907199013,
+            "locality_id":9895023080,
+            "macroregion_id":404227407,
+            "region_id":85683109
+        }
+    ],
+    "wof:id":9895023080,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Taipale",
+    "wof:parent_id":907199013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.52797,
+    62.35588,
+    27.52797,
+    62.35588
+],
+  "geometry": {"coordinates":[27.52797,62.35588],"type":"Point"}
+}

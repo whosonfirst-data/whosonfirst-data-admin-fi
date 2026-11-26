@@ -1,0 +1,80 @@
+{
+  "id": 9895017246,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.16488,63.43502,28.16488,63.43502",
+    "geom:latitude":63.43502,
+    "geom:longitude":28.16488,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 658766: name \"Harsum\u00e4ki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/658766"
+        },
+        {
+            "citation":"GeoNames populated place 658766: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/658766"
+        },
+        {
+            "citation":"GeoNames populated place 658766: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/658766"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199323 (Rautavaara), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683131,
+        102191581,
+        136253047,
+        404227407,
+        907199323,
+        1159321579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":658766
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"da7c9e60f9107acc24caee1dd3f082e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321579,
+            "empire_id":136253047,
+            "localadmin_id":907199323,
+            "locality_id":9895017246,
+            "macroregion_id":404227407,
+            "region_id":85683131
+        }
+    ],
+    "wof:id":9895017246,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Harsum\u00e4ki",
+    "wof:parent_id":907199323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.16488,
+    63.43502,
+    28.16488,
+    63.43502
+],
+  "geometry": {"coordinates":[28.16488,63.43502],"type":"Point"}
+}

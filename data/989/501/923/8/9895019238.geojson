@@ -1,0 +1,80 @@
+{
+  "id": 9895019238,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.6574,60.98124,24.6574,60.98124",
+    "geom:latitude":60.98124,
+    "geom:longitude":24.6574,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12665077: name \"S\u00e4\u00e4j\u00e4rvi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12665077"
+        },
+        {
+            "citation":"GeoNames populated place 12665077: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12665077"
+        },
+        {
+            "citation":"GeoNames populated place 12665077: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12665077"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199113 (Janakkala), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683077,
+        102191581,
+        136253047,
+        404227411,
+        907199113,
+        1159321513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12665077
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"0a779eb15cee9452939cc0437f71910e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321513,
+            "empire_id":136253047,
+            "localadmin_id":907199113,
+            "locality_id":9895019238,
+            "macroregion_id":404227411,
+            "region_id":85683077
+        }
+    ],
+    "wof:id":9895019238,
+    "wof:lastmodified":1795734963,
+    "wof:name":"S\u00e4\u00e4j\u00e4rvi",
+    "wof:parent_id":907199113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.6574,
+    60.98124,
+    24.6574,
+    60.98124
+],
+  "geometry": {"coordinates":[24.6574,60.98124],"type":"Point"}
+}

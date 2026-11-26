@@ -1,0 +1,80 @@
+{
+  "id": 9895025686,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.42505,63.47566,28.42505,63.47566",
+    "geom:latitude":63.47566,
+    "geom:longitude":28.42505,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13203263: name \"Kyl\u00e4np\u00e4\u00e4\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13203263"
+        },
+        {
+            "citation":"GeoNames populated place 13203263: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13203263"
+        },
+        {
+            "citation":"GeoNames populated place 13203263: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13203263"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199323 (Rautavaara), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683131,
+        102191581,
+        136253047,
+        404227407,
+        907199323,
+        1159321579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13203263
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"1abbd09e9d3fac2bc29fd7d697b9048a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321579,
+            "empire_id":136253047,
+            "localadmin_id":907199323,
+            "locality_id":9895025686,
+            "macroregion_id":404227407,
+            "region_id":85683131
+        }
+    ],
+    "wof:id":9895025686,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Kyl\u00e4np\u00e4\u00e4",
+    "wof:parent_id":907199323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.42505,
+    63.47566,
+    28.42505,
+    63.47566
+],
+  "geometry": {"coordinates":[28.42505,63.47566],"type":"Point"}
+}

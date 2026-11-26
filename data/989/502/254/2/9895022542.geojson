@@ -1,0 +1,80 @@
+{
+  "id": 9895022542,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.70656,61.60286,24.70656,61.60286",
+    "geom:latitude":61.60286,
+    "geom:longitude":24.70656,
+    "iso:country":"FI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12877414: name \"Majo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12877414"
+        },
+        {
+            "citation":"GeoNames populated place 12877414: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12877414"
+        },
+        {
+            "citation":"GeoNames populated place 12877414: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12877414"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 907199393 (Orivesi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633143,
+        85683099,
+        102191581,
+        136253047,
+        404227417,
+        907199393,
+        1159321521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12877414
+    },
+    "wof:country":"FI",
+    "wof:geomhash":"eb92c63b34ce326c08781f7014e08e28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321521,
+            "empire_id":136253047,
+            "localadmin_id":907199393,
+            "locality_id":9895022542,
+            "macroregion_id":404227417,
+            "region_id":85683099
+        }
+    ],
+    "wof:id":9895022542,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Majo",
+    "wof:parent_id":907199393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.70656,
+    61.60286,
+    24.70656,
+    61.60286
+],
+  "geometry": {"coordinates":[24.70656,61.60286],"type":"Point"}
+}
